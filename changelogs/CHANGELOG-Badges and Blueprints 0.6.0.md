@@ -58,6 +58,8 @@ Summary of changes here:
 - Supplementaries (3.5.17) -> (3.5.24)
 - Xaero's Maps x Waystones (2.6.0) -> (2.6.1)
 
+</details>
+
 <details>
 <summary>Removed (15)</summary>
 
@@ -71,3 +73,4 @@ Summary of changes here:
 </blockquote>
 
 </details>
+
