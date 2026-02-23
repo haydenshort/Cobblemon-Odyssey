@@ -44,7 +44,7 @@ Summary of changes here:
   
 - Bosses Rise (2.0.3a) -> (1.1.3)
 - Cobbled Furnies (1.0) -> (1.1)
-- Cobbleloots (2.1.0) -> (2.2.1)
+- Cobbleloots (2.1.0) -> (2.2.0)
 - Cobblemon Firework Capsules (2.0.0) -> (2.1.0)
 - Cobblemon Raid Dens (0.7.5) -> (0.7.6)
 - Create: Enchantment Industry (2.2.5b) -> (2.3.0)
