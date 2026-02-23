@@ -24,6 +24,8 @@ ServerEvents.tags("item", event => {
 
     event.remove("minecraft:head_armor",["pkgbadges:alians_scraf_helmet"])
     event.add("minecraft:head_armor",["pkgbadges:alians_scraf"])
+
+    event.add("curious:head", "#simplehats:all_hats")
 })
 
 ServerEvents.tags("block", event => {
