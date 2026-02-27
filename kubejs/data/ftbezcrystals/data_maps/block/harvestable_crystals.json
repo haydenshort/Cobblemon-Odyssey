@@ -332,42 +332,6 @@
       "budding_block": [
         "minecraft:budding_amethyst"
       ]
-    },
-    "cobblemon:black_tumblestone_cluster": {
-      "neoforge:conditions": [
-        {
-          "type": "neoforge:mod_loaded",
-          "modid": "cobblemon"
-        }
-      ],
-      "bud": "cobblemon:small_budding_black_tumblestone",
-      "budding_block": [
-        "minecreaft:magma_block"
-      ]
-    },
-    "cobblemon:tumblestone_cluster": {
-      "neoforge:conditions": [
-        {
-          "type": "neoforge:mod_loaded",
-          "modid": "cobblemon"
-        }
-      ],
-      "bud": "cobblemon:small_budding_tumblestone",
-      "budding_block": [
-        "minecreaft:magma_block"
-      ]
-    },
-    "cobblemon:sky_tumblestone_cluster": {
-      "neoforge:conditions": [
-        {
-          "type": "neoforge:mod_loaded",
-          "modid": "cobblemon"
-        }
-      ],
-      "bud": "cobblemon:small_budding_sky_tumblestone",
-      "budding_block": [
-        "minecreaft:magma_block"
-      ]
     }
   }
 }
