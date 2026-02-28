@@ -55,7 +55,6 @@ Summary of changes here:
 - Structurify (2.0.17) -> (2.0.18)
 - Supplementaries (3.5.24) -> (3.5.25)
 - Waystones (21.1.27) -> (21.1.28)
-- WorldWeaver (21.0.18) -> (21.0.19)
 
 </details>
 
