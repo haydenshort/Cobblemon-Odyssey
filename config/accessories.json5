@@ -12,8 +12,8 @@
 		"showUnusedSlots": false,
 		"allowSlotScrolling": true,
 		"inventoryButtonOffset": {
-			"x": 27,
-			"y": 8
+			"x": 28,
+			"y": 66
 		},
 		"creativeInventoryButtonOffset": {
 			"x": 96,
@@ -37,5 +37,34 @@
 			"darkenedOpacity": 1.0
 		}
 	},
-	"modifiers": []
+	"modifiers": [
+		{
+        	"slotType": "hat",
+        	"amount": -1
+    	},
+		{
+			"slotType": "shoes",
+			"amount": -1
+		},
+		{
+			"slotType": "necklace",
+			"amount": -1
+		},
+		{
+			"slotType": "hand",
+			"amount": -2
+		},
+		{
+			"slotType": "belt",
+			"amount": -1
+		},
+		{
+			"slotType": "back",
+			"amount": -1
+		},
+		{
+			"slotType": "calendarslot",
+			"amount": -1
+		}
+	]
 }
