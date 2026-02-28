@@ -42,6 +42,11 @@ const removeById = [
     "actuallyadditions:rice",
     "starcatcher:rod",
     "starcatcher:rod_from_vanilla",
+    "justhammers:netherite_hammer",
+    "justhammers:netherite_impact_hammer",
+    "justhammers:netherite_reinforced_hammer",
+    "justhammers:netherite_reinforced_impact_hammer",
+    "justhammers:netherite_destructor_hammer",
 ]
 
 const removeByInput = [
