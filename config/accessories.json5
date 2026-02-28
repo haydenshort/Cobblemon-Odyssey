@@ -39,10 +39,6 @@
 	},
 	"modifiers": [
 		{
-        	"slotType": "hat",
-        	"amount": -1
-    	},
-		{
 			"slotType": "shoes",
 			"amount": -1
 		},
