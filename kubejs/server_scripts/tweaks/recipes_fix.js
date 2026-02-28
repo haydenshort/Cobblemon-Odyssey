@@ -57,6 +57,10 @@ KubeJSTweaks.beforeRecipes(event => {
 	    entry.replaceValueAtKey("ingredients", "tag", "c:glass", "c:glass_blocks")
     })
 
+    event.getEntry(/^betterend:.*_berry_jelly/).forEach(entry => {
+	    entry.replaceValueAtKey("ingredients", "tag", "wover:water_bottles", "c:drinks/honey")
+    })
+
     event.getEntry("mushroomquest:artistconkr").forEach(entry => {
         entry.replaceValueAtKey("ingredients", "tag", "forge:dyes", "c:dyes")
     })
