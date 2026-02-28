@@ -9,3 +9,8 @@ Need Help?
 ======
 Post support messages in the following discord channel:
 + [Cobblemon Odyssey Support](https://discord.com/channels/928407729863815178/1474505248713343231)
+
+[Changelog Directory]
+======
+
+[Changelog Directory]: ./CHANGELOGS.md
