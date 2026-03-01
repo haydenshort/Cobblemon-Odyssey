@@ -10,7 +10,7 @@ ServerEvents.recipes((event) => {
     event.shaped(
         Item.of("createmonballsoverhaul:rubber_stamp_lid", 1),
         ["aaa", "aba", "ccc"],
-        {a: "minecraft:stick", b: "#createmonballsoverhaul:spherical_shaped_items_for_lids", c: "refinedstorage:silicon"}
+        {a: "minecraft:stick", b: "#createmonballsoverhaul:spherical_shaped_items_for_lids", c: "#c:silicon"}
     )
 
     event.smithing(
