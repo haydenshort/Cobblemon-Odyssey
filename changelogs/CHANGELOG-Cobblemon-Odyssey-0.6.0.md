@@ -17,7 +17,9 @@ Summary of changes here:
 ## Mods
 
 <details open>
-<summary>Added (6)</summary>
+<summary>Added (1)</summary>
+
+- NeoAuth (1.0.0)
 
 </details>
 
