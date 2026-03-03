@@ -1,0 +1,1951 @@
+o-----------------------------------------------------o
+| Badges and Blueprints                               |
+| Pokémon Changes (v0.2.0)                            |
+o-----------------------------------------------------o
+
+=========================================================
+General Notes
+=========================================================
+
+As the years go on, Pokémon has become more and more "easy" to casual players. With this in mind, I opted to tweak a few things in the modpack!
+
+Cobblemon Expanded will now feature an assortment of changes based around Blaze Black and Volt White 2 Redux by AphexCubed and Drayano, with minor tweaks from the rom hack Radical Red, and a few of my own personal tweaks.
+
+This will mainly be changes to stats, movesets, and abilities, however this is subject to change.
+
+Listed below are the current changes to Pokémon in the pack.
+
+=========================================================
+Type Changes
+=========================================================
+
+Certain Pokémon have had their types changed to 'non-canon' combinations.
+ - These include changes made in Renegade Platinum, Blaze Black 2 and Volt White 2.
+ - There are also some additional changes made in Radical Red and some personal changes.
+
+At a glance, here are all the Pokémon with new type combinations:
+
+   Gen I: Spearow, Fearow, Ninetales, Golduck, Rapidash, Farfetch'd, Shellder.
+   Gen VII: Rattata (Alolan), Raticate (Alolan)
+
+=========================================================
+Specific Changes
+=========================================================
+
+===================
+001 - Bulbasaur
+===================
+Ability:
+Old     Overgrow / Overgrow / Chlorophyll
+New     Solar Power / Overgrow / Chlorophyll
+
+Moves:
+Now compatible with TM56, Weather Ball.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Ancient Power [*]
+1 - Block [*]
+1 - Tackle
+1 - Growl
+4 - Vine Whip
+7 - Worry Seed
+10 - Razor Leaf
+13 - Poison Powder
+13 - Stun Spore
+16 - Charm
+19 - Magical Leaf
+22 - Sludge
+25 - Nature Power 
+28 - Seed Bomb
+31 - Take Down
+34 - Leech Seed
+37 - Natural Gift
+40 - Amnesia
+43 - Double-Edge
+46 - Synthesis
+
+===================
+002 - Ivysaur
+===================
+Ability:
+Old     Overgrow / Overgrow / Chlorophyll
+New     Solar Power / Overgrow / Chlorophyll
+
+Moves:
+Now compatible with TM56, Weather Ball.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Ancient Power [*]
+1 - Block [*]
+1 - Tackle
+1 - Growl
+4 - Vine Whip
+7 - Worry Seed
+10 - Razor Leaf
+13 - Poison Powder
+13 - Stun Spore
+16 - Charm
+19 - Magical Leaf
+22 - Sludge
+25 - Nature Power
+28 - Seed Bomb
+31 - Take Down
+34 - Leech Seed
+37 - Natural Gift
+40 - Amnesia
+43 - Double-Edge
+46 - Synthesis
+49 - Growth
+52 - Earth Power
+55 - Sleep Powder
+
+===================
+003 - Venusaur
+===================
+Base Stats:
+Old     80 HP / 82 Atk / 83 Def / 100 SAtk / 100 SDef / 80 Spd / 525 BST
+New     80 HP / 87 Atk / 85 Def / 103 SAtk / 100 SDef / 80 Spd / 535 BST
+
+Ability:
+Old     Overgrow / Overgrow / Chlorophyll
+New     Solar Power / Overgrow / Chlorophyll
+
+Moves:
+Now compatible with TM34, Sludge Wave.
+Now compatible with TM56, Weather Ball.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Ancient Power [*]
+1 - Block [*]
+1 - Tackle
+1 - Growl
+7 - Worry Seed
+10 - Razor Leaf
+13 - Poison Powder
+13 - Stun Spore
+16 - Charm
+19 - Magical Leaf
+22 - Sludge
+25 - Nature Power
+28 - Seed Bomb
+31 - Take Down
+32 - Petal Dance
+34 - Leech Seed
+37 - Natural Gift
+40 - Amnesia
+43 - Double-Edge
+46 - Synthesis
+50 - Growth
+54 - Earth Power
+58 - Sleep Powder
+63 - Power Whip
+68 - Leaf Storm
+
+===================
+003 - Mega Venusaur
+===================
+Base Stats:
+Old     80 HP / 100 Atk / 123 Def / 122 SAtk / 120 SDef / 80 Spd / 625 BST
+New     80 HP / 105 Atk / 125 Def / 125 SAtk / 120 SDef / 80 Spd / 635 BST
+
+===================
+004 - Charmander
+===================
+Ability:
+Old     Blaze / Blaze / Solar Power
+New     Defiant / Blaze / Solar Power
+
+Moves:
+Now compatible with TM54, False Swipe. [*]
+Now compatible with TM62, Acrobatics. [*]
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Block [*]
+1 - Howl [*]
+1 - Scratch
+1 - Growl
+5 - Ember
+7 - Twister
+10 - Seismic Toss
+13 - Breaking Swipe
+17 - Quick Attack [*]
+19 - Dragon Breath
+22 - Flame Burst
+25 - Metal Claw
+28 - Scary Face
+31 - Body Slam
+34 - Crunch
+37 - Inferno
+40 - Raging Fury
+43 - Heat Crash
+46 - Flamethrower
+49 - Flare Blitz
+
+===================
+005 - Charmeleon
+===================
+Ability:
+Old     Blaze / Blaze / Solar Power
+New     Defiant / Blaze / Solar Power
+
+Moves:
+Now compatible with TM47, Low Sweep.
+Now compatible with TM54, False Swipe. [*]
+Now compatible with TM62, Acrobatics. [*]
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Block [*]
+1 - Howl [*]
+1 - Scratch
+1 - Growl
+5 - Ember
+7 - Twister
+10 - Seismic Toss
+13 - Breaking Swipe
+16 - Fire Fang
+17 - Quick Attack [*]
+20 - Dragon Breath
+22 - Flame Burst
+25 - Metal Claw
+28 - Scary Face
+31 - Blaze Kick
+34 - Body Slam
+37 - Crunch
+40 - Raging Fury
+43 - Inferno
+46 - Fire Lash
+49 - Heat Crash
+52 - Dragon Rush
+55 - Flare Blitz
+
+===================
+006 - Charizard
+===================
+Base Stats:
+Old     78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd / 534 BST
+New     75 HP / 101 Atk / 75 Def / 109 SAtk / 75 SDef / 100 Spd / 535 BST
+
+Ability:
+Old     Blaze / Blaze / Solar Power
+New     Defiant / Blaze / Solar Power
+
+Moves:
+Now compatible with TM47, Low Sweep.
+Now compatible with TM54, False Swipe. [*]
+Now compatible with TM58, Hurricane.
+Now compatible with TM62, Acrobatics. [*]
+Now compatible with Draco Meteor from the Move Tutor.
+Compatible with some Gen 6-9 Moves via TM and Breeding. 
+
+Level Up:
+1 - Belly Drum
+1 - Block [*]
+1 - Howl [*]
+4 - Ember
+7 - Smokescreen
+10 - Seismic Toss
+13 - Breaking Swipe
+16 - Fire Fang
+17 - Quick Attack [*]
+20 - Dragon Breath
+22 - Flame Burst
+25 - Metal Claw
+28 - Scary Face
+31 - Blaze Kick
+34 - Body Slam
+36 - Air Slash
+37 - Crunch
+40 - Raging Fury
+43 - Inferno
+46 - Fire Lash
+50 - Scorching Sands
+54 - Heat Crash
+58 - Dragon Rush
+62 - Flare Blitz
+66 - Dragon Dance
+
+===================
+006 - Mega Charizard X
+===================
+Base Stats:
+Old     78 HP / 130 Atk / 111 Def / 130 SAtk / 85 SDef / 100 Spd / 634 BST
+New     75 HP / 160 Atk / 110 Def / 105 SAtk / 85 SDef / 100 Spd / 635 BST
+
+===================
+006 - Mega Charizard Y
+===================
+Base Stats:
+Old     78 HP / 104 Atk / 78 Def / 159 SAtk / 115 SDef / 100 Spd / 634 BST
+New     75 HP / 105 Atk / 85 Def / 160 SAtk / 110 SDef / 100 Spd / 635 BST
+
+===================
+007 - Squirtle
+===================
+Ability:
+Old     Torrent / Torrent / Rain Dish
+New     Shell Armor / Torrent / Rain Dish
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Block [*]
+1 - Follow Me [*]
+1 - Tackle
+1 - Tail Whip
+5 - Water Gun
+7 - Withdraw
+10 - Aqua Jet
+13 - Water Pulse
+16 - Yawn
+19 - Rapid Spin
+22 - Bubble Beam
+25 - Aqua Ring
+28 - Avalanche
+31 - Bite
+34 - Skull Bash
+37 - Body Slam
+40 - Muddy Water
+43 - Seismic Toss
+46 - Fake Out
+49 - Zen Headbutt
+
+===================
+008 - Wartortle
+===================
+Ability:
+Old     Torrent / Torrent / Rain Dish
+New     Shell Armor / Torrent / Rain Dish
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Block [*]
+1 - Follow Me [*]
+1 - Tackle
+1 - Tail Whip
+5 - Water Gun
+7 - Withdraw
+10 - Aqua Jet
+13 - Water Pulse
+16 - Yawn
+17 - Mirror Coat
+20 - Rapid Spin
+22 - Bubble Beam
+25 - Aqua Ring
+28 - Avalanche
+31 - Bite
+34 - Skull Bash
+37 - Body Slam
+40 - Muddy Water
+43 - Seismic Toss
+46 - Fake Out
+49 - Zen Headbutt
+52 - Haze
+55 - Hydro Pump
+
+===================
+009 - Blastoise
+===================
+Base Stats:
+Old     79 HP / 83 Atk / 100 Def / 85 SAtk / 105 SDef / 78 Spd / 530 BST
+New     79 HP / 83 Atk / 100 Def / 90 SAtk / 105 SDef / 78 Spd / 535 BST    
+
+Ability:
+Old     Torrent / Torrent / Rain Dish
+New     Shell Armor / Torrent / Rain Dish
+
+Moves:
+Now compatible with TM20, Tri Attack.
+Now compatible with TM46, Aura Sphere.
+Now compatible with TM51, Wave Crash.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Block [*]
+1 - Dark Pulse
+1 - Dragon Pulse
+1 - Follow Me [*]
+7 - Withdraw
+10 - Aqua Jet
+13 - Water Pulse
+16 - Yawn
+17 - Mirror Coat
+20 - Rapid Spin
+22 - Bubble Beam
+25 - Aqua Ring
+28 - Avalanche
+31 - Bite
+34 - Skull Bash
+36 - Iron Defense
+37 - Body Slam
+40 - Muddy Water
+43 - Seismic Toss
+46 - Fake Out
+50 - Zen Headbutt
+54 - Haze
+58 - Hydro Pump
+62 - Water Spout
+66 - Shell Smash
+
+===================
+009 - Mega Blastoise
+===================
+Base Stats:
+Old     79 HP / 103 Atk / 120 Def / 135 SAtk / 115 SDef / 78 Spd / 630 BST
+New     79 HP / 103 Atk / 120 Def / 140 SAtk / 115 SDef / 78 Spd / 635 BST
+
+===================
+010 - Caterpie
+===================
+Ability:
+Old     Shield Dust / Run Away / Run Away
+New     Shield Dust / Run Away / Run Away
+
+Level Up:
+1 - Tackle
+1 - String Shot
+1 - Bug Bite
+1 - Struggle Bug
+6 - Electroweb
+
+===================
+011 - Metapod
+===================
+Ability:
+Old     Shed Skin / Shed Skin / Shed Skin
+New     Shed Skin / Battle Armor / Shed Skin
+
+Level Up:
+1 - Harden
+7 - Iron Defense
+
+===================
+012 - Butterfree
+===================
+Base Stats:
+Old     60 HP / 45 Atk / 50 Def / 90 SAtk / 80 SDef / 70 Spd / 395 BST
+New     65 HP / 45 Atk / 60 Def / 100 SAtk / 90 SDef / 90 Spd / 450 BST
+
+Ability:
+Old     Compound Eyes / Compound Eyes / Tinted Lens
+New     Compound Eyes / Tinted Lens / Tinted Lens
+
+Moves:
+Now compatible with TM58, Hurricane.
+Now compatible with HM02, Fly.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Struggle Bug
+13 - Confusion
+13 - Gust
+15 - Poison Powder
+15 - Stun Spore
+15 - Sleep Powder
+17 - Silver Wind
+21 - Air Cutter
+25 - Ominous Wind
+29 - Psybeam
+33 - Draining Kiss
+37 - Tailwind
+41 - Air Slash
+45 - Rage Powder
+49 - Psychic
+53 - Bug Buzz
+57 - Hurricane
+61 - Quiver Dance
+
+===================
+013 - Weedle
+===================
+Ability:
+Old     Shield Dust / Run Away / Run Away
+New     Shield Dust / Run Away / Run Away
+
+Level Up:
+1 - Poison Sting
+1 - String Shot
+1 - Bug Bite
+1 - Struggle Bug
+6 - Poison Tail
+
+===================
+014 - Kakuna
+===================
+Ability:
+Old     Shed Skin / Shed Skin / Shed Skin
+New     Shed Skin / Battle Armor / Shed Skin
+
+Level Up:
+1 - Harden
+7 - Iron Defense
+
+===================
+015 - Beedrill
+===================
+Base Stats:
+Old     65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd / 395 BST
+New     65 HP / 105 Atk / 50 Def / 55 SAtk / 95 SDef / 85 Spd / 455 BST
+
+Ability:
+Old     Swarm / Swarm / Sniper
+New     Adaptability / Sniper / Swarm
+
+Moves:
+Now compatible with TM76, Bug Buzz.
+Now compatible with TM83, Work Up.
+Now compatible with HM02, Fly.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Fury Attack
+13 - Twinneedle
+15 - Toxic Spikes
+17 - Pin Missile
+21 - Pursuit
+25 - Focus Energy
+29 - Poison Jab
+33 - Assurance
+37 - Fury Cutter
+41 - Drill Peck
+45 - Cross Poison
+49 - Agility
+53 - Raging Fury
+57 - Outrage
+61 - Megahorn
+
+===================
+015 - Mega Beedrill
+===================
+Base Stats:
+Old     65 HP / 150 Atk / 40 Def / 15 SAtk / 80 SDef / 145 Spd / 495 BST
+New     65 HP / 165 Atk / 50 Def / 25 SAtk / 95 SDef / 155 Spd / 555 BST
+
+===================
+016 - Pidgey
+===================
+Base Stats:
+Old     40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd / 251 BST
+New     40 HP / 35 Atk / 35 Def / 50 SAtk / 35 SDef / 56 Spd / 251 BST
+
+Ability:
+Old     Keen Eye / Tangled Feet / Big Pecks
+New     Big Pecks / Tangled Feet / Keen Eye
+
+Moves: 
+Now compatible with TM49, Echoed Voice.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Foresight
+1 - Mud-Slap
+1 - Sand Attack
+1 - Tackle
+3 - Gust
+5 - Echoed Voice
+7 - Twister
+9 - Quick Attack
+11 - Air Cutter
+13 - Feather Dance
+15 - Swift
+17 - Mirror Move
+19 - Uproar
+21 - Ominous Wind
+24 - Steel Wing
+27 - Whirlwind
+30 - Hyper Voice
+34 - Air Slash
+38 - Agility
+42 - Tailwind
+46 - Double-Edge
+50 - Brave Bird
+54 - Sky Attack
+
+===================
+017 - Pidgeotto
+===================
+Base Stats:
+Old     63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd / 349 BST
+New     63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd / 349 BST    
+
+Ability:
+Old     Keen Eye / Tangled Feet / Big Pecks
+New     Big Pecks / Tangled Feet / Keen Eye 
+
+Moves: 
+Now compatible with TM49, Echoed Voice.
+Now compatible with TM58, Hurricane.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Foresight
+1 - Mud-Slap
+1 - Sand Attack
+1 - Tackle
+3 - Gust
+5 - Echoed Voice
+7 - Twister
+9 - Quick Attack
+11 - Air Cutter
+13 - Feather Dance
+15 - Swift
+17 - Mirror Move
+18 - Pursuit
+20 - Uproar
+22 - Ominous Wind
+25 - Steel Wing
+28 - Whirlwind
+31 - Hyper Voice
+35 - Air Slash
+39 - Agility
+43 - Tailwind
+47 - Double-Edge
+51 - Brave Bird
+55 - Sky Attack
+
+===================
+018 - Pidgeot
+===================   
+Base Stats:
+Old     83 HP / 80 Atk / 75 Def / 70 SAtk / 70 SDef / 101 Spd / 479 BST
+New     83 HP / 60 Atk / 70 Def / 115 SAtk / 70 SDef / 101 Spd / 499 BST
+
+Ability:
+Old     Keen Eye / Tangled Feet / Big Pecks
+New     No Guard / Tangled Feet / Keen Eye
+
+Moves:  
+Now compatible with TM49, Echoed Voice.
+Now compatible with TM58, Hurricane.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Foresight
+1 - Mud-Slap
+1 - Sand Attack
+1 - Tackle
+3 - Gust
+5 - Echoed Voice
+7 - Twister
+9 - Quick Attack
+11 - Air Cutter
+13 - Feather Dance
+15 - Swift
+17 - Mirror Move
+18 - Pursuit
+20 - Uproar
+22 - Ominous Wind
+25 - Steel Wing
+28 - Whirlwind
+31 - Hyper Voice
+35 - Air Slash
+36 - Quick Guard
+40 - Agility
+44 - Tailwind
+48 - Double-Edge
+52 - Brave Bird
+56 - Sky Attack
+
+===================
+018 - Mega Pidgeot
+===================   
+Base Stats:
+Old     83 HP / 80 Atk / 80 Def / 135 SAtk / 80 SDef / 121 Spd / 579 BST
+New     83 HP / 60 Atk / 75 Def / 180 SAtk / 80 SDef / 121 Spd / 599 BST
+
+===================
+019 - Rattata
+===================
+Ability:
+Old     Run Away / Guts / Hustle
+New     Hustle / Guts / Run Away
+
+Moves:
+Now compatible with TM01, Hone Claws.
+Now compatible with TM60, Quash.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Bite
+1 - Me First
+1 - Tackle
+1 - Tail Whip
+4 - Focus Energy
+7 - Screech
+10 - Quick Attack
+13 - Pursuit
+16 - Assurance
+19 - Fury Swipes
+22 - Endeavor
+25 - Fire Fang
+25 - Ice Fang
+25 - Thunder Fang
+28 - Hyper Fang
+31 - Crunch
+34 - Flame Wheel
+38 - Zen Headbutt
+42 - Reversal
+46 - Sucker Punch
+50 - Double-Edge
+54 - Last Resort
+58 - Final Gambit
+
+===================
+019 - Rattata (Alolan)
+===================
+
+Ability:
+Old     Gluttony / Hustle / Thick Fat
+New     Thick Fat / Hustle / Gluttony
+
+Moves:
+Now compatible with TM01, Hone Claws.
+Now compatible with TM60, Quash.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Type (Complete):
+Old     Dark / Normal
+New     Dark 
+ 
+Level Up:
+1 - Bite
+1 - Me First
+1 - Tackle
+1 - Tail Whip
+4 - Focus Energy
+7 - Snarl
+10 - Quick Attack
+13 - Pursuit
+16 - Assurance
+19 - Fury Swipes
+22 - Endeavor
+25 - Fire Fang
+25 - Ice Fang
+25 - Thunder Fang
+28 - Hyper Fang
+31 - Crunch
+34 - Flame Wheel
+38 - Zen Headbutt
+42 - Reversal
+46 - Sucker Punch
+50 - Double-Edge
+54 - Last Resort
+58 - Final Gambit
+
+===================
+020 - Raticate
+===================
+Base Stats:
+Old     55 HP / 81 Atk / 60 Def / 50 SAtk / 70 SDef / 97 Spd / 413 BST
+New     60 HP / 92 Atk / 60 Def / 50 SAtk / 70 SDef / 108 Spd / 440 BST
+
+Ability:
+Old     Run Away / Guts / Hustle
+New     Hustle / Guts / Run Away
+
+Moves:
+Now compatible with TM01, Hone Claws.
+Now compatible with TM40, Aerial Ace.
+Now compatible with TM54, False Swipe.
+Now compatible with TM60, Quash.
+Now compatible with TM65, Shadow Claw.
+Now compatible with TM87, Rock Climb.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Revenge
+1 - Bite
+1 - Me First
+1 - Tackle
+4 - Focus Energy
+7 - Screech
+10 - Quick Attack
+13 - Pursuit
+16 - Assurance
+19 - Fury Swipes
+20 - After You
+23 - Endeavor
+26 - Fire Fang
+26 - Ice Fang
+26 - Thunder Fang
+29 - Hyper Fang
+32 - Crunch
+36 - Take Down
+40 - Flame Wheel
+44 - Zen Headbutt
+48 - Reversal
+52 - Sucker Punch
+56 - Double-Edge
+60 - Last Resort
+64 - Final Gambit
+
+===================
+020 - Raticate (Alolan)
+===================
+Base Stats:
+Old     75 HP / 71 Atk / 70 Def / 40 SAtk / 80 SDef / 77 Spd / 413 BST
+New     80 HP / 73 Atk / 85 Def / 40 SAtk / 85 SDef / 77 Spd / 440 BST
+
+Ability:
+Old     Gluttony / Hustle / Thick Fat
+New     Thick Fat / Hustle / Gluttony
+
+
+Moves:
+Now compatible with TM01, Hone Claws.
+Now compatible with TM40, Aerial Ace.
+Now compatible with TM54, False Swipe.
+Now compatible with TM60, Quash.
+Now compatible with TM65, Shadow Claw.
+Now compatible with TM87, Rock Climb.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Type (Complete):
+Old     Dark / Normal
+New     Dark
+ 
+Level Up:
+1 - Revenge
+1 - Bite
+1 - Me First
+1 - Tackle
+4 - Focus Energy
+7 - Screech
+10 - Quick Attack
+13 - Pursuit
+16 - Assurance
+19 - Fury Swipes
+20 - After You
+23 - Endeavor
+26 - Fire Fang
+26 - Ice Fang
+26 - Thunder Fang
+29 - Hyper Fang
+32 - Crunch
+36 - Take Down
+40 - Flame Wheel
+44 - Zen Headbutt
+48 - Reversal
+52 - Sucker Punch
+56 - Double-Edge
+60 - Last Resort
+64 - Final Gambit
+
+===================
+021 - Spearow
+===================
+Base Stats:
+Old     40 HP / 60 Atk / 30 Def / 31 SAtk / 31 SDef / 70 Spd / 262 BST
+New     50 HP / 60 Atk / 40 Def / 31 SAtk / 31 SDef / 70 Spd / 282 BST
+
+Ability:
+Old     Keen Eye / Keen Eye / Sniper
+New     Intimidate / Sniper / Sniper
+
+Evolution:
+Now evolves into Fearow at Level 21.
+
+Moves:
+Now compatible with TM12, Taunt.
+Now compatible with TM58, Hurricane.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Type:
+Old     Normal / Flying
+New     Flying     
+ 
+Level Up:
+1 - Growl
+1 - Leer
+1 - Peck
+4 - Astonish
+7 - Quick Attack
+10 - Fury Attack
+13 - Air Cutter
+16 - Mirror Move
+19 - Aerial Ace
+22 - Assurance
+25 - Feather Dance
+28 - Focus Energy
+31 - Agility
+34 - Take Down
+38 - Drill Peck
+42 - Detect
+46 - Tailwind
+50 - Double-Edge
+54 - Sky Attack
+
+===================
+022 - Fearow
+===================
+Base Stats:
+Old     65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 442 BST
+New     85 HP / 95 Atk / 80 Def / 61 SAtk / 64 SDef / 100 Spd / 485 BST
+
+Ability:
+Old     Keen Eye / Keen Eye / Sniper
+New     Intimidate / Technician / Sniper
+
+Type:
+Old     Normal / Flying
+New     Flying     
+
+Moves:
+Now compatible with TM01, Hone Claws.
+Now compatible with TM12, Taunt.
+Now compatible with TM58, Hurricane.
+Now compatible with TM60, Quash.
+Now compatible with TM65, Shadow Claw.
+Now compatible with TM95, Snarl.
+Now compatible with HM01, Cut.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Dual Wingbeat
+1 - Growl
+1 - Leer
+1 - Peck
+4 - Astonish
+7 - Quick Attack
+10 - Fury Attack
+13 - Air Cutter
+16 - Mirror Move
+19 - Aerial Ace
+20 - Pursuit
+23 - Take Down
+26 - Feather Dance
+29 - Focus Energy
+32 - Agility
+35 - Steel Wing
+38 - Drill Peck
+41 - Whirlwind
+44 - Detect
+48 - Tailwind
+52 - Double-Edge
+56 - Sky Attack
+60 - Brave Bird
+
+===================
+023 - Ekans
+===================
+Evolution:
+Now evolves into Arbok at Level 21.
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Leer
+1 - Wrap
+1 - Poison Sting
+4 - Bite
+7 - Acid
+10 - Glare
+13 - Mud Bomb
+16 - Screech
+18 - Poison Fang
+20 - Coil
+23 - Fire Fang
+23 - Ice Fang
+23 - Thunder Fang
+25 - Disable
+28 - Breaking Swipe
+31 - Poison Tail
+34 - Acid Spray
+37 - Spite
+40 - Sucker Punch
+43 - Lunge
+46 - Switcheroo
+49 - Crunch
+52 - Haze
+55 - Gunk Shot
+
+===================
+024 - Arbok
+===================
+Base Stats:
+Old     60 HP / 95 Atk / 69 Def / 65 SAtk / 79 SDef / 80 Spd / 448 BST
+New     60 HP / 110 Atk / 70 Def / 55 SAtk / 80 SDef / 80 Spd / 455 BST
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Leer
+1 - Wrap
+1 - Poison Sting
+4 - Bite
+7 - Acid
+10 - Glare
+13 - Mud Bomb
+16 - Screech
+18 - Poison Fang
+20 - Coil
+22 - Scary Face
+23 - Fire Fang
+23 - Ice Fang
+23 - Thunder Fang
+26 - Disable
+29 - Breaking Swipe
+32 - Poison Tail
+35 - Acid Spray
+39 - Spite
+42 - Sucker Punch
+45 - Lunge
+48 - Switcheroo
+52 - Crunch
+56 - Haze
+60 - Gunk Shot
+
+===================
+025 - Pikachu
+===================
+Base Stats:
+Old     35 HP / 55 Atk / 30 Def / 60 SAtk / 50 SDef / 90 Spd / 300 BST
+New     40 HP / 65 Atk / 30 Def / 65 SAtk / 40 SDef / 100 Spd / 340 BST
+
+Ability:
+Old     Static / Static / Lightning Rod
+New     Static / Lightning Rod / Lightning Rod
+
+Moves:
+Now compatible with HM01, Cut.
+Now compatible with HM02, Fly. [*]
+Now compatible with HM03, Surf. [*]
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Refresh [*]
+1 - Yawn [*]
+1 - Quick Attack
+3 - Charge
+6 - Sing [*]
+8 - Tickle
+10 - Disarming Voice
+12 - Spark
+14 - Wish
+16 - Thunder Wave
+18 - Double Kick [*]
+21 - Nuzzle
+24 - Electro Ball
+27 - Iron Tail
+30 - Agility
+34 - Thunderbolt
+38 - Teeter Dance [*]
+42 - Play Rough
+46 - Discharge
+50 - Extreme Speed [*]
+54 - Heart Stamp [*]
+58 - Icicle Crash [*]
+58 - Meteor Mash [*]
+58 - Draining Kiss [*]
+62 - Volt Tackle
+
+===================
+026 - Raichu
+===================
+Base Stats:
+Old     60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd / 485 BST
+New     60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd / 495 BST
+
+Ability:
+Old     Static / Static / Lightning Rod
+New     Static / Lightning Rod / Lightning Rod   
+
+Moves:
+Now compatible with TM29, Psychic.
+Now compatible with HM01, Cut.
+Now compatible with HM02, Fly. [*]
+Now compatible with HM03, Surf. [*]
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Charm
+1 - Fake Out
+1 - Nasty Plot
+1 - Nuzzle
+1 - Quick Attack
+1 - Thunderbolt
+1 - Tickle
+1 - Wish
+25 - Shock Wave
+40 - Extreme Speed
+45 - Reversal
+62 - Zippy Zap
+65 - Volt Tackle
+
+===================
+026 - Raichu (Alolan)
+===================
+Base Stats:
+Old     60 HP / 85 Atk / 50 Def / 95 SAtk / 85 SDef / 110 Spd / 485 BST
+New     60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd / 495 BST
+
+Ability:
+Old     Static / Static / Lightning Rod
+New     Static / Lightning Rod / Lightning Rod   
+
+Moves:
+Now compatible with TM29, Psychic.
+Now compatible with HM01, Cut.
+Now compatible with HM02, Fly. [*]
+Now compatible with HM03, Surf. [*]
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Charm
+1 - Fake Out
+1 - Nasty Plot
+1 - Nuzzle
+1 - Quick Attack
+1 - Thunderbolt
+1 - Tickle
+1 - Wish
+25 - Shock Wave
+40 - Extreme Speed
+45 - Reversal
+62 - Zippy Zap
+65 - Volt Tackle
+
+===================
+027 - Sandshrew
+===================
+Ability:
+Old     Sand Veil / Sand Veil / Sand Rush
+New     Rough Skin / Sand Veil / Sand Rush
+
+Moves:
+Now compatible with TM23, Smack Down.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Defense Curl
+1 - Rollout
+1 - Sand Attack
+1 - Scratch
+4 - Poison Sting
+7 - Magnitude
+10 - Fury Cutter
+13 - Scorching Sands
+16 - Metal Claw
+19 - Bulldoze
+22 - Accelerock
+24 - Slash
+24 - Night Slash
+26 - Super Fang
+28 - Agility
+31 - Chip Away
+34 - Spikes
+37 - Pin Missile
+40 - Drill Run
+44 - Crush Claw
+48 - Rapid Spin
+52 - Leech Life
+56 - Focus Punch
+
+===================
+027 - Sandshrew (Alolan)
+===================
+Ability:
+Old     Snow Cloak / Snow Cloak / Slush Rush
+New     Snow Cloak / Slush Rush / Ice Body
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Scratch
+1 - Defense Curl
+1 - Bide
+1 - Powder Snow
+4 - Ice Shard
+7 - Metal Claw
+10 - Fury Cutter
+13 - Icy Wind
+16 - Iron Defense
+19 - Avalanche
+22 - Gyroball
+24 - Slash
+24 - Night Slash
+26 - Super Fang
+28 - Curse
+31 - Spikes
+34 - Icicle Crash
+37 - Iron Head
+40 - Triple Axel
+44 - Crush Claw
+48 - Rapid Spin
+52 - Leech Life
+56 - Focus Punch
+
+===================
+028 - Sandslash
+===================
+Ability:
+Old     Sand Veil / Sand Veil / Sand Rush 
+New     Rough Skin / Sand Veil / Sand Rush
+
+Moves:
+Now compatible with TM23, Smack Down.
+Now compatible with TM47, Low Sweep.
+Now compatible with TM69, Rock Polish.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Counter
+1 - Defense Curl
+1 - Rollout
+1 - Scratch
+4 - Poison Sting
+7 - Magnitude
+10 - Fury Cutter
+13 - Scorching Sands
+16 - Metal Claw
+19 - Bulldoze
+22 - Accelerock
+23 - Fling
+25 - Slash
+25 - Night Slash
+27 - Super Fang
+29 - Agility
+32 - Chip Away
+35 - Spikes
+38 - Pin Missile
+42 - Drill Run
+46 - Crush Claw
+50 - Rapid Spin
+54 - Leech Life
+58 - Focus Punch
+62 - Headlong Rush
+
+===================
+028 - Sandslash (Alolan)
+===================
+Ability:
+Old     Snow Cloak / Snow Cloak / Slush Rush
+New     Snow Cloak / Slush Rush / Ice Body
+
+Moves:
+Now compatible with TM23, Smack Down.
+Now compatible with TM47, Low Sweep.
+Now compatible with TM69, Rock Polish.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Counter
+1 - Defense Curl
+1 - Powder Snow
+1 - Scratch
+4 - Ice Shard
+7 - Metal Claw
+10 - Fury Cutter
+13 - Icy Wind
+16 - Iron Defense
+19 - Avalanche
+22 - Gyroball
+23 - Fling
+25 - Slash
+25 - Night Slash
+27 - Super Fang
+29 - Curse
+32 - Spikes
+35 - Icicle Crash
+38 - Iron Head
+42 - Triple Axel
+46 - Crush Claw
+50 - Rapid Spin
+54 - Leech Life
+58 - Focus Punch
+62 - Aurora Veil
+
+===================
+029 - Nidoran♀
+===================
+Ability:
+Old     Poison Point / Rivalry / Hustle 
+New     Hustle / Poison Point / Rivalry 
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Growl
+1 - Poison Sting
+1 - Scratch
+1 - Tail Whip
+4 - Peck
+7 - Double Kick
+10 - Fury Attack
+13 - Poison Fang
+16 - Horn Attack
+19 - Helping Hand
+22 - Toxic Spikes
+25 - Poison Jab
+28 - Disable
+31 - Amnesia
+34 - Crunch
+37 - Smart Strike
+40 - Poison Tail
+44 - Scorching Sands
+48 - Take Down
+52 - Sucker Punch
+56 - Head Smash
+
+===================
+030 - Nidorina
+===================
+Ability:
+Old     Poison Point / Rivalry / Hustle 
+New     Hustle / Poison Point / Rivalry
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Growl
+1 - Poison Sting
+1 - Scratch
+1 - Tail Whip
+4 - Peck
+7 - Double Kick
+10 - Fury Attack
+13 - Poison Fang
+16 - Horn Attack
+20 - Helping Hand
+23 - Toxic Spikes
+26 - Poison Jab
+29 - Disable
+32 - Amnesia
+36 - Crunch
+40 - Smart Strike
+44 - Poison Tail
+48 - Scorching Sands
+52 - Take Down
+56 - Sucker Punch
+60 - Head Smash
+
+===================
+031 - Nidoqueen
+===================
+Ability:
+Old     Poison Point / Rivalry / Sheer Force
+New     Sheer Force / Poison Point / Rivalry
+
+Moves:
+Now compatible with TM47, Low Sweep.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Avalanche
+1 - Disable
+1 - Fling
+1 - Helping Hand
+1 - High Horsepower
+1 - Moonblast
+1 - Moonlight
+1 - Play Rough     
+1 - Poison Sting
+1 - Toxic Spikes
+23 - Chip Away
+32 - Body Slam
+35 - Poison Tail
+41 - Earth Power
+45 - Seismic Toss
+58 - Superpower
+58 - Scorching Sands
+
+===================
+032 - Nidoran♂
+===================
+Ability:
+Old     Poison Point / Rivalry / Hustle 
+New     Hustle / Poison Point / Rivalry 
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Growl
+1 - Poison Sting
+1 - Scratch
+1 - Tail Whip
+4 - Peck
+7 - Double Kick
+10 - Fury Attack
+13 - Poison Fang
+16 - Horn Attack
+19 - Helping Hand
+22 - Focus Energy
+25 - Poison Jab
+28 - Beat Up
+31 - Body Slam
+34 - Crunch
+37 - Smart Strike
+40 - Poison Tail
+44 - Scorching Sands
+48 - Take Down
+52 - Sucker Punch
+56 - Head Smash
+
+===================
+033 - Nidorino
+===================
+Ability:
+Old     Poison Point / Rivalry / Hustle 
+New     Hustle / Poison Point / Rivalry 
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Growl
+1 - Poison Sting
+1 - Scratch
+1 - Tail Whip
+4 - Peck
+7 - Double Kick
+10 - Fury Attack
+13 - Poison Fang
+16 - Horn Attack
+20 - Helping Hand
+23 - Focus Energy
+26 - Poison Jab
+29 - Beat Up
+32 - Body Slam
+36 - Crunch
+40 - Smart Strike
+44 - Poison Tail
+48 - Scorching Sands
+52 - Take Down
+56 - Sucker Punch
+60 - Head Smash
+
+===================
+034 - Nidoking
+===================
+Ability:
+Old     Poison Point / Rivalry / Sheer Force
+New     Sheer Force / Poison Point / Rivalry
+
+Moves:
+Now compatible with TM47, Low Sweep.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Avalanche
+1 - Disable
+1 - Confusion
+1 - Disable
+1 - Head Smash
+1 - High Horsepower
+1 - Morning Sun
+1 - Smart Strike
+1 - Play Rough     
+1 - Poison Sting
+25 - Chip Away
+32 - Thrash
+35 - Poison Tail
+41 - Earth Power
+45 - Megahorn
+58 - Superpower
+58 - Scorching Sands
+
+===================
+037 - Vulpix
+===================
+Ability:
+Old     Flash Fire / Flash Fire / Drought
+New     Drought / Flash Fire / Drought
+
+Moves:
+Now compatible with TM20, Tri Attack.
+Now compatible with TM32, Dazzling Gleam.
+Now compatible with TM66, Power Gem.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Ember
+1 - Spite
+1 - Tail Whip
+4 - Safeguard
+7 - Confuse Ray
+10 - Quick Attack
+13 - Captivate
+16 - Faint Attack
+19 - Fire Spin
+22 - Hypnosis
+25 - Zen Headbutt
+28 - Hex
+31 - Flame Burst
+34 - Ominous Wind
+37 - Pain Split
+40 - Imprison
+44 - Inferno
+48 - Memento
+52 - Flare Blitz
+56 - Extrasensory
+60 - Grudge
+
+===================
+037 - Vulpix (Alolan)
+===================
+Ability:
+Old     Snow Cloak / Snow Cloak / Snow Warning
+New     Snow Warning / Snow Cloak / Snow Warning
+
+Moves:
+Now compatible with TM20, Tri Attack.
+Now compatible with TM32, Dazzling Gleam.
+Now compatible with TM66, Power Gem.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Powder Snow
+1 - Spite
+1 - Tail Whip
+4 - Safeguard
+7 - Confuse Ray
+10 - Quick Attack
+13 - Mist
+16 - Faint Attack
+19 - Ice Shard
+22 - Hypnosis
+25 - Zen Headbutt
+28 - Hex
+31 - Aurora Beam
+34 - Ominous Wind
+37 - Pain Split
+40 - Imprison
+44 - Blizzard
+48 - Memento
+52 - Moon Blast
+56 - Extrasensory
+60 - Grudge
+ 
+===================
+038 - Ninetales (Alolan)
+===================
+Ability:
+Old     Snow Cloak / Snow Cloak / Snow Warning
+New     Snow Warning / Snow Cloak / Snow Warning
+ 
+Moves:
+Now compatible with TM20, Tri Attack.
+Now compatible with TM29, Psychic.
+Now compatible with TM30, Shadow Ball.
+Now compatible with TM32, Dazzling Gleam.
+Now compatible with TM66, Power Gem.
+Now compatible with TM70, Flash.
+Compatible with some Gen 6-9 Moves via TM and Breeding.   
+ 
+Level Up:
+1 - Captivate
+1 - Disable
+1 - Foul Play
+1 - Grudge
+1 - Hex
+1 - Hypnosis
+1 - Imprison
+1 - Role Play
+1 - Spite
+1 - Stored Power
+1 - Quick Attack
+40 - Healing Wish
+45 - Blizzard
+55 - Moonblast
+60 - Extrasensory
+65 - Nasty Plot
+
+===================
+039 - Jigglypuff
+===================
+Base Stats:
+Old     115 HP / 45 Atk / 20 Def / 45 SAtk / 25 SDef / 20 Spd / 270 BST
+New     115 HP / 35 Atk / 20 Def / 55 SAtk / 25 SDef / 20 Spd / 270 BST  
+
+Ability:
+Old     Cute Charm / Cute Charm / Friend Guard
+New     Cute Charm / Friend Guard / Friend Guard
+
+Moves:
+Now compatible with TM66, Power Gem.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Defense Curl
+1 - Sing
+1 - Pound
+4 - Fake Tears
+7 - Bestow
+9 - Disarming Voice
+11 - Double Slap
+13 - Disable
+15 - Wake-Up Slap
+17 - Metronome
+19 - Mimic
+22 - Uproar
+24 - Metronome
+27 - Covet
+29 - Wish
+32 - Draining Kiss
+36 - Body Slam
+40 - Hyper Voice
+44 - Moonblast
+49 - Perish Song
+54 - Play Rough 
+59 - Boomburst
+
+===================
+040 - Wigglytuff
+===================
+Base Stats:
+Old     140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd / 435 BST
+New     140 HP / 60 Atk / 45 Def / 95 SAtk / 50 SDef / 45 Spd / 435 BST
+
+Ability:
+Old     Cute Charm / Cute Charm / Frisk
+New     Huge Power / Friend Guard / Frisk
+
+Moves:
+Now compatible with TM47, Low Sweep.
+Now compatible with TM66, Power Gem. 
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Moonblast
+1 - Double-Edge
+1 - Perish Song
+1 - Sing
+20 - Gravity
+30 - Covet
+40 - Draining Kiss
+50 - Play Rough    
+60 - Boomburst
+70 - Nasty Plot
+
+===================
+041 - Zubat
+===================
+Ability:
+Old     Inner Focus / Inner Focus / Infiltrator
+New     Infiltrator / Sniper / Corrosion
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Absorb
+1 - Gust
+1 - Screech
+1 - Quick Attack
+4 - Poison Sting
+7 - Bite
+10 - Wing Attack
+13 - Confuse Ray
+16 - Poison Fang
+19 - Swift
+22 - Mean Look
+25 - Faint Attack
+28 - Air Cutter
+31 - Haze
+34 - Whirlwind
+37 - Zen Headbutt
+40 - Super Fang
+43 - Nasty Plot
+46 - Leech Life
+50 - Hypnosis
+53 - Air Slash
+56 - Wide Guard
+59 - Brave Bird
+
+===================
+042 - Golbat
+===================
+Ability:
+Old     Inner Focus / Inner Focus / Infiltrator
+New     Infiltrator / Sniper / Corrosion
+
+Moves: 
+Now compatible with TM58, Hurricane. 
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Absorb
+1 - Gust
+1 - Screech
+1 - Quick Attack
+4 - Poison Sting
+7 - Bite
+10 - Wing Attack
+13 - Confuse Ray
+16 - Poison Fang
+19 - Swift
+22 - Mean Look
+26 - Faint Attack
+30 - Air Cutter
+33 - Haze
+36 - Whirlwind
+40 - Zen Headbutt
+44 - Super Fang
+48 - Nasty Plot
+52 - Leech Life
+55 - Hypnosis
+59 - Air Slash
+63 - Wide Guard
+67 - Brave Bird
+
+===================
+043 - Oddish
+===================
+Ability:
+Old     Chlorophyll / Chlorophyll / Run Away
+New     Chlorophyll / Run Away / Run Away
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Absorb
+1 - Growth
+1 - Acid
+4 - Tickle
+7 - Lucky Chant
+10 - Poison Powder
+10 - Sleep Powder
+10 - Stun Spore
+13 - Ingrain
+16 - Bullet Seed
+19 - Mud Bomb
+22 - Charm
+25 - Natural Gift
+28 - Nature Power
+32 - Sludge
+36 - Leech Seed 
+40 - Moonlight
+44 - Teeter Dance 
+48 - Synthesis
+52 - Moonblast
+56 - Petal Dance
+
+===================
+044 - Gloom
+===================
+Ability:
+Old     Chlorophyll / Chlorophyll / Stench
+New     Chlorophyll / Stench / Stench
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Absorb
+1 - Growth
+1 - Acid
+4 - Tickle
+7 - Lucky Chant
+10 - Poison Powder
+10 - Sleep Powder
+10 - Stun Spore
+13 - Ingrain
+16 - Bullet Seed
+19 - Mud Bomb
+21 - Flail
+24 - Charm
+28 - Natural Gift
+32 - Nature Power
+36 - Sludge
+40 - Leech Seed 
+44 - Moonlight
+48 - Teeter Dance 
+52 - Synthesis
+56 - Moonblast
+60 - Petal Dance
+
+===================
+045 - Vileplume
+===================
+Ability:
+Old     Chlorophyll / Chlorophyll / Effect Spore
+New     Thick Fat / Effect Spore / Effect Spore
+
+Moves:
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Level Up:
+1 - Drain Punch
+1 - Earth Power
+1 - Growth
+1 - Nature Power
+1 - Poison Powder
+1 - Sleep Powder
+1 - Stun Spore
+1 - Toxic
+25 - Sludge
+30 - Seed Bomb
+36 - Gastro Acid
+42 - Moonblast
+48 - Petal Dance
+58 - Aromatherapy
+68 - Solar Beam
+
+===================
+046 - Paras
+===================
+Moves:
+Now compatible with TM76, Bug Buzz.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Absorb
+1 - Scratch
+1 - String Shot
+4 - Pursuit
+7 - Stun Spore
+7 - Poison Powder
+10 - Metal Claw
+13 - Bug Bite
+16 - Bullet Seed
+19 - Spore
+21 - Struggle Bug
+23 - Wide Guard
+25 - Leech Life
+27 - Leech Seed
+29 - Aromatherapy
+31 - Psybeam
+34 - Seed Bomb
+37 - Cross Poison
+40 - Cross Chop
+44 - Agility
+48 - Growth
+52 - Lunge
+56 - Synthesis
+
+===================
+047 - Parasect
+===================
+Base Stats:
+Old     60 HP / 95 Atk / 80 Def / 60 SAtk / 80 SDef / 30 Spd / 405 BST
+New     60 HP / 115 Atk / 100 Def / 55 SAtk / 90 SDef / 30 Spd / 450 BST
+ 
+Moves:
+Now compatible with TM76, Bug Buzz.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Counter
+1 - Fury Cutter
+1 - Worry Seed
+1 - String Shot
+4 - Pursuit
+7 - Stun Spore
+7 - Poison Powder
+10 - Metal Claw
+13 - Bug Bite
+16 - Bullet Seed
+19 - Spore
+21 - Struggle Bug
+23 - Wide Guard
+24 - Rage Powder
+25 - Leech Life
+27 - Leech Seed
+29 - Aromatherapy
+32 - Psybeam
+35 - Seed Bomb
+38 - Cross Poison
+42 - Cross Chop
+46 - Agility
+50 - Growth
+54 - Lunge
+58 - Synthesis
+
+===================
+048 - Venonat
+===================
+Base Stats:
+Old     60 HP / 55 Atk / 50 Def / 40 SAtk / 55 SDef / 45 Spd / 305 BST
+New     70 HP / 55 Atk / 55 Def / 50 SAtk / 60 SDef / 45 Spd / 330 BST
+
+Ability:
+Old     Compound Eyes / Tinted Lens / Run Away
+New     Compound Eyes / Tinted Lens / Run Away
+
+Moves:
+Now compatible with TM76, Bug Buzz.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+
+Evolution:
+Now evolves into Venomoth at Level 28.
+
+Level Up:
+1 - Tackle
+1 - Supersonic
+1 - Absorb
+5 - Struggle Bug
+8 - Foresight
+11 - Confusion
+14 - Acid Spray
+16 - Stun Spore
+16 - Poison Powder
+16 - Sleep Powder
+18 - Bug Bite
+20 - Psybeam
+23 - Disable
+26 - Poison Fang
+29 - Rage Powder
+32 - Skill Swap
+35 - Signal Beam
+38 - Morning Sun
+41 - Toxic Spikes
+44 - Leech Life
+47 - Bug Buzz
+50 - Baton Pass
+
+===================
+049 - Venomoth
+===================
+Base Stats:
+Old     70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd / 450 BST
+New     70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd / 450 BST
+
+Ability:
+Old     Shield Dust / Tinted Lens / Wonder Skin
+New     Wonder Skin / Tinted Lens / Shield Dust
+ 
+Moves:
+Now compatible with TM58, Hurricane.
+Now compatible with TM76, Bug Buzz.
+Now compatible with HM02, Fly.
+Compatible with some Gen 6-9 Moves via TM and Breeding.
+ 
+Level Up:
+1 - Ominous Wind
+1 - Twister
+1 - Air Cutter
+1 - Absorb
+5 - Struggle Bug
+8 - Foresight
+11 - Confusion
+14 - Acid Spray
+16 - Stun Spore
+16 - Poison Powder
+16 - Sleep Powder
+18 - Bug Bite
+20 - Psybeam
+23 - Disable
+26 - Poison Fang
+29 - Rage Powder
+31 - Sliver Wind
+34 - Skill Swap
+38 - Signal Beam
+42 - Morning Sun
+46 - Toxic Spikes
+50 - Quiver Dance
+54 - Bug Buzz
+58 - Baton Pass
