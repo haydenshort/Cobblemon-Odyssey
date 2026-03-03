@@ -12,32 +12,35 @@ Summary of changes here:
   
 - Updated JustHammers Recipes to better match vanilla netherite recipes.
 - Reimplemented Milk and Milk Buckets (subject to change in future).
+- Replaced CCC Resource/Data Pack with Mod.
 
 </details>
 
 ---
 
-## Mods
+## Mods, Shaders, Resource / Data Packs
 
 <details open>
-<summary>Added (1)</summary>
+<summary>Added (5)</summary>
 
+- Cobblemon Pokerus (1.1.0)
+- Cobbreeding (2.2.1)
 - NeoAuth (1.0.0)
 - Simple Backups (4.0.28)
+- Complete Cobblemon Collection Mod Version (2.0)
 
 </details>
 
 <details>
-<summary>Updated (14)</summary>
+<summary>Updated (18)</summary>
 
-<details open>
-<summary>Mods</summary>
-
-- Bosses Rise (2.0.4) -> (2.0.5)
+- Bosses Rise (2.0.4) -> (2.0.6)
 - CarryOn (2.2.4.4) -> (2.2.2.11)
 - Cobbleloots: Loot Balls and More! (2.1.0) -> (2.2.2)
 - Cobblemon Firework Capsules (2.1.0) -> (2.1.1)
+- Cobblemon Party Extras (1.6.11) -> (1.6.12)
 - Cobblemon Raid Dens (0.7.6) -> (0.8.1)
+- Ender's Delight (1.1.0) -> (1.2.0)
 - Extreme Sound Mufflers (3.54) -> (3.55)
 - FamiliarsLib (1.5) -> (1.6)
 - Immersive Optimizations (0.1.1) -> (0.1.4)
@@ -49,24 +52,14 @@ Summary of changes here:
 - Sophisticated Backpacks (1.4.5.1499) -> (1.4.6.1506)
 - Supplementaries (3.25.5) -> (3.25.6)
 
-</details>
-
-<details open>
-<summary>Resource Packs </summary>
+- MakeUp Ultra Fast (9.4b) -> (9.4c)
 
 </details>
 
 <details open>
-<summary>Shader Packs</summary>
+<summary>Removed (1)</summary>
 
-- MakeUp Ultra Fast
-
-</details>
-
-</details>
-
-<details open>
-<summary>Removed ()</summary>
+- Complete Cobblemon Collection (2.0)
 
 </details>
 
