@@ -104,6 +104,18 @@
           "type": "minecraft:loot_table",
           "value": "cobbleloots:loot_ball/shared/tools_rare",
           "weight": 3
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "simpletms:tr_items",
+          "expand": true,
+          "weight": 25
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "simpletms:tm_items",
+          "expand": true,
+          "weight": 6
         }
       ]
     }
