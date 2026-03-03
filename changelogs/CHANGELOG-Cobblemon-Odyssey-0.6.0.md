@@ -21,6 +21,13 @@ Summary of changes here:
 ## Mods, Shaders, Resource / Data Packs
 
 <details open>
+<summary>Removed (1)</summary>
+
+- Complete Cobblemon Collection (2.0)
+
+</details>
+
+<details open>
 <summary>Added (5)</summary>
 
 - Cobblemon Pokerus (1.1.0)
@@ -53,13 +60,6 @@ Summary of changes here:
 - Supplementaries (3.25.5) -> (3.25.6)
 
 - MakeUp Ultra Fast (9.4b) -> (9.4c)
-
-</details>
-
-<details open>
-<summary>Removed (1)</summary>
-
-- Complete Cobblemon Collection (2.0)
 
 </details>
 
@@ -267,8 +267,88 @@ Summary of changes here:
 </details>
 
 <details>
-<summary>Changed (0)</summary>
+<summary>Changed (4)</summary>
 <blockquote>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/azure</summary>
+  
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 10
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 1
++}
+
+```
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/citrine</summary>
+  
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 10
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 1
++}
+
+```
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/dive</summary>
+  
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2
++}
+
+```
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/dusk</summary>
+  
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 25
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 6
++}
+
+```
+</details>
 
 </details>
 
