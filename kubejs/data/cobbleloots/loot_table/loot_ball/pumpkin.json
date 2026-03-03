@@ -439,7 +439,7 @@
           "type": "minecraft:tag",
           "name": "simpletms:tr_items",
           "expand": true,
-          "weight": 25,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -454,7 +454,7 @@
           "type": "minecraft:tag",
           "name": "simpletms:tm_items",
           "expand": true,
-          "weight": 6,
+          "weight": 2,
           "functions": [
             {
               "function": "minecraft:set_count",
