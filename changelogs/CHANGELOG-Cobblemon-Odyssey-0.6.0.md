@@ -34,7 +34,7 @@ Summary of changes here:
 </details>
 
 <details open>
-<summary>Added (5)</summary>
+<summary>Added (7)</summary>
 
 - Cobblemon Pokerus (1.1.0)
 - Cobblemon: Size Variations (1.4.0)
@@ -47,7 +47,7 @@ Summary of changes here:
 </details>
 
 <details>
-<summary>Updated (18)</summary>
+<summary>Updated (21)</summary>
 
 - Bosses Rise (2.0.4) -> (2.0.6)
 - CarryOn (2.2.4.4) -> (2.2.2.11)
