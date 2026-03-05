@@ -1,42 +1,31 @@
+Here's the reformatted changelog:
+
+````markdown
 # Changelog
 
 # 0.6.0-beta
 
-## General changes and notes
+## General Changes
 
-Summary of changes here:
-
-<details open>
-<summary>Github Commits</summary>
-<blockquote>
-  
-- Updated JustHammers Recipes to better match vanilla netherite recipes.
-- Reimplemented Milk and Milk Buckets (subject to change in future).
+- Updated JustHammers recipes to better match vanilla netherite recipes.
+- Reimplemented Milk and Milk Buckets *(subject to change)*.
 - Replaced CCC Resource/Data Pack with Mod.
-- Cobbreeding Tweaks
-  - Increased time it takes to hatch eggs.
-  - Increased Shiny odds (Masuda 2x, Crystal 4x, Always 8x)
-  - Custom egg colors!
+- **Cobbreeding Tweaks:**
+  - Increased egg hatch time.
+  - Increased Shiny odds (Masuda 2x, Crystal 4x, Always 8x).
+  - Custom egg colors.
   - Decreased breeding pasture size.
-  - Enabled the ability to see stats of eggs.
+  - Enabled the ability to view egg stats.
 - Added SimpleTMs to Cobbleloot Loot Balls.
-
-</details>
 
 ---
 
 ## Mods, Shaders, Resource / Data Packs
 
-<details open>
-<summary>Removed (1)</summary>
+### Removed (1)
+- Complete Cobblemon Collection Resource/Data Pack (2.0)
 
-- Complete Cobblemon Collection Resource/Data Pack(2.0)
-
-</details>
-
-<details open>
-<summary>Added (7)</summary>
-
+### Added (7)
 - Cobblemon Pokerus (1.1.0)
 - Cobblemon: Size Variations (1.4.0)
 - Cobbreeding (2.2.1)
@@ -45,97 +34,66 @@ Summary of changes here:
 - Simple Backups (4.0.28)
 - Complete Cobblemon Collection Mod Version (2.0)
 
-</details>
+### Updated (21)
+| Mod | Old | New |
+|-----|-----|-----|
+| Bosses Rise | 2.0.4 | 2.0.6 |
+| CarryOn | 2.2.4.4 | 2.2.2.11 |
+| Cobbleloots: Loot Balls and More! | 2.1.0 | 2.2.2 |
+| Cobblemon Firework Capsules | 2.1.0 | 2.1.1 |
+| Cobblemon Party Extras | 1.6.11 | 1.6.12 |
+| Cobblemon: PlayerXP | 1.0.6 | 1.0.7 |
+| Cobblemon Raid Dens | 0.7.6 | 0.8.1 |
+| Ender's Delight | 1.1.0 | 1.2.0 |
+| Exposure | 1.9.13 | 1.9.14 |
+| Extreme Sound Mufflers | 3.54 | 3.55 |
+| FamiliarsLib | 1.5 | 1.6 |
+| GeckoLib | 4.8.3 | 4.8.4 |
+| Immersive Optimizations | 0.1.1 | 0.1.4 |
+| Iron's Spells and Spellbooks | 3.15.3 | 3.15.4 |
+| Moonlight Lib | 2.29.18 | 2.29.20 |
+| SeasonsHUD | 1.13.17 | 2.0.0 |
+| Shoulder Surfing | 4.21.0 | 4.22.0 |
+| Simply Swords | 1.62.0 | 1.63.0 |
+| Sophisticated Backpacks | 3.25.30.1537 | 3.25.30.1547 |
+| Sophisticated Backpacks | 1.4.5.1499 | 1.4.6.1506 |
+| Supplementaries | 3.25.5 | 3.25.6 |
+| MakeUp Ultra Fast | 9.4b | 9.4c |
 
-<details>
-<summary>Updated (21)</summary>
-
-- Bosses Rise (2.0.4) -> (2.0.6)
-- CarryOn (2.2.4.4) -> (2.2.2.11)
-- Cobbleloots: Loot Balls and More! (2.1.0) -> (2.2.2)
-- Cobblemon Firework Capsules (2.1.0) -> (2.1.1)
-- Cobblemon Party Extras (1.6.11) -> (1.6.12)
-- Cobblemon: PlayerXP (1.0.6) -> (1.0.7)
-- Cobblemon Raid Dens (0.7.6) -> (0.8.1)
-- Ender's Delight (1.1.0) -> (1.2.0)
-- Exposure (1.9.13) -> (1.9.14)
-- Extreme Sound Mufflers (3.54) -> (3.55)
-- FamiliarsLib (1.5) -> (1.6)
-- GeckoLib (4.8.3) -> (4.8.4)
-- Immersive Optimizations (0.1.1) -> (0.1.4)
-- Iron's Spells and Spellbooks (3.15.3) -> (3.15.4)
-- Moonlight Lib (2.29.18) -> (2.29.20)
-- SeasonsHUD (1.13.17) -> (2.0.0)
-- Shoulder Surfing (4.21.0) -> (4.22.0)
-- Simply Swords (1.62.0) -> (1.63.0)
-- Sophisticated Backpacks (3.25.30.1537) -> (3.25.30.1547)
-- Sophisticated Backpacks (1.4.5.1499) -> (1.4.6.1506)
-- Supplementaries (3.25.5) -> (3.25.6)
-
-- MakeUp Ultra Fast (9.4b) -> (9.4c)
-
-</details>
+---
 
 ## Recipes
 
-<details>
-<summary>Removed (0)</summary>
-<blockquote>
-
-</details>
-
-<details>
-<summary>Added (5)</summary>
-<blockquote>
+### Added (5)
 
 <details>
 <summary>justhammers/kjs/netherite_hammer</summary>
-  
+
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
-+  "template": {
-+    "item": "minecraft:netherite_upgrade_smithing_template"
-+  },
-+  "base": {
-+    "item": "justhammers:diamond_hammer"
-+  },
-+  "addition": {
-+    "item": "minecraft:netherite_ingot"
-+  },
-+  "result": {
-+    "item": "justhammers:netherite_hammer"
-+  }
++  "template": { "item": "minecraft:netherite_upgrade_smithing_template" },
++  "base": { "item": "justhammers:diamond_hammer" },
++  "addition": { "item": "minecraft:netherite_ingot" },
++  "result": { "item": "justhammers:netherite_hammer" }
 +}
-+ kubejs_changed_marker: {
-+    source: "server_scripts:recipes/add_misc_recipes.js"
-+    line: 24
 ```
+
 </details>
 
 <details>
 <summary>justhammers/kjs/netherite_impact_hammer</summary>
-  
+
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
-+  "template": {
-+    "item": "justhammers:impact_core"
-+  },
-+  "base": {
-+    "item": "justhammers:diamond_impact_hammer"
-+  },
-+  "addition": {
-+    "item": "minecraft:netherite_block"
-+  },
-+  "result": {
-+    "item": "justhammers:netherite_impact_hammer"
-+  }
++  "template": { "item": "justhammers:impact_core" },
++  "base": { "item": "justhammers:diamond_impact_hammer" },
++  "addition": { "item": "minecraft:netherite_block" },
++  "result": { "item": "justhammers:netherite_impact_hammer" }
 +}
-+ kubejs_changed_marker: {
-+    source: "server_scripts:recipes/add_misc_recipes.js"
-+    line: 30
 ```
+
 </details>
 
 <details>
@@ -144,23 +102,13 @@ Summary of changes here:
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
-+  "template": {
-+    "item": "justhammers:reinforced_core"
-+  },
-+  "base": {
-+    "item": "justhammers:diamond_reinforced_hammer"
-+  },
-+  "addition": {
-+    "item": "minecraft:netherite_block"
-+  },
-+  "result": {
-+    "item": "justhammers:netherite_reinforced_hammer"
-+  }
++  "template": { "item": "justhammers:reinforced_core" },
++  "base": { "item": "justhammers:diamond_reinforced_hammer" },
++  "addition": { "item": "minecraft:netherite_block" },
++  "result": { "item": "justhammers:netherite_reinforced_hammer" }
 +}
-+ kubejs_changed_marker: {
-+    source: "server_scripts:recipes/add_misc_recipes.js"
-+    line: 36
 ```
+
 </details>
 
 <details>
@@ -169,23 +117,13 @@ Summary of changes here:
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
-+  "template": {
-+    "item": "justhammers:reinforced_impact_core"
-+  },
-+  "base": {
-+    "item": "justhammers:diamond_reinforced_impact_hammer"
-+  },
-+  "addition": {
-+    "item": "minecraft:netherite_block"
-+  },
-+  "result": {
-+    "item": "justhammers:netherite_reinforced_impact_hammer"
-+  }
++  "template": { "item": "justhammers:reinforced_impact_core" },
++  "base": { "item": "justhammers:diamond_reinforced_impact_hammer" },
++  "addition": { "item": "minecraft:netherite_block" },
++  "result": { "item": "justhammers:netherite_reinforced_impact_hammer" }
 +}
-+ kubejs_changed_marker: {
-+    source: "server_scripts:recipes/add_misc_recipes.js"
-+    line: 24
 ```
+
 </details>
 
 <details>
@@ -194,98 +132,24 @@ Summary of changes here:
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
-+  "template": {
-+    "item": "justhammers:destructor_core"
-+  },
-+  "base": {
-+    "item": "justhammers:diamond_destructor_hammer"
-+  },
-+  "addition": {
-+    "item": "minecraft:netherite_block"
-+  },
-+  "result": {
-+    "item": "justhammers:netherite_destructor_hammer"
-+  }
++  "template": { "item": "justhammers:destructor_core" },
++  "base": { "item": "justhammers:diamond_destructor_hammer" },
++  "addition": { "item": "minecraft:netherite_block" },
++  "result": { "item": "justhammers:netherite_destructor_hammer" }
 +}
-+ kubejs_changed_marker: {
-+    source: "server_scripts:recipes/add_misc_recipes.js"
-+    line: 48
 ```
-</details>
 
 </details>
 
-<details>
-<summary>Changed (0)</summary>
-<blockquote>
-
-</details>
-
-## Tags
-
-<details>
-<summary>Removed (0)</summary>
-<blockquote>
-
-</details>
-
-<details>
-<summary>Added (0)</summary>
-<blockquote>
-
-</details>
-
-<details>
-<summary>Changed (0)</summary>
-<blockquote>
-
-</details>
-
-</details>
-
-## Registries
-
-<details>
-<summary>Removed (0)</summary>
-<blockquote>
-
-</details>
-
-<details>
-<summary>Added (0)</summary>
-<blockquote>
-
-</details>
-
-<details>
-<summary>Changed (0)</summary>
-<blockquote>
-
-</details>
-
-</details>
+---
 
 ## Loot Tables
 
-<details>
-<summary>Removed (0)</summary>
-<blockquote>
-
-</details>
-
-<details>
-<summary>Added (0)</summary>
-<blockquote>
-
-</details>
-
-<details>
-<summary>Changed (4)</summary>
-<blockquote>
+### Changed (23)
 
 <details>
 <summary>cobbleloots/loot_table/loot_ball/azure</summary>
-  
+
 ```diff
 +{
 +  "type": "minecraft:tag",
@@ -295,10 +159,7 @@ Summary of changes here:
 +  "functions": [
 +    {
 +      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
++      "count": { "min": 1, "max": 1 }
 +    }
 +  ]
 +},
@@ -310,20 +171,17 @@ Summary of changes here:
 +  "functions": [
 +    {
 +      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
++      "count": { "min": 1, "max": 1 }
 +    }
 +  ]
 +}
-
 ```
+
 </details>
 
 <details>
 <summary>cobbleloots/loot_table/loot_ball/citrine</summary>
-  
+
 ```diff
 +{
 +  "type": "minecraft:tag",
@@ -333,10 +191,7 @@ Summary of changes here:
 +  "functions": [
 +    {
 +      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
++      "count": { "min": 1, "max": 1 }
 +    }
 +  ]
 +},
@@ -348,52 +203,12 @@ Summary of changes here:
 +  "functions": [
 +    {
 +      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
-+    }
-+  ]
-+}
-
-```
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/heal</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
++      "count": { "min": 1, "max": 1 }
 +    }
 +  ]
 +}
 ```
+
 </details>
 
 <details>
@@ -408,10 +223,7 @@ Summary of changes here:
 +  "functions": [
 +    {
 +      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
++      "count": { "min": 1, "max": 1 }
 +    }
 +  ]
 +},
@@ -423,14 +235,12 @@ Summary of changes here:
 +  "functions": [
 +    {
 +      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
++      "count": { "min": 1, "max": 1 }
 +    }
 +  ]
 +}
 ```
+
 </details>
 
 <details>
@@ -445,10 +255,7 @@ Summary of changes here:
 +  "functions": [
 +    {
 +      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
++      "count": { "min": 1, "max": 1 }
 +    }
 +  ]
 +},
@@ -460,16 +267,587 @@ Summary of changes here:
 +  "functions": [
 +    {
 +      "function": "minecraft:set_count",
-+      "count": {
-+        "min": 1,
-+        "max": 1
-+      }
++      "count": { "min": 1, "max": 1 }
 +    }
 +  ]
 +}
 ```
-</details>
 
 </details>
 
+<details>
+<summary>cobbleloots/loot_table/loot_ball/great</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
 </details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/heal</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/lure</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/luxury</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 25,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 6,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/master</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 35,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 8,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/nest</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/net</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/poke</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 10,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 1,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/premier</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 10,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 1,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/pumpkin</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 25,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 6,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/quick</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 25,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 6,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/rainbow</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/roseate</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 10,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 1,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/safari</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/slate</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 10,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 1,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/timer</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 15,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 2,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/ultra</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 25,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 6,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+
+<details>
+<summary>cobbleloots/loot_table/loot_ball/verdant</summary>
+
+```diff
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tr_items",
++  "expand": true,
++  "weight": 10,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++},
++{
++  "type": "minecraft:tag",
++  "name": "simpletms:tm_items",
++  "expand": true,
++  "weight": 1,
++  "functions": [
++    {
++      "function": "minecraft:set_count",
++      "count": { "min": 1, "max": 1 }
++    }
++  ]
++}
+```
+
+</details>
+````
