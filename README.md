@@ -29,7 +29,7 @@ At a glance, here are all the Pokémon with new type combinations:
 
 For the full, comprehensive document, click the link below:
 
-[Cobblemon Odyssey Pokemon Changes]
+[Cobblemon Odyssey Pokemon Changes](https://haydenshort.github.io/Cobblemon-Odyssey/)
 
 Need Help?
 ======
@@ -41,4 +41,3 @@ Post support messages in the following discord channel:
 ======
 
 [Changelog Directory]: ./CHANGELOGS.md
-[Cobblemon Odyssey Pokemon Changes]: ./COBBLEMON-CHANGES.md
