@@ -1949,3 +1949,67 @@ Level Up:
 50 - Quiver Dance
 54 - Bug Buzz
 58 - Baton Pass
+
+===================
+050 - Diglett
+===================
+Ability:
+Old     Sand Veil / Arena Trap / Sand Force 
+New     Sand Force / Arena Trap / Sand Force
+
+Level Up:
+1 - Astonish
+1 - Growl
+1 - Mud-Slap
+1 - Scratch
+4 - Sand Attack
+7 - Mud Bomb
+10 - Ancient Power
+13 - Magnitude
+16 - Pursuit
+19 - Bulldoze
+22 - Ally Switch
+25 - Sucker Punch
+28 - Scorching Sands
+31 - Reversal
+34 - Slash
+34 - Night Slash
+37 - Beat Up
+40 - Double-Edge
+44 - High Horsepower
+48 - Memento
+52 - Fissure
+56 - Final Gambit
+
+===================
+051 - Dugtrio
+===================
+Ability:
+Old     Sand Veil / Arena Trap / Sand Force 
+New     Sand Force / Arena Trap / Sand Force
+
+Level Up:
+1 - Astonish
+1 - Growl
+1 - Mud-Slap
+1 - Scratch
+4 - Sand Attack
+7 - Mud Bomb
+10 - Ancient Power
+13 - Magnitude
+16 - Pursuit
+19 - Bulldoze
+22 - Ally Switch
+25 - Sucker Punch
+26 - Tri Attack
+29 - Scorching Sands
+32 - Reversal
+35 - Slash
+35 - Night Slash
+38 - Beat Up
+42 - Double-Edge
+46 - High Horsepower
+50 - Memento
+54 - Fissure
+58 - Final Gambit
+62 - Swords Dance
