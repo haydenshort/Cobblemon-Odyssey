@@ -153,7 +153,7 @@ body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-s
   transition: max-height 0.5s cubic-bezier(0.4,0,0.2,1) 0.1s,
               opacity 0.35s cubic-bezier(0.4,0,0.2,1) 0.1s;
 }
-.card-body-inner { overflow: hidden; }
+.card-body-inner { overflow: visible; }
 .section-block { padding: 16px 20px 14px; border-bottom: 1px solid var(--border); }
 .section-block:last-child { border-bottom: none; }
 .section-label {
@@ -1270,6 +1270,7 @@ function toggle(header) {
         card.style.height       = 'calc(100vh - ' + searchH + 'px)';
         card.style.borderRadius = '16px';
         body.classList.add('open');
+        initAbilityTooltips();
       }, 450);
 
     } else {
@@ -1340,6 +1341,7 @@ function toggle(header) {
         card.style.height       = targetH + 'px';
         card.style.borderRadius = '14px';
         body.classList.add('open');
+        initAbilityTooltips();
       }, 420);
     }
 
@@ -1721,10 +1723,27 @@ function hideAbilityTooltip(el) {
 // Attach events to all ability slots
 function initAbilityTooltips() {
   document.querySelectorAll('.ability-slot').forEach(el => {
+    if (el._tooltipInit) return; // don't double-bind
+    el._tooltipInit = true;
+
     // Desktop: hover
     el.addEventListener('mouseenter', () => showAbilityTooltip(el));
     el.addEventListener('mouseleave', () => hideAbilityTooltip(el));
-    // Mobile: tap
+
+    // Mobile: touchend for reliable tap detection
+    el.addEventListener('touchend', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      const existing = [...document.querySelectorAll('.ability-tooltip')].find(t => t._sourceEl === el);
+      if (existing) {
+        hideAbilityTooltip(el);
+      } else {
+        document.querySelectorAll('.ability-tooltip').forEach(t => t.remove());
+        showAbilityTooltip(el);
+      }
+    });
+
+    // Desktop click fallback
     el.addEventListener('click', (e) => {
       e.stopPropagation();
       const existing = [...document.querySelectorAll('.ability-tooltip')].find(t => t._sourceEl === el);
@@ -1736,15 +1755,21 @@ function initAbilityTooltips() {
       }
     });
   });
-  // Tap elsewhere closes tooltips on mobile
-  document.addEventListener('click', () => {
-    document.querySelectorAll('.ability-tooltip').forEach(t => t.remove());
+
+  // Tap elsewhere closes tooltips
+  document.addEventListener('touchend', (e) => {
+    if (!e.target.closest('.ability-slot')) {
+      document.querySelectorAll('.ability-tooltip').forEach(t => t.remove());
+    }
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.ability-slot')) {
+      document.querySelectorAll('.ability-tooltip').forEach(t => t.remove());
+    }
   });
 }
 
-// Init on load, and re-init if new cards ever open
 document.addEventListener('DOMContentLoaded', initAbilityTooltips);
-// Also init immediately in case DOM is already ready
 initAbilityTooltips();
 
 </script>
