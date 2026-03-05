@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:poke_ball",
-          "weight": 10,
+          "weight": 22,
           "functions": [
             {
               "function": "set_count",
@@ -21,7 +21,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:red_apricorn",
-          "weight": 10,
+          "weight": 22,
           "functions": [
             {
               "function": "set_count",
@@ -35,7 +35,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:red_apricorn_seed",
-          "weight": 10,
+          "weight": 22,
           "functions": [
             {
               "function": "set_count",
@@ -49,7 +49,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:redstone",
-          "weight": 10,
+          "weight": 11,
           "functions": [
             {
               "function": "set_count",
@@ -73,7 +73,7 @@
         {
           "type": "minecraft:loot_table",
           "value": "cobbleloots:loot_ball/shared/candy_common",
-          "weight": 1
+          "weight": 2
         },
         {
           "type": "minecraft:tag",
