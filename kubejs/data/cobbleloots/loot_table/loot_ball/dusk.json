@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:dusk_ball",
-          "weight": 10,
+          "weight": 14,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -21,17 +21,17 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:dusk_stone",
-          "weight": 9
+          "weight": 12
         },
         {
           "type": "minecraft:item",
           "name": "cobblemon:utility_umbrella",
-          "weight": 8
+          "weight": 11
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:echo_shard",
-          "weight": 8,
+          "weight": 11,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -45,27 +45,27 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:razor_claw",
-          "weight": 2
+          "weight": 3
         },
         {
           "type": "minecraft:item",
           "name": "cobblemon:razor_fang",
-          "weight": 2
+          "weight": 3
         },
         {
           "type": "minecraft:item",
           "name": "cobblemon:reaper_cloth",
-          "weight": 2
+          "weight": 3
         },
         {
           "type": "minecraft:item",
           "name": "cobblemon:black_glasses",
-          "weight": 2
+          "weight": 3
         },
         {
           "type": "minecraft:item",
           "name": "cobblemon:ghost_gem",
-          "weight": 1,
+          "weight": 2,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -79,7 +79,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:dark_gem",
-          "weight": 1,
+          "weight": 2,
           "functions": [
             {
               "function": "minecraft:set_count",

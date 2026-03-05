@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:luxury_ball",
-          "weight": 10,
+          "weight": 18,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -21,7 +21,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond",
-          "weight": 4,
+          "weight": 8,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -35,7 +35,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:emerald",
-          "weight": 4,
+          "weight": 8,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -49,7 +49,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:netherite_ingot",
-          "weight": 2,
+          "weight": 4,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -60,7 +60,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:shulker_shell",
-          "weight": 6,
+          "weight": 10,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -74,7 +74,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:soothe_bell",
-          "weight": 4,
+          "weight": 7,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -85,7 +85,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:destiny_knot",
-          "weight": 4,
+          "weight": 7,
           "functions": [
             {
               "function": "minecraft:set_count",

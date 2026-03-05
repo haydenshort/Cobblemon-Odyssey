@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:ultra_ball",
-          "weight": 10,
+          "weight": 18,
           "functions": [
             {
               "function": "set_count",
@@ -21,7 +21,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond",
-          "weight": 8,
+          "weight": 16,
           "functions": [
             {
               "function": "set_count",
@@ -35,7 +35,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:emerald",
-          "weight": 6,
+          "weight": 14,
           "functions": [
             {
               "function": "set_count",
@@ -49,7 +49,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:netherite_scrap",
-          "weight": 4,
+          "weight": 10,
           "functions": [
             {
               "function": "set_count",
@@ -63,7 +63,7 @@
         {
           "type": "minecraft:loot_table",
           "value": "cobbleloots:loot_ball/shared/medicine_rare",
-          "weight": 8
+          "weight": 10
         },
         {
           "type": "minecraft:loot_table",
