@@ -5,7 +5,7 @@
   "eggHatchMultiplier": 1.0,
   "shinyMethod": {
     "masuda": 2.0,
-    "crystal": 2.0,
+    "crystal": 4.0,
     "always": 8.0
   },
   "hiddenAbilitiesEnabled": true,
