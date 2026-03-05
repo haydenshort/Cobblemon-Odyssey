@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:master_ball",
-          "weight": 10,
+          "weight": 14,
           "functions": [
             {
               "function": "set_count",
@@ -18,7 +18,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:netherite_ingot",
-          "weight": 8,
+          "weight": 11,
           "functions": [
             {
               "function": "set_count",
@@ -32,7 +32,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:nether_star",
-          "weight": 6,
+          "weight": 9,
           "functions": [
             {
               "function": "set_count",
@@ -43,7 +43,7 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:ability_patch",
-          "weight": 4,
+          "weight": 6,
           "functions": [
             {
               "function": "set_count",
@@ -54,17 +54,17 @@
         {
           "type": "minecraft:loot_table",
           "value": "cobbleloots:loot_ball/shared/medicine_ultra_rare",
-          "weight": 8
+          "weight": 11
         },
         {
           "type": "minecraft:loot_table",
           "value": "cobbleloots:loot_ball/shared/ev_ultra_rare",
-          "weight": 2
+          "weight": 3
         },
         {
           "type": "minecraft:loot_table",
           "value": "cobbleloots:loot_ball/shared/candy_ultra_rare",
-          "weight": 1
+          "weight": 2
         },
         {
           "type": "minecraft:loot_table",
