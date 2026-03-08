@@ -80,9 +80,19 @@
 
 ### Added (32)
 
+#### JustHammers Netherite Upgrades (5)
+- Netherite Hammer
+- Netherite Impact Hammer
+- Netherite Reinforced Hammer
+- Netherite Reinforced Impact Hammer
+- Netherite Destructor Hammer
+
+<details>
+<summary>View Recipe Details</summary>
+
 <details>
 <summary>justhammers/kjs/netherite_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -96,7 +106,7 @@
 
 <details>
 <summary>justhammers/kjs/netherite_impact_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -110,7 +120,7 @@
 
 <details>
 <summary>justhammers/kjs/netherite_reinforced_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -124,7 +134,7 @@
 
 <details>
 <summary>justhammers/kjs/netherite_reinforced_impact_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -138,7 +148,7 @@
 
 <details>
 <summary>justhammers/kjs/netherite_destructor_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -149,6 +159,18 @@
 +}
 ```
 </details>
+
+</details>
+
+#### Create Deploying: Stamped Ball Lids (5)
+- Stamped Brass Nugget Lid
+- Stamped Copper Nugget Lid
+- Stamped Iron Nugget Lid
+- Stamped Sturdy Sheet Lid
+- Stamped Stripped Apricorn Log Lid
+
+<details>
+<summary>View Recipe Details</summary>
 
 <details>
 <summary>createmonballsoverhaul/stamped_brass_nugget_lid</summary>
@@ -240,16 +262,28 @@
 ```
 </details>
 
+</details>
+
+#### Oritech Assembler: Ball Mechanisms (8)
+- Brass Ball Mechanism
+- Brass Ancient Ball Mechanism
+- Copper Ball Mechanism
+- Copper Ancient Ball Mechanism
+- Iron Ball Mechanism
+- Iron Ancient Ball Mechanism
+- Sturdy Ball Mechanism
+- Sturdy Ancient Ball Mechanism
+
+<details>
+<summary>View Recipe Details</summary>
+
 <details>
 <summary>oritech/assembler/brass_ball_mechanism</summary>
   
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:brass_ball_base" },
@@ -257,9 +291,7 @@
 +    { "item": "create:shaft" },
 +    { "item": "createmonballsoverhaul:brass_ball_base" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "createmonballsoverhaul:brass_ball_mechanism" }
-+  ],
++  "results": [{ "count": 1, "id": "createmonballsoverhaul:brass_ball_mechanism" }],
 +  "time": 120
 +}
 ```
@@ -271,10 +303,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:brass_ball_base" },
@@ -282,9 +311,7 @@
 +    { "item": "create:shaft" },
 +    { "item": "createmonballsoverhaul:brass_ball_base" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "createmonballsoverhaul:brass_ancient_ball_mechanism" }
-+  ],
++  "results": [{ "count": 1, "id": "createmonballsoverhaul:brass_ancient_ball_mechanism" }],
 +  "time": 120
 +}
 ```
@@ -296,10 +323,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_base" },
@@ -307,9 +331,7 @@
 +    { "item": "create:shaft" },
 +    { "item": "createmonballsoverhaul:copper_ball_base" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "createmonballsoverhaul:copper_ball_mechanism" }
-+  ],
++  "results": [{ "count": 1, "id": "createmonballsoverhaul:copper_ball_mechanism" }],
 +  "time": 120
 +}
 ```
@@ -321,10 +343,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_base" },
@@ -332,9 +351,7 @@
 +    { "item": "create:shaft" },
 +    { "item": "createmonballsoverhaul:copper_ball_base" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "createmonballsoverhaul:copper_ancient_ball_mechanism" }
-+  ],
++  "results": [{ "count": 1, "id": "createmonballsoverhaul:copper_ancient_ball_mechanism" }],
 +  "time": 120
 +}
 ```
@@ -346,10 +363,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:iron_ball_base" },
@@ -357,9 +371,7 @@
 +    { "item": "create:shaft" },
 +    { "item": "createmonballsoverhaul:iron_ball_base" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "createmonballsoverhaul:iron_ball_mechanism" }
-+  ],
++  "results": [{ "count": 1, "id": "createmonballsoverhaul:iron_ball_mechanism" }],
 +  "time": 120
 +}
 ```
@@ -371,10 +383,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:iron_ball_base" },
@@ -382,9 +391,7 @@
 +    { "item": "create:shaft" },
 +    { "item": "createmonballsoverhaul:iron_ball_base" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "createmonballsoverhaul:iron_ancient_ball_mechanism" }
-+  ],
++  "results": [{ "count": 1, "id": "createmonballsoverhaul:iron_ancient_ball_mechanism" }],
 +  "time": 120
 +}
 ```
@@ -396,10 +403,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:sturdy_ball_base" },
@@ -407,9 +411,7 @@
 +    { "item": "create:shaft" },
 +    { "item": "createmonballsoverhaul:sturdy_ball_base" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "createmonballsoverhaul:sturdy_ball_mechanism" }
-+  ],
++  "results": [{ "count": 1, "id": "createmonballsoverhaul:sturdy_ball_mechanism" }],
 +  "time": 120
 +}
 ```
@@ -421,10 +423,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:sturdy_ball_base" },
@@ -432,13 +431,22 @@
 +    { "item": "create:shaft" },
 +    { "item": "createmonballsoverhaul:sturdy_ball_base" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "createmonballsoverhaul:sturdy_ancient_ball_mechanism" }
-+  ],
++  "results": [{ "count": 1, "id": "createmonballsoverhaul:sturdy_ancient_ball_mechanism" }],
 +  "time": 120
 +}
 ```
 </details>
+
+</details>
+
+#### Oritech Assembler: Pokéballs (14)
+**Standard Balls (7):** Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant  
+**Ancient Balls (7):** Ancient Azure, Ancient Citrine, Ancient Poke, Ancient Premier, Ancient Roseate, Ancient Slate, Ancient Verdant
+
+<details>
+<summary>View All Pokéball Recipes</summary>
+
+**Standard Pokéballs:**
 
 <details>
 <summary>oritech/assembler/azure_ball</summary>
@@ -446,10 +454,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_mechanism" },
@@ -457,9 +462,7 @@
 +    { "item": "createmonballsoverhaul:blank_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:azure_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:azure_ball" }],
 +  "time": 120
 +}
 ```
@@ -471,10 +474,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_mechanism" },
@@ -482,9 +482,7 @@
 +    { "item": "createmonballsoverhaul:blank_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:citrine_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:citrine_ball" }],
 +  "time": 120
 +}
 ```
@@ -496,10 +494,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_mechanism" },
@@ -507,9 +502,7 @@
 +    { "item": "createmonballsoverhaul:blank_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:poke_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:poke_ball" }],
 +  "time": 120
 +}
 ```
@@ -521,10 +514,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_mechanism" },
@@ -532,9 +522,7 @@
 +    { "item": "createmonballsoverhaul:blank_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:premier_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:premier_ball" }],
 +  "time": 120
 +}
 ```
@@ -546,10 +534,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_mechanism" },
@@ -557,9 +542,7 @@
 +    { "item": "createmonballsoverhaul:blank_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:roseate_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:roseate_ball" }],
 +  "time": 120
 +}
 ```
@@ -571,10 +554,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_mechanism" },
@@ -582,9 +562,7 @@
 +    { "item": "createmonballsoverhaul:blank_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:slate_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:slate_ball" }],
 +  "time": 120
 +}
 ```
@@ -596,10 +574,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ball_mechanism" },
@@ -607,13 +582,13 @@
 +    { "item": "createmonballsoverhaul:blank_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:verdant_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:verdant_ball" }],
 +  "time": 120
 +}
 ```
 </details>
+
+**Ancient Pokéballs:**
 
 <details>
 <summary>oritech/assembler/ancient_azure_ball</summary>
@@ -621,10 +596,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ancient_ball_mechanism" },
@@ -632,9 +604,7 @@
 +    { "item": "createmonballsoverhaul:apricorn_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:ancient_azure_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:ancient_azure_ball" }],
 +  "time": 120
 +}
 ```
@@ -646,10 +616,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ancient_ball_mechanism" },
@@ -657,9 +624,7 @@
 +    { "item": "createmonballsoverhaul:apricorn_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:ancient_citrine_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:ancient_citrine_ball" }],
 +  "time": 120
 +}
 ```
@@ -671,10 +636,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ancient_ball_mechanism" },
@@ -682,9 +644,7 @@
 +    { "item": "createmonballsoverhaul:apricorn_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:ancient_poke_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:ancient_poke_ball" }],
 +  "time": 120
 +}
 ```
@@ -696,10 +656,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ancient_ball_mechanism" },
@@ -707,9 +664,7 @@
 +    { "item": "createmonballsoverhaul:apricorn_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:ancient_premier_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:ancient_premier_ball" }],
 +  "time": 120
 +}
 ```
@@ -721,10 +676,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ancient_ball_mechanism" },
@@ -732,9 +684,7 @@
 +    { "item": "createmonballsoverhaul:apricorn_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:ancient_roseate_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:ancient_roseate_ball" }],
 +  "time": 120
 +}
 ```
@@ -746,10 +696,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ancient_ball_mechanism" },
@@ -757,9 +704,7 @@
 +    { "item": "createmonballsoverhaul:apricorn_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:ancient_slate_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:ancient_slate_ball" }],
 +  "time": 120
 +}
 ```
@@ -771,10 +716,7 @@
 ```diff
 +{
 +  "type": "oritech:assembler",
-+  "fluidInput": {
-+    "amount": 0,
-+    "fluid": "minecraft:empty"
-+  },
++  "fluidInput": { "amount": 0, "fluid": "minecraft:empty" },
 +  "fluidOutputs": [],
 +  "ingredients": [
 +    { "item": "createmonballsoverhaul:copper_ancient_ball_mechanism" },
@@ -782,12 +724,12 @@
 +    { "item": "createmonballsoverhaul:apricorn_ball_lid" },
 +    { "tag": "c:rods/iron" }
 +  ],
-+  "results": [
-+    { "count": 1, "id": "cobblemon:ancient_verdant_ball" }
-+  ],
++  "results": [{ "count": 1, "id": "cobblemon:ancient_verdant_ball" }],
 +  "time": 120
 +}
 ```
+</details>
+
 </details>
 
 ---
@@ -796,706 +738,45 @@
 
 ### Changed (23)
 
-<details>
-<summary>cobbleloots/loot_table/loot_ball/azure</summary>
+**Added SimpleTMs (TR and TM items) to all Loot Ball loot tables:**
 
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 10,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 1,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
+Azure, Citrine, Dive, Dusk, Great, Heal, Lure, Luxury, Master, Nest, Net, Poke, Premier, Pumpkin, Quick, Rainbow, Roseate, Safari, Slate, Timer, Ultra, Verdant
 
 <details>
-<summary>cobbleloots/loot_table/loot_ball/citrine</summary>
+<summary>View Loot Table Changes</summary>
 
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 10,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 1,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
+All loot balls now include:
+```json
+{
+  "type": "minecraft:tag",
+  "name": "simpletms:tr_items",
+  "expand": true,
+  "weight": [varies by ball tier],
+  "functions": [
+    {
+      "function": "minecraft:set_count",
+      "count": { "min": 1, "max": 1 }
+    }
+  ]
+},
+{
+  "type": "minecraft:tag",
+  "name": "simpletms:tm_items",
+  "expand": true,
+  "weight": [varies by ball tier],
+  "functions": [
+    {
+      "function": "minecraft:set_count",
+      "count": { "min": 1, "max": 1 }
+    }
+  ]
+}
 ```
 
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/dive</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/dusk</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 25,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 6,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/great</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/heal</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/lure</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/luxury</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 25,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 6,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/master</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 35,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 8,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/nest</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/net</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/poke</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 10,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 1,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/premier</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 10,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 1,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/pumpkin</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 25,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 6,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/quick</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 25,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 6,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/rainbow</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/roseate</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 10,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 1,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/safari</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/slate</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 10,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 1,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/timer</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 15,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 2,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/ultra</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 25,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 6,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
-
-</details>
-
-<details>
-<summary>cobbleloots/loot_table/loot_ball/verdant</summary>
-
-```diff
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tr_items",
-+  "expand": true,
-+  "weight": 10,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+},
-+{
-+  "type": "minecraft:tag",
-+  "name": "simpletms:tm_items",
-+  "expand": true,
-+  "weight": 1,
-+  "functions": [
-+    {
-+      "function": "minecraft:set_count",
-+      "count": { "min": 1, "max": 1 }
-+    }
-+  ]
-+}
-```
+**Weight Distribution by Ball Tier:**
+- **Tier 1** (Poke, Azure, Citrine, Premier, Roseate, Slate, Verdant): TR weight 10, TM weight 1
+- **Tier 2** (Great, Dive, Heal, Lure, Nest, Net, Rainbow, Safari, Timer): TR weight 15, TM weight 2
+- **Tier 3** (Ultra, Dusk, Luxury, Pumpkin, Quick): TR weight 25, TM weight 6
+- **Tier 4** (Master): TR weight 35, TM weight 8
 
 </details>
