@@ -21,6 +21,7 @@
 
 ### Removed (1)
 - Complete Cobblemon Collection Resource/Data Pack (2.0)
+- Extra Disks (4.0.14)
 
 ### Added (7)
 - Cobblemon Pokerus (1.1.0)
