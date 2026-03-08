@@ -738,45 +738,75 @@
 
 ### Changed (23)
 
-**Added SimpleTMs (TR and TM items) to all Loot Ball loot tables:**
+**Rebalanced Loot Ball drop weights and added SimpleTMs to all Loot Ball loot tables**
 
-Azure, Citrine, Dive, Dusk, Great, Heal, Lure, Luxury, Master, Nest, Net, Poke, Premier, Pumpkin, Quick, Rainbow, Roseate, Safari, Slate, Timer, Ultra, Verdant
+All loot balls have been rebalanced to improve drop rates and now include TMs and TRs from SimpleTMs.
 
 <details>
-<summary>View Loot Table Changes</summary>
+<summary>Weight Rebalancing Summary</summary>
 
-All loot balls now include:
+**Tier 1 Balls** (Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant):
+- Ball/Apricorn/Seed weights: 10 → 22
+- Resource weights: 10 → 11 (Verdant emerald: 5 → 11)
+- Candy weight: 1 → 2
+- Added: TR items (weight 10), TM items (weight 1)
+
+**Tier 2 Balls** (Dive, Great, Heal, Lure, Nest, Net, Rainbow, Safari, Timer):
+- Ball weights: 10 → 18-20
+- Resource/item weights increased proportionally
+- Medicine weight: 8 → 11-14
+- EV items weight: 2 → 4
+- Candy weight: 1 → 2
+- Tools weight: 1 → 2 (where applicable)
+- Added: TR items (weight 15), TM items (weight 2)
+
+**Tier 3 Balls** (Dusk, Luxury, Pumpkin, Quick, Ultra):
+- Ball weights: 10 → 14-18
+- Valuable item weights increased significantly
+- Medicine/loot table weights increased proportionally
+- Added: TR items (weight 25), TM items (weight 6)
+
+**Tier 4 Balls** (Master):
+- Ball weight: 10 → 14
+- Netherite ingot: 8 → 11
+- Nether star: 6 → 9
+- Ability patch: 4 → 6
+- Medicine ultra rare: 8 → 11
+- EV ultra rare: 2 → 3
+- Candy ultra rare: 1 → 2
+- Added: TR items (weight 35), TM items (weight 8)
+
+</details>
+
+<details>
+<summary>SimpleTMs Addition</summary>
+
+All loot balls now include Technical Records (TR) and Technical Machines (TM) with weights scaled by tier:
 ```json
 {
   "type": "minecraft:tag",
   "name": "simpletms:tr_items",
   "expand": true,
-  "weight": [varies by ball tier],
-  "functions": [
-    {
-      "function": "minecraft:set_count",
-      "count": { "min": 1, "max": 1 }
-    }
-  ]
+  "weight": [varies by ball tier: 10/15/25/35]
 },
 {
   "type": "minecraft:tag",
   "name": "simpletms:tm_items",
   "expand": true,
-  "weight": [varies by ball tier],
-  "functions": [
-    {
-      "function": "minecraft:set_count",
-      "count": { "min": 1, "max": 1 }
-    }
-  ]
+  "weight": [varies by ball tier: 1/2/6/8]
 }
 ```
 
-**Weight Distribution by Ball Tier:**
-- **Tier 1** (Poke, Azure, Citrine, Premier, Roseate, Slate, Verdant): TR weight 10, TM weight 1
-- **Tier 2** (Great, Dive, Heal, Lure, Nest, Net, Rainbow, Safari, Timer): TR weight 15, TM weight 2
-- **Tier 3** (Ultra, Dusk, Luxury, Pumpkin, Quick): TR weight 25, TM weight 6
-- **Tier 4** (Master): TR weight 35, TM weight 8
+**SimpleTMs Weight Distribution by Ball Tier:**
+- **Tier 1**: TR weight 10, TM weight 1
+- **Tier 2**: TR weight 15, TM weight 2
+- **Tier 3**: TR weight 25, TM weight 6
+- **Tier 4**: TR weight 35, TM weight 8
 
 </details>
+
+**Affected Loot Balls (23):**
+- **Tier 1 (7)**: Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant
+- **Tier 2 (9)**: Dive, Great, Heal, Lure, Nest, Net, Rainbow, Safari, Timer
+- **Tier 3 (6)**: Dusk, Luxury, Pumpkin, Quick, Ultra
+- **Tier 4 (1)**: Master
