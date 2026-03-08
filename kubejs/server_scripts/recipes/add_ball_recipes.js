@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
                 item: output,
                 count: count
             }],
-            keep_held_item: "true"
+            keep_held_item: true
         })
     })
 })
