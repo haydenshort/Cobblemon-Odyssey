@@ -17,11 +17,6 @@ ServerEvents.recipes(event => {
         })
     }
 
-    const recipesJam = [
-    ]
-
-    recipesJam.forEach(cookingRecipe)
-
     const recipesSoup = [
         {
             output: "mushroomquest:miso_soup_block",
