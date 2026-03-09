@@ -117,13 +117,11 @@
     "42:assurance",
     "45:doubleedge",
     "48:lastresort",
-
     "egg:amnesia",
     "egg:flail",
     "egg:odorsleuth",
     "egg:punishment",
     "egg:tailwhip",
-
     "tm:honeclaws",
     "tm:toxic",
     "tm:hiddenpower",
@@ -153,7 +151,6 @@
     "tm:cut",
     "tm:bulletseed",
     "tm:thief",
-    
     "tutor:covet",
     "tutor:darkpulse",
     "tutor:foulplay",
@@ -213,9 +210,9 @@
       ],
       "baseStats": {
         "hp": 45,
-        "attack": 60,
+        "attack": 30,
         "defence": 35,
-        "special_attack": 30,
+        "special_attack": 60,
         "special_defence": 40,
         "speed": 90
       },
@@ -259,13 +256,11 @@
         "42:taunt",
         "45:darkpulse",
         "48:lastresort",
-
         "egg:amnesia",
         "egg:flail",
         "egg:odorsleuth",
         "egg:punishment",
         "egg:tailwhip",
-
         "tm:honeclaws",
         "tm:toxic",
         "tm:hiddenpower",
@@ -295,7 +290,6 @@
         "tm:cut",
         "tm:snarl",
         "tm:thief",
-
         "tutor:covet",
         "tutor:darkpulse",
         "tutor:foulplay",
@@ -321,7 +315,7 @@
           "result": "persian alolan",
           "consumeHeldItem": false,
           "learnableMoves": [
-            "powergem"
+            "partingshot"
           ],
           "requirements": [
             {
@@ -377,11 +371,11 @@
       ],
       "baseStats": {
         "hp": 50,
-        "attack": 70,
-        "defence": 55,
-        "special_attack": 35,
+        "attack": 75,
+        "defence": 65,
+        "special_attack": 30,
         "special_defence": 40,
-        "speed": 50
+        "speed": 40
       },
       "evYield": {
         "hp": 0,
@@ -452,13 +446,11 @@
         "42:lashout",
         "45:doubleedge",
         "48:lastresort",
-
         "egg:amnesia",
         "egg:flail",
         "egg:odorsleuth",
         "egg:punishment",
         "egg:tailwhip",
-
         "tm:honeclaws",
         "tm:toxic",
         "tm:hiddenpower",
@@ -488,7 +480,6 @@
         "tm:cut",
         "tm:snarl",
         "tm:thief",
-
         "tutor:covet",
         "tutor:darkpulse",
         "tutor:foulplay",
