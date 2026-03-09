@@ -215,7 +215,7 @@ ServerEvents.recipes(event => {
             output: "cobblemon:ancient_azure_ball",
             inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
             assemblyItem_1: {item: "createmonballsoverhaul:coated_blue_ball_lid"},
-            assemblyItem_2: {item: "createmonballsoverhaul:apricorn_ball_lid"},
+            assemblyItem_2: {item: "createmonballsoverhaul:blank_ball_lid"},
             assemblyItem_3: {tag: "c:rods/iron"},
             count: 1,
             timeAmount: 120
@@ -224,7 +224,7 @@ ServerEvents.recipes(event => {
             output: "cobblemon:ancient_citrine_ball",
             inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
             assemblyItem_1: {item: "createmonballsoverhaul:coated_yellow_ball_lid"},
-            assemblyItem_2: {item: "createmonballsoverhaul:apricorn_ball_lid"},
+            assemblyItem_2: {item: "createmonballsoverhaul:blank_ball_lid"},
             assemblyItem_3: {tag: "c:rods/iron"},
             count: 1,
             timeAmount: 120
@@ -233,16 +233,16 @@ ServerEvents.recipes(event => {
             output: "cobblemon:ancient_poke_ball",
             inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
             assemblyItem_1: {item: "createmonballsoverhaul:coated_red_ball_lid"},
-            assemblyItem_2: {item: "createmonballsoverhaul:apricorn_ball_lid"},
+            assemblyItem_2: {item: "createmonballsoverhaul:blank_ball_lid"},
             assemblyItem_3: {tag: "c:rods/iron"},
             count: 1,
             timeAmount: 120
         },
         {
-            output: "cobblemon:ancient_premier_ball",
+            output: "cobblemon:ancient_ivory_ball",
             inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
             assemblyItem_1: {item: "createmonballsoverhaul:coated_white_ball_lid"},
-            assemblyItem_2: {item: "createmonballsoverhaul:apricorn_ball_lid"},
+            assemblyItem_2: {item: "createmonballsoverhaul:blank_ball_lid"},
             assemblyItem_3: {tag: "c:rods/iron"},
             count: 1,
             timeAmount: 120
@@ -251,7 +251,7 @@ ServerEvents.recipes(event => {
             output: "cobblemon:ancient_roseate_ball",
             inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
             assemblyItem_1: {item: "createmonballsoverhaul:coated_pink_ball_lid"},
-            assemblyItem_2: {item: "createmonballsoverhaul:apricorn_ball_lid"},
+            assemblyItem_2: {item: "createmonballsoverhaul:blank_ball_lid"},
             assemblyItem_3: {tag: "c:rods/iron"},
             count: 1,
             timeAmount: 120
@@ -260,7 +260,7 @@ ServerEvents.recipes(event => {
             output: "cobblemon:ancient_slate_ball",
             inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
             assemblyItem_1: {item: "createmonballsoverhaul:coated_black_ball_lid"},
-            assemblyItem_2: {item: "createmonballsoverhaul:apricorn_ball_lid"},
+            assemblyItem_2: {item: "createmonballsoverhaul:blank_ball_lid"},
             assemblyItem_3: {tag: "c:rods/iron"},
             count: 1,
             timeAmount: 120
@@ -269,7 +269,25 @@ ServerEvents.recipes(event => {
             output: "cobblemon:ancient_verdant_ball",
             inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
             assemblyItem_1: {item: "createmonballsoverhaul:coated_green_ball_lid"},
+            assemblyItem_2: {item: "createmonballsoverhaul:blank_ball_lid"},
+            assemblyItem_3: {tag: "c:rods/iron"},
+            count: 1,
+            timeAmount: 120
+        },
+        {
+            output: "cobblemon:ancient_feather_ball",
+            inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
+            assemblyItem_1: {item: "createmonballsoverhaul:ancient_feather_ball_lid"},
             assemblyItem_2: {item: "createmonballsoverhaul:apricorn_ball_lid"},
+            assemblyItem_3: {tag: "c:rods/iron"},
+            count: 1,
+            timeAmount: 120
+        },
+        {
+            output: "cobblemon:ancient_heavy_ball",
+            inputItem: {item: "createmonballsoverhaul:copper_ancient_ball_mechanism"},
+            assemblyItem_1: {item: "createmonballsoverhaul:ancient_heavy_ball_lid"},
+            assemblyItem_2: {item: "createmonballsoverhaul:black_ball_lid"},
             assemblyItem_3: {tag: "c:rods/iron"},
             count: 1,
             timeAmount: 120
