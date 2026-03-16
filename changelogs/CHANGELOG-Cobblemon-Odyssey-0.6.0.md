@@ -32,10 +32,10 @@
 - Complete Cobblemon Collection Mod Version (2.0.1)
 - Create: Copycats+ (3.0.4)
 - NeoAuth (1.0.0)
-- Simple Backups (4.0.28)
+- FTB Backups 3 (21.1.3)
 - StructureOverlapless (1.2.0)
 
-### Updated (36)
+### Updated (58)
 | Mod | Old | New |
 |-----|-----|-----|
 | Advanced Loot Info | 1.7.3 | 1.8.2 |
