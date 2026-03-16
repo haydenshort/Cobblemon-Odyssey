@@ -36,6 +36,8 @@
 - StructureOverlapless (1.2.0)
 
 ### Updated (58)
+<details>
+  
 | Mod | Old | New |
 |-----|-----|-----|
 | Advanced Loot Info | 1.7.3 | 1.8.2 |
@@ -96,6 +98,7 @@
 | Supplementaries | 3.25.25 | 3.25.29 |
 | Waystones | 21.1.28 | 21.1.29 |
 | Xaero's Maps x Waystones | 2.6.1 | 2.7.1 |
+</details>
 
 ---
 
