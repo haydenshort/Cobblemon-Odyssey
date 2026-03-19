@@ -35,15 +35,17 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 
 ## 📦 Mods, Shaders, & Packs
 
-### ➕ Added (50 New!)
+### ➕ Added (52 New!)
 
 <details>
-<summary><b>🐉 Cobblemon Enhancements (4)</b></summary>
+<summary><b>🐉 Cobblemon Enhancements (6)</b></summary>
 
 - Cobblemon Pokerus (1.1.0)
 - Cobblemon Size Variations (1.4.0)
 - Cobbreeding (2.2.1)
 - Complete Cobblemon Collection Mod (2.0.1)
+- Mega Showdown Ores (1.2.4)
+- Navas ZA Megas (1.6.1)
 
 </details>
 
