@@ -17,6 +17,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 ## 🔧 General Changes
 
 - ⚒️ **JustHammers Netherite Recipes** - Updated to match vanilla netherite upgrade patterns
+- 🥛 **Milk System Reimplemented** - Milk and milk buckets are back *(subject to refinement)*
 - 📦 **Complete Cobblemon Collection** - Switched from resource pack to mod version
 - 🏗️ **Structure Spread Reduced** - Lowered from 1.4 to 1.2 for better world generation
 - 🌐 **Better End/Nether Removed** - Removed due to compatibility issues
@@ -48,10 +49,11 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🏰 Structures & Worldgen (12)</b></summary>
+<summary><b>🏰 Structures & Worldgen (13)</b></summary>
 
 - Concurrent Chunk Management Engine (0.3.0+alpha0.90)
 - Incendium (5.4.4)
+- Nullscape (1.2.14)
 - Hopo Better Mineshafts (1.3.0b)
 - Hopo Better Ruined Portal (1.4.4b)
 - Hopo Better Underwater Ruins (1.2.1b)
@@ -254,9 +256,19 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 
 ### ➕ Added (32)
 
+#### ⚒️ JustHammers Netherite Upgrades (5)
+- Netherite Hammer
+- Netherite Impact Hammer
+- Netherite Reinforced Hammer
+- Netherite Reinforced Impact Hammer
+- Netherite Destructor Hammer
+
+<details>
+<summary>View Recipe Details</summary>
+
 <details>
 <summary>justhammers/kjs/netherite_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -266,12 +278,11 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 +  "result": { "item": "justhammers:netherite_hammer" }
 +}
 ```
-
 </details>
 
 <details>
 <summary>justhammers/kjs/netherite_impact_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -281,12 +292,11 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 +  "result": { "item": "justhammers:netherite_impact_hammer" }
 +}
 ```
-
 </details>
 
 <details>
 <summary>justhammers/kjs/netherite_reinforced_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -296,12 +306,11 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 +  "result": { "item": "justhammers:netherite_reinforced_hammer" }
 +}
 ```
-
 </details>
 
 <details>
 <summary>justhammers/kjs/netherite_reinforced_impact_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -311,12 +320,11 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 +  "result": { "item": "justhammers:netherite_reinforced_impact_hammer" }
 +}
 ```
-
 </details>
 
 <details>
 <summary>justhammers/kjs/netherite_destructor_hammer</summary>
-
+  
 ```diff
 +{
 +  "type": "minecraft:smithing_transform",
@@ -326,8 +334,19 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 +  "result": { "item": "justhammers:netherite_destructor_hammer" }
 +}
 ```
+</details>
 
 </details>
+
+#### ⚙️ Create Deploying: Stamped Ball Lids (5)
+- Stamped Brass Nugget Lid
+- Stamped Copper Nugget Lid
+- Stamped Iron Nugget Lid
+- Stamped Sturdy Sheet Lid
+- Stamped Stripped Apricorn Log Lid
+
+<details>
+<summary>View Recipe Details</summary>
 
 <details>
 <summary>createmonballsoverhaul/stamped_brass_nugget_lid</summary>
@@ -418,6 +437,21 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 +}
 ```
 </details>
+
+</details>
+
+#### 🔧 Oritech Assembler: Ball Mechanisms (8)
+- Brass Ball Mechanism
+- Brass Ancient Ball Mechanism
+- Copper Ball Mechanism
+- Copper Ancient Ball Mechanism
+- Iron Ball Mechanism
+- Iron Ancient Ball Mechanism
+- Sturdy Ball Mechanism
+- Sturdy Ancient Ball Mechanism
+
+<details>
+<summary>View Recipe Details</summary>
 
 <details>
 <summary>oritech/assembler/brass_ball_mechanism</summary>
@@ -579,6 +613,17 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 ```
 </details>
 
+</details>
+
+#### 🎱 Oritech Assembler: Pokéballs (14)
+**Standard Balls (7):** Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant  
+**Ancient Balls (7):** Ancient Azure, Ancient Citrine, Ancient Poke, Ancient Premier, Ancient Roseate, Ancient Slate, Ancient Verdant
+
+<details>
+<summary>View All Pokéball Recipes</summary>
+
+**Standard Pokéballs:**
+
 <details>
 <summary>oritech/assembler/azure_ball</summary>
   
@@ -718,6 +763,8 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 +}
 ```
 </details>
+
+**Ancient Pokéballs:**
 
 <details>
 <summary>oritech/assembler/ancient_azure_ball</summary>
@@ -859,94 +906,88 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 ```
 </details>
 
----
-
-## 🎁 Loot Table Changes
-
-### 🎰 Loot Ball Overhaul (23 Balls Updated)
-
-All loot balls have been **completely rebalanced** with better drop rates and now include **TMs and TRs from SimpleTMs**!
-
-#### 📊 What Changed?
-
-✅ **Increased drop weights** across all tiers for better loot  
-✅ **Added SimpleTMs** - Now drops Technical Records (TRs) and Technical Machines (TMs)  
-✅ **Balanced by tier** - Higher tier balls drop TMs/TRs more frequently
+</details>
 
 ---
 
-### 🎯 SimpleTMs Drop Rates by Tier
-
-| Tier | Balls | TR Weight | TM Weight |
-|------|-------|-----------|-----------|
-| **Tier 1** | Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant | 10 | 1 |
-| **Tier 2** | Dive, Great, Heal, Lure, Nest, Net, Rainbow, Safari, Timer | 15 | 2 |
-| **Tier 3** | Dusk, Luxury, Pumpkin, Quick, Ultra | 25 | 6 |
-| **Tier 4** | Master | 35 | 8 |
-
-💡 **What this means:** Higher tier balls give you better chances at rare TMs! Master Balls have the highest TM drop rate.
-
 ---
 
-### 📦 Detailed Rebalancing
+## 🎁 Loot Tables
+
+### 🔄 Changed (23)
+
+**Rebalanced Loot Ball drop weights and added SimpleTMs to all Loot Ball loot tables**
+
+All loot balls have been rebalanced to improve drop rates and now include TMs and TRs from SimpleTMs.
 
 <details>
-<summary><b>Tier 1 Balls - Common (7 balls)</b></summary>
+<summary>Weight Rebalancing Summary</summary>
 
-**Affected Balls:** Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant
+**Tier 1 Balls** (Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant):
+- Ball/Apricorn/Seed weights: 10 → 22
+- Resource weights: 10 → 11 (Verdant emerald: 5 → 11)
+- Candy weight: 1 → 2
+- Added: TR items (weight 10), TM items (weight 1)
 
-**Changes:**
-- 📈 Ball/Apricorn/Seed weights: 10 → 22
-- 📈 Resource weights: 10 → 11
-- 📈 Candy weight: 1 → 2
-- ✨ **NEW:** TR items (weight 10), TM items (weight 1)
+**Tier 2 Balls** (Dive, Great, Heal, Lure, Nest, Net, Rainbow, Safari, Timer):
+- Ball weights: 10 → 18-20
+- Resource/item weights increased proportionally
+- Medicine weight: 8 → 11-14
+- EV items weight: 2 → 4
+- Candy weight: 1 → 2
+- Tools weight: 1 → 2 (where applicable)
+- Added: TR items (weight 15), TM items (weight 2)
+
+**Tier 3 Balls** (Dusk, Luxury, Pumpkin, Quick, Ultra):
+- Ball weights: 10 → 14-18
+- Valuable item weights increased significantly
+- Medicine/loot table weights increased proportionally
+- Added: TR items (weight 25), TM items (weight 6)
+
+**Tier 4 Balls** (Master):
+- Ball weight: 10 → 14
+- Netherite ingot: 8 → 11
+- Nether star: 6 → 9
+- Ability patch: 4 → 6
+- Medicine ultra rare: 8 → 11
+- EV ultra rare: 2 → 3
+- Candy ultra rare: 1 → 2
+- Added: TR items (weight 35), TM items (weight 8)
 
 </details>
 
 <details>
-<summary><b>Tier 2 Balls - Uncommon (9 balls)</b></summary>
+<summary>SimpleTMs Addition</summary>
 
-**Affected Balls:** Dive, Great, Heal, Lure, Nest, Net, Rainbow, Safari, Timer
+All loot balls now include Technical Records (TR) and Technical Machines (TM) with weights scaled by tier:
+```json
+{
+  "type": "minecraft:tag",
+  "name": "simpletms:tr_items",
+  "expand": true,
+  "weight": [varies by ball tier: 10/15/25/35]
+},
+{
+  "type": "minecraft:tag",
+  "name": "simpletms:tm_items",
+  "expand": true,
+  "weight": [varies by ball tier: 1/2/6/8]
+}
+```
 
-**Changes:**
-- 📈 Ball weights: 10 → 18-20
-- 📈 Medicine weight: 8 → 11-14
-- 📈 EV items weight: 2 → 4
-- 📈 Candy weight: 1 → 2
-- 📈 Tools weight: 1 → 2
-- ✨ **NEW:** TR items (weight 15), TM items (weight 2)
-
-</details>
-
-<details>
-<summary><b>Tier 3 Balls - Rare (6 balls)</b></summary>
-
-**Affected Balls:** Dusk, Luxury, Pumpkin, Quick, Ultra
-
-**Changes:**
-- 📈 Ball weights: 10 → 14-18
-- 📈 Valuable items significantly increased
-- 📈 Medicine/loot weights increased proportionally
-- ✨ **NEW:** TR items (weight 25), TM items (weight 6)
-
-</details>
-
-<details>
-<summary><b>Tier 4 Balls - Legendary (1 ball)</b></summary>
-
-**Affected Ball:** Master
-
-**Changes:**
-- 📈 Ball weight: 10 → 14
-- 📈 Netherite ingot: 8 → 11
-- 📈 Nether star: 6 → 9
-- 📈 Ability patch: 4 → 6
-- 📈 Medicine ultra rare: 8 → 11
-- 📈 EV ultra rare: 2 → 3
-- 📈 Candy ultra rare: 1 → 2
-- ✨ **NEW:** TR items (weight 35), TM items (weight 8)
+**SimpleTMs Weight Distribution by Ball Tier:**
+- **Tier 1**: TR weight 10, TM weight 1
+- **Tier 2**: TR weight 15, TM weight 2
+- **Tier 3**: TR weight 25, TM weight 6
+- **Tier 4**: TR weight 35, TM weight 8
 
 </details>
+
+**Affected Loot Balls (23):**
+- **Tier 1 (7)**: Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant
+- **Tier 2 (9)**: Dive, Great, Heal, Lure, Nest, Net, Rainbow, Safari, Timer
+- **Tier 3 (6)**: Dusk, Luxury, Pumpkin, Quick, Ultra
+- **Tier 4 (1)**: Master
 
 ---
 
