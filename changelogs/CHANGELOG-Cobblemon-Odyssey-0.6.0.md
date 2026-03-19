@@ -7,17 +7,16 @@
 This update brings **major worldgen improvements**, a **complete Cobblemon breeding overhaul**, and **exciting new loot rewards**! We've also streamlined Pokéball crafting and added tons of new content.
 
 ### 🌟 Key Features
-- 🥚 **Revamped Breeding System** - Custom egg colors, viewable stats, increased shiny odds, and faster breeding!
+- 🥚 **Revamped Breeding System** - Custom egg colors, viewable stats and new shiny odds!
 - 🎁 **SimpleTMs in Loot Balls** - All loot balls now drop TMs and TRs!
-- 🗺️ **Worldgen Refresh** - Removed problematic structure mods, reduced structure spam, better performance
-- ⚔️ **Enhanced Combat & Loot** - New enchanting systems, boss improvements, and quality-of-life upgrades
+- 🗺️ **Worldgen Refresh** - Removed problematic structure mods and better performance!
+- ⚔️ **Enhanced Combat & Loot** - New enchanting systems and quality-of-life upgrades!
 
 ---
 
 ## 🔧 General Changes
 
 - ⚒️ **JustHammers Netherite Recipes** - Updated to match vanilla netherite upgrade patterns
-- 🥛 **Milk System Reimplemented** - Milk and milk buckets are back *(subject to refinement)*
 - 📦 **Complete Cobblemon Collection** - Switched from resource pack to mod version
 - 🏗️ **Structure Spread Reduced** - Lowered from 1.4 to 1.2 for better world generation
 - 🌐 **Better End/Nether Removed** - Removed due to compatibility issues
