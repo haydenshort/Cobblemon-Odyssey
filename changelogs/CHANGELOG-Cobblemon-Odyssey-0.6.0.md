@@ -38,7 +38,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 ### ➕ Added (52 New!)
 
 <details>
-<summary><b>🐉 Cobblemon Enhancements (6)</b></summary>
+<summary><b>🐉 Cobblemon Enhancements (9)</b></summary>
 
 - Cobblemon Pokerus (1.1.0)
 - Cobblemon Size Variations (1.4.0)
@@ -46,6 +46,9 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 - Complete Cobblemon Collection Mod (2.0.1)
 - Mega Showdown Ores (1.2.4)
 - Navas ZA Megas (1.6.1)
+- Capture Cap: RCT Version (1.2.0)
+- Fix Cobblemon Experience (1.1.1)
+- Cobblemon Shiny Days (1.1.1)
 
 </details>
 
@@ -83,7 +86,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🏞️ Exploration & Dungeons (3)</b></summary>
+<summary><b>🏞️ Magic (3)</b></summary>
 
 - Forbidden and Arcanus (2.6.1)
 - Deeper and Darker (1.3.5)
@@ -113,12 +116,9 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🎯 Cobblemon Features (4)</b></summary>
+<summary><b>🎯 Techbology (4)</b></summary>
 
-- Capture Cap: RCT Version (1.2.0)
-- Fix Cobblemon Experience (1.1.1)
-- Cobblemon Shiny Days (1.1.1)
-- Create: The Factory Must Grow
+- Create: Diesel Generators
 
 </details>
 
