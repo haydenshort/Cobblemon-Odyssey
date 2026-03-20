@@ -53,20 +53,10 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🏰 Structures & Worldgen (13)</b></summary>
+<summary><b>🏰 Worldgen (3)</b></summary>
 
 - Concurrent Chunk Management Engine (0.3.0+alpha0.90)
 - Incendium (5.4.4)
-- Nullscape (1.2.14)
-- Hopo Better Mineshafts (1.3.0b)
-- Hopo Better Ruined Portal (1.4.4b)
-- Hopo Better Underwater Ruins (1.2.1b)
-- Luki's Grand Capital (1.1.3)
-- Luki's Stronghold (1.0)
-- Luki's Woodland Mansion (1.0)
-- Luki's Crazy Trial Chambers (1.0.3)
-- Nether Trials and Chambers (1.0.5)
-- DnT Ancient City Overhaul (2)
 - StructureOverlapless (1.2.0)
 
 </details>
@@ -82,6 +72,8 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 - Apotheosis x Iron's Spellsbooks Compat (2.1.3)
 - Ancient Reforging (1.8.2)
 - Allurment (5.0.1)
+- Simply Bows (0.1.2)
+- Mythic Metals (0.24.5)
 
 </details>
 
@@ -95,16 +87,28 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🏘️ Villages & Structures (3)</b></summary>
+<summary><b>🏘️ Villages & Structures (15)</b></summary>
 
 - ChoiceTheorem's Enhanced Villages (3.6.2b)
 - Epic Structures: Villages (1.2.0)
 - ATi Structures: Vanilla (1.4.4)
+- Hopo Better Mineshafts (1.3.0b)
+- Hopo Better Ruined Portal (1.4.4b)
+- Hopo Better Underwater Ruins (1.2.1b)
+- Luki's Grand Capital (1.1.3)
+- Luki's Stronghold (1.0)
+- Luki's Woodland Mansion (1.0)
+- Luki's Crazy Trial Chambers (1.0.3)
+- Nether Trials and Chambers (1.0.5)
+- DnT Ancient City Overhaul (2)
+- Medieval Buildings: End (1.0.4)
+- End Villager Outpost (1.0.0)
+- Bigger Better End Cities (1.0.0)
 
 </details>
 
 <details>
-<summary><b>🛠️ Utility & QoL (6)</b></summary>
+<summary><b>🛠️ Utility & QoL (8)</b></summary>
 
 - NeoAuth (1.0.0)
 - FTB Backups 3 (21.1.3)
@@ -112,20 +116,17 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 - Max Health Fix (21.1.4)
 - Valhesia Core (1.1.5)
 - Create: Copycats+ (3.0.4)
+- Copper Age Backport (0.1.4)
+- Vanilla Backport (1.1.5.4.2)
+- Alloy Forgery (2.4.1)
+- Alloy Forgery JEI (21.1.1)
 
 </details>
 
 <details>
-<summary><b>🎯 Techbology (4)</b></summary>
+<summary><b>🎯 Techbology (1)</b></summary>
 
-- Create: Diesel Generators
-
-</details>
-
-<details>
-<summary><b>⚡ Combat Additions (2)</b></summary>
-
-- Simply Bows (0.1.2)
+- Create: Diesel Generators (1.3.8)
 
 </details>
 
@@ -151,6 +152,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 - Psi
 - Starcatcher
 - Tide 2
+- Gobber
 
 **UI & Visual (5):**
 - BetterF3
