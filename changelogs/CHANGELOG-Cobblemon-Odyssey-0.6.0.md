@@ -180,76 +180,77 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 <details>
 <summary><b>View All Updated Mods</b></summary>
 
-| Mod | Old → New                   |
-|-----|-----------------------------|
-| Ace's Spell Utils | 1.2.3 → 1.2.4               |
-| Advanced Loot Info | 1.7.3 → 1.8.2               |
-| AllTheLeaks | 1.1.6 → 1.1.7               |
-| AzureLib | 3.0.39 → 3.1.3              |
-| BCLib | 21.0.19 → 21.0.20           |
-| Better Archeology | 1.3.4 → 1.3.5               |
-| Better Combat | 2.3.1 → 2.3.2               |
-| Bosses Rise | 2.0.4 → 2.0.11              |
-| CarryOn | 2.2.4.4 → 2.2.2.11          |
-| Cataclysm Spellbooks | 1.1.9 → 1.1.11              |
-| Certain Questing Additions | 1.1.3 → 1.1.5               |
+| Mod                               | Old → New                   |
+|-----------------------------------|-----------------------------|
+| Ace's Spell Utils                 | 1.2.3 → 1.2.4               |
+| Advanced Loot Info                | 1.7.3 → 1.8.2               |
+| AllTheLeaks                       | 1.1.6 → 1.1.7               |
+| AzureLib                          | 3.0.39 → 3.1.3              |
+| BCLib                             | 21.0.19 → 21.0.20           |
+| Better Archeology                 | 1.3.4 → 1.3.5               |
+| Better Combat                     | 2.3.1 → 2.3.2               |
+| Bosses Rise                       | 2.0.4 → 2.0.11              |
+| CarryOn                           | 2.2.4.4 → 2.2.2.11          |
+| Cataclysm Spellbooks              | 1.1.9 → 1.1.11              |
+| Certain Questing Additions        | 1.1.3 → 1.1.5               |
 | Cobbleloots: Loot Balls and More! | 2.1.0 → 2.2.2               |
-| Cobblemon Battle Extras | 1.9.33 → 1.11.35            |
-| Cobblemon Firework Capsules | 2.1.0 → 2.1.3               |
-| Cobblemon Mega Showdown | 1.6.12 → 1.7.1-hotfix       |
-| Cobblemon Party Extras | 1.6.11 → 1.7.13             |
-| Cobblemon PlayerXP | 1.0.6 → 1.0.8               |
-| Cobblemon Raid Dens | 0.7.6 → 0.9.1               |
-| Colorwheel | 1.2.1 → 1.2.2               |
-| Cooking for Blockheads | 21.1.17 → 21.1.18           |
-| CorgiLib | 5.0.0.7 → 5.0.0.9           |
-| Crabber's Delight | 1.2.4 → 1.2.5               |
-| Crash Assistant | 1.10.30 → 1.11.3            |
-| Create: Central Kitchen | 2.2.6 → 2.3.0               |
-| Create: Integrated Farming | 1.2.0c → 1.2.1              |
-| Create: Slice and Dice | 4.2.2 → 4.2.4               |
-| CreativeCore | 2.13.34 → 2.13.35           |
-| Cupboard | 2.9 → 3.5                   |
-| Discerning The Eldritch | 1.3.2 → 1.4.3               |
-| Ender's Delight | 1.1.0 → 1.2.0               |
-| Exposure | 1.9.13 → 1.9.14             |
-| Extreme Sound Mufflers | 3.54 → 3.55                 |
-| FamiliarsLib | 1.5 → 1.6                   |
-| FTB Library | 2101.1.30 → 2101.1.31       |
-| FTB Quests | 2101.1.22 → 2101.1.23       |
-| FTB XMod Compat | 21.1.7 → 21.1.7             |
-| GeckoLib | 4.8.3 → 4.8.4               |
-| Hazen and Stuff | 1.2.0 → 1.3.10              |
-| Immersive Optimizations | 0.1.1 → 0.1.4               |
-| Iron's Spells and Spellbooks | 3.15.3 → 3.15.4             |
-| JamLib | 1.3.5 → 1.3.6               |
-| Just Enough Archeology | 1.1.6 → 1.2.0               |
-| L Ender's Cataclysm | 3.16 → 3.24                 |
-| Let's Do Candlelight | 1.5.7 → 1.6.0               |
-| Let's Do Farm and Charm | 1.1.20 → 1.1.21             |
-| Lithium | 0.15.2 → 0.15.3             |
-| Lithostiched | 1.5.7 → 1.6.1               |
-| Lootr | 1.11.36.116 → 1.11.37.118   |
-| Moonlight Lib | 2.29.18 → 2.29.20           |
-| Mowzie's Mobs | 1.7.5 → 1.8.2               |
-| OctoLib | 0.6.0.4 → 0.6.1             |
-| Oh The Biomes We've Gone | 2.5.4 → 2.5.5               |
-| Oh The Trees You'll Grow | 5.2.0 → 5.2.1               |
-| Patchouli | 1.21.1-92 → 1.21.1-93       |
-| Radical Cobblemon Trainers | 0.17.6 → 0.17.7             |
-| Seasonal Integrations | 1.4.2 → 1.5.0               |
-| SeasonsHUD | 1.13.17 → 2.0.2             |
-| Shoulder Surfing Reloaded | 4.21.0 → 4.22.1             |
-| Simply Swords | 1.62.0 → 1.63.0             |
-| Sophisticated Backpacks | 3.25.30.1537 → 3.25.34.1581 |
-| Sophisticated Core | 1.4.5.1499 → 1.4.9.1526     |
-| Sophisticated Storage | 1.5.28.1494 → 1.5.30.1520   |
-| Structurify | 2.0.18 → 2.0.19             |
-| Subtle Effects | 1.13.2hf → 1.14.0           |
-| Supplementaries | 3.25.25 → 3.25.29           |
-| Utilitarian | 0.18.1 → 0.18.2             |
-| Waystones | 21.1.28 → 21.1.29           |
-| Xaero's Maps x Waystones | 2.6.1 → 2.7.3               |
+| Cobblemon Battle Extras           | 1.9.33 → 1.11.35            |
+| Cobblemon Firework Capsules       | 2.1.0 → 2.1.3               |
+| Cobblemon Mega Showdown           | 1.6.12 → 1.7.1-hotfix       |
+| Cobblemon Party Extras            | 1.6.11 → 1.7.13             |
+| Cobblemon PlayerXP                | 1.0.6 → 1.0.8               |
+| Cobblemon Raid Dens               | 0.7.6 → 0.9.1               |
+| Colorwheel                        | 1.2.1 → 1.2.2               |
+| Cooking for Blockheads            | 21.1.17 → 21.1.18           |
+| CorgiLib                          | 5.0.0.7 → 5.0.0.9           |
+| Crabber's Delight                 | 1.2.4 → 1.2.5               |
+| Crash Assistant                   | 1.10.30 → 1.11.3            |
+| Create: Central Kitchen           | 2.2.6 → 2.3.0               |
+| Create: Integrated Farming        | 1.2.0c → 1.2.1              |
+| Create: Slice and Dice            | 4.2.2 → 4.2.4               |
+| CreativeCore                      | 2.13.34 → 2.13.35           |
+| Cupboard                          | 2.9 → 3.5                   |
+| Discerning The Eldritch           | 1.3.2 → 1.4.3               |
+| Ender's Delight                   | 1.1.0 → 1.2.0               |
+| Exposure                          | 1.9.13 → 1.9.14             |
+| Extreme Sound Mufflers            | 3.54 → 3.55                 |
+| FamiliarsLib                      | 1.5 → 1.6                   |
+| FTB Library                       | 2101.1.30 → 2101.1.31       |
+| FTB Quests                        | 2101.1.22 → 2101.1.23       |
+| FTB XMod Compat                   | 21.1.7 → 21.1.7             |
+| GeckoLib                          | 4.8.3 → 4.8.4               |
+| Hazen and Stuff                   | 1.2.0 → 1.3.10              |
+| Immersive Optimizations           | 0.1.1 → 0.1.4               |
+| Iron's Spells and Spellbooks      | 3.15.3 → 3.15.4             |
+| JamLib                            | 1.3.5 → 1.3.6               |
+| Just Enough Archeology            | 1.1.6 → 1.2.0               |
+| L Ender's Cataclysm               | 3.16 → 3.24                 |
+| Let's Do Candlelight              | 1.5.7 → 1.6.0               |
+| Let's Do Farm and Charm           | 1.1.20 → 1.1.21             |
+| Lithium                           | 0.15.2 → 0.15.3             |
+| Lithostiched                      | 1.5.7 → 1.6.1               |
+| Lootr                             | 1.11.36.116 → 1.11.37.118   |
+| Moonlight Lib                     | 2.29.18 → 2.29.20           |
+| Mowzie's Mobs                     | 1.7.5 → 1.8.2               |
+| OctoLib                           | 0.6.0.4 → 0.6.1             |
+| Oh The Biomes We've Gone          | 2.5.4 → 2.5.5               |
+| Oh The Trees You'll Grow          | 5.2.0 → 5.2.1               |
+| Patchouli                         | 1.21.1-92 → 1.21.1-93       |
+| Radical Cobblemon Trainers        | 0.17.6 → 0.17.7             |
+| Seasonal Integrations             | 1.4.2 → 1.5.0               |
+| SeasonsHUD                        | 1.13.17 → 2.0.2             |
+| Shoulder Surfing Reloaded         | 4.21.0 → 4.22.1             |
+| Simply Swords                     | 1.62.0 → 1.63.0             |
+| Sophisticated Backpacks           | 3.25.30.1537 → 3.25.34.1581 |
+| Sophisticated Core                | 1.4.5.1499 → 1.4.9.1526     |
+| Sophisticated Storage             | 1.5.28.1494 → 1.5.30.1520   |
+| Structurify                       | 2.0.18 → 2.0.19             |
+| Subtle Effects                    | 1.13.2hf → 1.14.0           |
+| SuperMartijn642's Core Lib        | 1.1.20 → 1.1.21             |
+| Supplementaries                   | 3.25.25 → 3.25.29           |
+| Utilitarian                       | 0.18.1 → 0.18.2             |
+| Waystones                         | 21.1.28 → 21.1.29           |
+| Xaero's Maps x Waystones          | 2.6.1 → 2.7.3               |
 
 </details>
 
