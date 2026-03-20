@@ -7,38 +7,38 @@
 This update brings **major worldgen improvements**, a **complete Cobblemon breeding overhaul**, and **exciting new loot rewards**! We've also streamlined Pokéball crafting and added tons of new content.
 
 ### 🌟 Key Features
-- 🥚 **Revamped Breeding System** - Custom egg colors, viewable stats and new shiny odds!
-- 🎁 **SimpleTMs in Loot Balls** - All loot balls now drop TMs and TRs!
-- 🗺️ **Worldgen Refresh** - Removed problematic structure mods and better performance!
-- ⚔️ **Enhanced Combat & Loot** - New enchanting systems and quality-of-life upgrades!
+- **Revamped Breeding System** - Custom egg colors, viewable stats and new shiny odds!
+- **SimpleTMs in Loot Balls** - All loot balls now drop TMs and TRs!
+- **Worldgen Refresh** - Removed problematic structure mods and better performance!
+- **Enhanced Combat & Loot** - New enchanting systems and quality-of-life upgrades!
 
 ---
 
 ## 🔧 General Changes
 
-- ⚒️ **JustHammers Netherite Recipes** - Updated to match vanilla netherite upgrade patterns
-- 📦 **Complete Cobblemon Collection** - Switched from resource pack to mod version
-- 🏗️ **Structure Spread Reduced** - Lowered from 1.4 to 1.2 for better world generation
-- 🌐 **Better End/Nether Removed** - Removed due to compatibility issues
+- **JustHammers Netherite Recipes** - Updated to match vanilla netherite upgrade patterns
+- **Complete Cobblemon Collection** - Switched from resource pack to mod version
+- **Structure Spread Reduced** - Lowered from 1.4 to 1.2 for better world generation
+- **Better End/Nether Removed** - Removed due to compatibility issues
 
 ### 🥚 Cobbreeding Overhaul
-- ⏰ **Longer Egg Hatch Time** - More realistic breeding progression
-- ✨ **Boosted Shiny Odds**:
+- **Longer Egg Hatch Time** - More realistic breeding progression
+- **Boosted Shiny Odds**:
   - Masuda Method: 2x increase
   - Crystal: 4x increase  
   - Always: 8x increase
-- 🎨 **Custom Egg Colors** - Unique egg appearances!
-- 🏠 **Smaller Pastures** - Decreased breeding pasture size requirements
-- 📊 **Viewable Egg Stats** - See stats before hatching!
+- **Custom Egg Colors** - Unique egg appearances!
+- **Smaller Pastures** - Decreased breeding pasture size requirements
+- **Viewable Egg Stats** - See stats before hatching!
 
 ---
 
 ## 📦 Mods, Shaders, & Packs
 
-### ➕ Added (52 New!)
+### Added (52 New!)
 
 <details>
-<summary><b>🐉 Cobblemon Enhancements (9)</b></summary>
+<summary><b>Cobblemon Enhancements (9)</b></summary>
 
 - Cobblemon Pokerus (1.1.0)
 - Cobblemon Size Variations (1.4.0)
@@ -53,7 +53,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🏰 Worldgen (3)</b></summary>
+<summary><b>Worldgen (3)</b></summary>
 
 - Concurrent Chunk Management Engine (0.3.0+alpha0.90)
 - Incendium (5.4.4)
@@ -62,7 +62,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>⚔️ Combat & Enchanting (8)</b></summary>
+<summary><b>Combat & Enchanting (8)</b></summary>
 
 - Apotheosis (8.5.2)
 - Apothic Enchantments (1.5.2)
@@ -78,7 +78,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🏞️ Magic (3)</b></summary>
+<summary><b>Magic (3)</b></summary>
 
 - Forbidden and Arcanus (2.6.1)
 - Deeper and Darker (1.3.5)
@@ -87,7 +87,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🏘️ Villages & Structures (15)</b></summary>
+<summary><b>Villages & Structures (15)</b></summary>
 
 - ChoiceTheorem's Enhanced Villages (3.6.2b)
 - Epic Structures: Villages (1.2.0)
@@ -108,7 +108,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🛠️ Utility & QoL (8)</b></summary>
+<summary><b>Utility & QoL (8)</b></summary>
 
 - NeoAuth (1.0.0)
 - FTB Backups 3 (21.1.3)
@@ -124,7 +124,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>🎯 Techbology (1)</b></summary>
+<summary><b>Techbology (1)</b></summary>
 
 - Create: Diesel Generators (1.3.8)
 
@@ -180,86 +180,86 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 <details>
 <summary><b>View All Updated Mods</b></summary>
 
-| Mod | Old → New |
-|-----|-----------|
-| Ace's Spell Utils | 1.2.3 → 1.2.4 |
-| Advanced Loot Info | 1.7.3 → 1.8.2 |
-| AllTheLeaks | 1.1.6 → 1.1.7 |
-| AzureLib | 3.0.39 → 3.1.3 |
-| BCLib | 21.0.19 → 21.0.20 |
-| Better Archeology | 1.3.4 → 1.3.5 |
-| Better Combat | 2.3.1 → 2.3.2 |
-| Bosses Rise | 2.0.4 → 2.0.11 |
-| CarryOn | 2.2.4.4 → 2.2.2.11 |
-| Cataclysm Spellbooks | 1.1.9 → 1.1.11 |
-| Certain Questing Additions | 1.1.3 → 1.1.5 |
-| Cobbleloots: Loot Balls and More! | 2.1.0 → 2.2.2 |
-| Cobblemon Battle Extras | 1.9.33 → 1.10.34 |
-| Cobblemon Firework Capsules | 2.1.0 → 2.1.3 |
-| Cobblemon Mega Showdown | 1.6.12 → 1.7.1-hotfix |
-| Cobblemon Party Extras | 1.6.11 → 1.7.13 |
-| Cobblemon PlayerXP | 1.0.6 → 1.0.8 |
-| Cobblemon Raid Dens | 0.7.6 → 0.9.0 |
-| Colorwheel | 1.2.1 → 1.2.2 |
-| Cooking for Blockheads | 21.1.17 → 21.1.18 |
-| CorgiLib | 5.0.0.7 → 5.0.0.9 |
-| Crabber's Delight | 1.2.4 → 1.2.5 |
-| Crash Assistant | 1.10.30 → 1.11.3 |
-| Create: Central Kitchen | 2.2.6 → 2.3.0 |
-| Create: Integrated Farming | 1.2.0c → 1.2.1 |
-| Create: Slice and Dice | 4.2.2 → 4.2.4 |
-| CreativeCore | 2.13.34 → 2.13.35 |
-| Cupboard | 2.9 → 3.5 |
-| Discerning The Eldritch | 1.3.2 → 1.4.3 |
-| Ender's Delight | 1.1.0 → 1.2.0 |
-| Exposure | 1.9.13 → 1.9.14 |
-| Extreme Sound Mufflers | 3.54 → 3.55 |
-| FamiliarsLib | 1.5 → 1.6 |
-| FTB Library | 2101.1.30 → 2101.1.31 |
-| FTB Quests | 2101.1.22 → 2101.1.23 |
-| FTB XMod Compat | 21.1.7 → 21.1.7 |
-| GeckoLib | 4.8.3 → 4.8.4 |
-| Hazen and Stuff | 1.2.0 → 1.3.10 |
-| Immersive Optimizations | 0.1.1 → 0.1.4 |
-| Iron's Spells and Spellbooks | 3.15.3 → 3.15.4 |
-| JamLib | 1.3.5 → 1.3.6 |
-| Just Enough Archeology | 1.1.6 → 1.2.0 |
-| L Ender's Cataclysm | 3.16 → 3.24 |
-| Let's Do Candlelight | 1.5.7 → 1.6.0 |
-| Let's Do Farm and Charm | 1.1.20 → 1.1.21 |
-| Lithium | 0.15.2 → 0.15.3 |
-| Lithostiched | 1.5.7 → 1.6.1 |
-| Lootr | 1.11.36.116 → 1.11.37.118 |
-| Moonlight Lib | 2.29.18 → 2.29.20 |
-| Mowzie's Mobs | 1.7.5 → 1.8.2 |
-| OctoLib | 0.6.0.4 → 0.6.1 |
-| Oh The Biomes We've Gone | 2.5.4 → 2.5.5 |
-| Oh The Trees You'll Grow | 5.2.0 → 5.2.1 |
-| Patchouli | 1.21.1-92 → 1.21.1-93 |
-| Radical Cobblemon Trainers | 0.17.6 → 0.17.7 |
-| Seasonal Integrations | 1.4.2 → 1.5.0 |
-| SeasonsHUD | 1.13.17 → 2.0.2 |
-| Shoulder Surfing Reloaded | 4.21.0 → 4.22.1 |
-| Simply Swords | 1.62.0 → 1.63.0 |
+| Mod | Old → New                   |
+|-----|-----------------------------|
+| Ace's Spell Utils | 1.2.3 → 1.2.4               |
+| Advanced Loot Info | 1.7.3 → 1.8.2               |
+| AllTheLeaks | 1.1.6 → 1.1.7               |
+| AzureLib | 3.0.39 → 3.1.3              |
+| BCLib | 21.0.19 → 21.0.20           |
+| Better Archeology | 1.3.4 → 1.3.5               |
+| Better Combat | 2.3.1 → 2.3.2               |
+| Bosses Rise | 2.0.4 → 2.0.11              |
+| CarryOn | 2.2.4.4 → 2.2.2.11          |
+| Cataclysm Spellbooks | 1.1.9 → 1.1.11              |
+| Certain Questing Additions | 1.1.3 → 1.1.5               |
+| Cobbleloots: Loot Balls and More! | 2.1.0 → 2.2.2               |
+| Cobblemon Battle Extras | 1.9.33 → 1.11.35            |
+| Cobblemon Firework Capsules | 2.1.0 → 2.1.3               |
+| Cobblemon Mega Showdown | 1.6.12 → 1.7.1-hotfix       |
+| Cobblemon Party Extras | 1.6.11 → 1.7.13             |
+| Cobblemon PlayerXP | 1.0.6 → 1.0.8               |
+| Cobblemon Raid Dens | 0.7.6 → 0.9.1               |
+| Colorwheel | 1.2.1 → 1.2.2               |
+| Cooking for Blockheads | 21.1.17 → 21.1.18           |
+| CorgiLib | 5.0.0.7 → 5.0.0.9           |
+| Crabber's Delight | 1.2.4 → 1.2.5               |
+| Crash Assistant | 1.10.30 → 1.11.3            |
+| Create: Central Kitchen | 2.2.6 → 2.3.0               |
+| Create: Integrated Farming | 1.2.0c → 1.2.1              |
+| Create: Slice and Dice | 4.2.2 → 4.2.4               |
+| CreativeCore | 2.13.34 → 2.13.35           |
+| Cupboard | 2.9 → 3.5                   |
+| Discerning The Eldritch | 1.3.2 → 1.4.3               |
+| Ender's Delight | 1.1.0 → 1.2.0               |
+| Exposure | 1.9.13 → 1.9.14             |
+| Extreme Sound Mufflers | 3.54 → 3.55                 |
+| FamiliarsLib | 1.5 → 1.6                   |
+| FTB Library | 2101.1.30 → 2101.1.31       |
+| FTB Quests | 2101.1.22 → 2101.1.23       |
+| FTB XMod Compat | 21.1.7 → 21.1.7             |
+| GeckoLib | 4.8.3 → 4.8.4               |
+| Hazen and Stuff | 1.2.0 → 1.3.10              |
+| Immersive Optimizations | 0.1.1 → 0.1.4               |
+| Iron's Spells and Spellbooks | 3.15.3 → 3.15.4             |
+| JamLib | 1.3.5 → 1.3.6               |
+| Just Enough Archeology | 1.1.6 → 1.2.0               |
+| L Ender's Cataclysm | 3.16 → 3.24                 |
+| Let's Do Candlelight | 1.5.7 → 1.6.0               |
+| Let's Do Farm and Charm | 1.1.20 → 1.1.21             |
+| Lithium | 0.15.2 → 0.15.3             |
+| Lithostiched | 1.5.7 → 1.6.1               |
+| Lootr | 1.11.36.116 → 1.11.37.118   |
+| Moonlight Lib | 2.29.18 → 2.29.20           |
+| Mowzie's Mobs | 1.7.5 → 1.8.2               |
+| OctoLib | 0.6.0.4 → 0.6.1             |
+| Oh The Biomes We've Gone | 2.5.4 → 2.5.5               |
+| Oh The Trees You'll Grow | 5.2.0 → 5.2.1               |
+| Patchouli | 1.21.1-92 → 1.21.1-93       |
+| Radical Cobblemon Trainers | 0.17.6 → 0.17.7             |
+| Seasonal Integrations | 1.4.2 → 1.5.0               |
+| SeasonsHUD | 1.13.17 → 2.0.2             |
+| Shoulder Surfing Reloaded | 4.21.0 → 4.22.1             |
+| Simply Swords | 1.62.0 → 1.63.0             |
 | Sophisticated Backpacks | 3.25.30.1537 → 3.25.34.1581 |
-| Sophisticated Core | 1.4.5.1499 → 1.4.9.1526 |
-| Sophisticated Storage | 1.5.28.1494 → 1.5.30.1520 |
-| Structurify | 2.0.18 → 2.0.19 |
-| Subtle Effects | 1.13.2hf → 1.14.0 |
-| Supplementaries | 3.25.25 → 3.25.29 |
-| Utilitarian | 0.18.1 → 0.18.2 |
-| Waystones | 21.1.28 → 21.1.29 |
-| Xaero's Maps x Waystones | 2.6.1 → 2.7.3 |
+| Sophisticated Core | 1.4.5.1499 → 1.4.9.1526     |
+| Sophisticated Storage | 1.5.28.1494 → 1.5.30.1520   |
+| Structurify | 2.0.18 → 2.0.19             |
+| Subtle Effects | 1.13.2hf → 1.14.0           |
+| Supplementaries | 3.25.25 → 3.25.29           |
+| Utilitarian | 0.18.1 → 0.18.2             |
+| Waystones | 21.1.28 → 21.1.29           |
+| Xaero's Maps x Waystones | 2.6.1 → 2.7.3               |
 
 </details>
 
 ---
 
-## 🔨 Recipes
+## Recipes
 
-### ➕ Added (32)
+### Added (32)
 
-#### ⚒️ JustHammers Netherite Upgrades (5)
+#### JustHammers Netherite Upgrades (5)
 - Netherite Hammer
 - Netherite Impact Hammer
 - Netherite Reinforced Hammer
@@ -341,7 +341,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 
 </details>
 
-#### ⚙️ Create Deploying: Stamped Ball Lids (5)
+#### Create Deploying: Stamped Ball Lids (5)
 - Stamped Brass Nugget Lid
 - Stamped Copper Nugget Lid
 - Stamped Iron Nugget Lid
@@ -443,7 +443,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 
 </details>
 
-#### 🔧 Oritech Assembler: Ball Mechanisms (8)
+#### Oritech Assembler: Ball Mechanisms (8)
 - Brass Ball Mechanism
 - Brass Ancient Ball Mechanism
 - Copper Ball Mechanism
@@ -618,7 +618,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 
 </details>
 
-#### 🎱 Oritech Assembler: Pokéballs (14)
+#### Oritech Assembler: Pokéballs (14)
 **Standard Balls (7):** Azure, Citrine, Poke, Premier, Roseate, Slate, Verdant  
 **Ancient Balls (7):** Ancient Azure, Ancient Citrine, Ancient Poke, Ancient Premier, Ancient Roseate, Ancient Slate, Ancient Verdant
 
@@ -915,9 +915,9 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 
 ---
 
-## 🎁 Loot Tables
+## Loot Tables
 
-### 🔄 Changed (23)
+### Changed (23)
 
 **Rebalanced Loot Ball drop weights and added SimpleTMs to all Loot Ball loot tables**
 
