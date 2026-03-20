@@ -108,7 +108,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>Utility & QoL (8)</b></summary>
+<summary><b>Utility & QoL (11)</b></summary>
 
 - NeoAuth (1.0.0)
 - FTB Backups 3 (21.1.3)
@@ -120,6 +120,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 - Vanilla Backport (1.1.5.4.2)
 - Alloy Forgery (2.4.1)
 - Alloy Forgery JEI (21.1.1)
+- Item Obliterator (2.3.0)
 
 </details>
 
