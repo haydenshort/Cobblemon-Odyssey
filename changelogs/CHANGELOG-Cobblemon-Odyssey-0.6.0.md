@@ -180,14 +180,13 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 
 | Mod | Old → New |
 |-----|-----------|
+| Ace's Spell Utils | 1.2.3 → 1.2.4 |
 | Advanced Loot Info | 1.7.3 → 1.8.2 |
 | AllTheLeaks | 1.1.6 → 1.1.7 |
 | AzureLib | 3.0.39 → 3.1.3 |
 | BCLib | 21.0.19 → 21.0.20 |
 | Better Archeology | 1.3.4 → 1.3.5 |
 | Better Combat | 2.3.1 → 2.3.2 |
-| Better End | 21.0.23 → 21.0.24 |
-| Better Nether | 21.0.18 → 21.0.19 |
 | Bosses Rise | 2.0.4 → 2.0.11 |
 | CarryOn | 2.2.4.4 → 2.2.2.11 |
 | Cataclysm Spellbooks | 1.1.9 → 1.1.11 |
@@ -235,6 +234,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 | Oh The Biomes We've Gone | 2.5.4 → 2.5.5 |
 | Oh The Trees You'll Grow | 5.2.0 → 5.2.1 |
 | Patchouli | 1.21.1-92 → 1.21.1-93 |
+| Radical Cobblemon Trainers | 0.17.6 → 0.17.7 |
 | Seasonal Integrations | 1.4.2 → 1.5.0 |
 | SeasonsHUD | 1.13.17 → 2.0.2 |
 | Shoulder Surfing Reloaded | 4.21.0 → 4.22.1 |
@@ -247,7 +247,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 | Supplementaries | 3.25.25 → 3.25.29 |
 | Utilitarian | 0.18.1 → 0.18.2 |
 | Waystones | 21.1.28 → 21.1.29 |
-| Xaero's Maps x Waystones | 2.6.1 → 2.7.2 |
+| Xaero's Maps x Waystones | 2.6.1 → 2.7.3 |
 
 </details>
 
