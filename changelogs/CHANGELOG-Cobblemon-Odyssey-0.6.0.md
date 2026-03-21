@@ -20,6 +20,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 - **Complete Cobblemon Collection** - Switched from resource pack to mod version
 - **Structure Spread Reduced** - Lowered from 1.4 to 1.2 for better world generation
 - **Better End/Nether Removed** - Removed due to compatibility issues
+- **Cobblemon Outbreak Tweaks** - Decreased shiny odds from 1/512 to 1/1024, and increased time from 30 mins to 60 mins.
 
 ### 🥚 Cobbreeding Overhaul
 - **Longer Egg Hatch Time** - More realistic breeding progression
@@ -35,7 +36,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 
 ## 📦 Mods, Shaders, & Packs
 
-### Added (52 New!)
+### Added (51 New!)
 
 <details>
 <summary><b>Cobblemon Enhancements (9)</b></summary>
@@ -53,10 +54,9 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 </details>
 
 <details>
-<summary><b>Worldgen (3)</b></summary>
+<summary><b>Worldgen (2)</b></summary>
 
 - Concurrent Chunk Management Engine (0.3.0+alpha0.90)
-- Incendium (5.4.4)
 - StructureOverlapless (1.2.0)
 
 </details>
