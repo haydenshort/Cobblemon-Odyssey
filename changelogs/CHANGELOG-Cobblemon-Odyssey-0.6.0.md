@@ -228,7 +228,6 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 | Exposure                          | 1.9.13 → 1.9.16             |
 | Extreme Sound Mufflers            | 3.54 → 3.55                 |
 | FamiliarsLib                      | 1.5 → 1.6                   |
-| Farmer's Delight                  | 1.2.10 → 1.2.11             |
 | FDLIB                             | 1.0.8 → 1.0.9               |
 | FTB Library                       | 2101.1.30 → 2101.1.31       |
 | FTB Quests                        | 2101.1.22 → 2101.1.23       |
