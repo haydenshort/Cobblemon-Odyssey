@@ -89,7 +89,7 @@
 	#Should Canola generate in the World?
 	generateCanola = true
 	#Should Flax generate in the world?
-	generateFlax = false
+	generateFlax = true
 	#Should Coffee generate in the world?
 	generateCoffee = false
 	#Should Rice generate in the world?

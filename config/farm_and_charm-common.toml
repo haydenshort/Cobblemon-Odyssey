@@ -1,5 +1,5 @@
 [Blocks]
-	enableBonemealEffect = false
+	enableBonemealEffect = true
 	# Default: 5
 	# Range: 1 ~ 16
 	fertilizedSoilRange = 5
@@ -15,7 +15,7 @@
 	feedingTroughRange = 8
 
 [Items]
-	enableFertilizer = false
+	enableFertilizer = true
 	enableDogFoodTaming = true
 	enableHorseTaming = true
 	enableHorseEffects = true

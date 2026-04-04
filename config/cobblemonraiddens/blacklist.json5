@@ -3,12 +3,14 @@
 	"pokemon": [],
 	// List of blacklisted abilities for the player in raid battles
 	"abilities": [
-		"wonderguard"
+		"wonderguard",
+		"perishbody"
 	],
 	// List of blacklisted held items for the player in raid battles.
 	"held_items": [],
 	// List of blacklisted moves for the player in raid battles.
 	"moves": [
+		"assist",
 		"bestow",
 		"circlethrow",
 		"destinybond",
@@ -32,6 +34,7 @@
 		"simplebeam",
 		"skillswap",
 		"skydrop",
+		"sleeptalk",
 		"superfang",
 		"taunt",
 		"torment",

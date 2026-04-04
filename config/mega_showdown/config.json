@@ -16,5 +16,6 @@
   "outSideMega": true,
   "outSideUltraBurst": true,
   "teraHats": true,
-  "legacyTeraEffect": false
+  "legacyTeraEffect": false,
+  "debugMode": false
 }

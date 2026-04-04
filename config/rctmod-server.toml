@@ -119,7 +119,7 @@
 	#Max distance in blocks at which trainers may start a battle on sight.
 	# Default: 8.0
 	# Range: 0.0 ~ 32.0
-	forceBattleMaxDistance = 12.0
+	forceBattleMaxDistance = 16.0
 	#━━━━━━━━━━
 	#Number of ticks a trainer and player need to stare at each other to initiate a battle.
 	#Setting this to a very large number effectively disables this features but trainers
@@ -132,7 +132,7 @@
 	#allow the trainer to force a battle.
 	# Default: 16
 	# Range: 0 ~ 2147483646
-	forceBattleMaxLevelDiff = 10
+	forceBattleMaxLevelDiff = 12
 
 [Players]
 	#━━━━━━━━━━
@@ -147,7 +147,7 @@
 	#required trainer in a series. The relativeLevelCap is added to the resulting value. For
 	#instance if the next trainer for a player has a Pikachu at level 50, that players level
 	#cap will be 50 + relativeLevelCap (can be negative).
-	relativeLevelCap = 0
+	relativeLevelCap = 5
 	#━━━━━━━━━━
 	#The initial series players are placed in when entering a world for the first time. Apart from any series id
 	#this value may also be set to one of the special series ids "empty" (i.e. no series) or "freeroam".
@@ -167,3 +167,6 @@
 	#━━━━━━━━━━
 	#If enabled additional information are printed to the log whenever a trainer spawns or despawns.
 	logSpawning = false
+	#━━━━━━━━━━
+	#If enabled additional information are printed to the log whenever a trainer repel rod is registered or unregistered.
+	logRepelRods = false

@@ -56,6 +56,6 @@
 	#Enable emissive water explosion effects
 	emissiveWaterExplosion = true
 	#Always show explosion effects
-	alwaysShow = true
+	alwaysShow = false
 	#Enable debug logs
 	debugLogs = false

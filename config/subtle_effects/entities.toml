@@ -34,13 +34,15 @@ animalFeedingSoundVolume = 1.0
 underwaterEntityPoofBubbles = true
 improvedWetWolfShakeEffects = true
 improvedVillagerSweatingEffects = true
+magmaCubeLandSparks = true
+snowGolemStepSounds = true
 
 [sleeping]
 playerSnoreChance = 1.0
-playerSnoreSoundVolume = 0.29738563
+playerSnoreSoundVolume = 1.0
 playersHaveSleepingZs = true
 villagerSnoreChance = 1.0
-villagerSnoreSoundVolume = 0.0
+villagerSnoreSoundVolume = 1.0
 villagersHaveSleepingZs = true
 foxesHaveSleepingZs = true
 batsHaveSleepingZs = true
@@ -62,9 +64,9 @@ NPCsHavePotionRings = true
 
 [humanoids.frostyBreath]
 displayType = "DEFAULT"
-alpha = 0.2
+alpha = 0.5
 waitTime = 60
-seasons = "WINTER_ONLY"
+seasons = "DEFAULT"
 additionalBiomes = [  ]
 
 [humanoids.player]
@@ -77,16 +79,16 @@ heartbeatVolume = 1.0
 heartBeatingWaitTime = 3
 
 [dustClouds]
-scale = 2.0
+scale = 0.7359145
 alpha = 1.0
 preventWhenRaining = false
-flyIntoWall = true
+flyIntoWall = false
 lessViewBlocking = false
 playerFell = true
-mobFell = true
-landMaceAttack = true
+mobFell = false
+landMaceAttack = false
 playerRunning = true
-mobRunning = true
+mobRunning = false
 playerRunningRequiresSpeed = false
 
 [burning]
@@ -112,7 +114,8 @@ creeperSparks = true
 splashEffects = true
 splashRipples = true
 splashDroplets = true
-splashBubbles = true
+splashDropletSounds = true
+waterSplashBubbles = true
 explosionsCauseSplashes = true
 splashOverlayTint = 0.2
 splashOverlayAlpha = 0.8
@@ -121,5 +124,3 @@ entityBlocklist = [  ]
 secondarySplash = true
 secondarySplashRipples = false
 secondarySplashVelocityThreshold = 0.3
-lavaSplashes = true
-lavaSplashRipples = true

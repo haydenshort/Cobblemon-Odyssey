@@ -1,5 +1,5 @@
 # Enables wobbly items in advancement toasts.
-enableAdvancementToastItems: false
+enableAdvancementToastItems: true
 # Enables special formatting for items with cursed enchantments.
 enableCurseFormatting: true
 # Enables particles in the enchant(ing/ment) table.

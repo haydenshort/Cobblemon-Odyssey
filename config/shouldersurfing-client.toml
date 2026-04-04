@@ -22,14 +22,20 @@
 	#Whether or not to orient the camera rotation when the player is teleported. This includes passenger (dis-)mounting and traveling through portals.
 	orient_camera_on_teleport = true
 	#Whether or not to apply the FOV override when in shoulder surfing perspective.
-	fov_override_enabled = false
+	fov_override_enabled = true
 	#The camera FOV when in shoulder surfing perspective. Depends on config option 'fov_override_enabled'.
 	# Default: 70.0
 	# Range: 30.0 ~ 110.0
-	fov_override = 70.0
+	fov_override = 75.0
 	#Whether to apply view bobbing in shoulder surfing perspective. Set to INHERIT to inherit vanilla setting.
 	#Allowed Values: INHERIT, ON, OFF
 	view_bobbing_mode = "INHERIT"
+	#Whether or not to follow the rotations of the player when camera is decoupled.
+	follow_player_rotations = true
+	#The delay in ticks after which the camera rotations will follow rotations of the player.
+	# Default: 40
+	# Range: > 1
+	follow_player_rotations_delay = 40
 
 	[camera.offset]
 		#Third person camera x-offset.
@@ -264,7 +270,7 @@
 [perspective]
 	#The default perspective when you load the game.
 	#Allowed Values: FIRST_PERSON, THIRD_PERSON_BACK, THIRD_PERSON_FRONT, SHOULDER_SURFING
-	default_perspective = "FIRST_PERSON"
+	default_perspective = "SHOULDER_SURFING"
 	#Whether or not to remember the last perspective used.
 	remember_last_perspective = true
 	#Whether or not to replace the default third person perspective.
@@ -300,7 +306,7 @@
 		when_using_item = "ALWAYS"
 		#Whether to turn the player when attacking. This config option only applies when camera is decoupled.
 		#Allowed Values: ALWAYS, NEVER, REQUIRES_TARGET
-		when_attacking = "REQUIRES_TARGET"
+		when_attacking = "ALWAYS"
 		#Whether to turn the player when interacting with blocks. This config option only applies when camera is decoupled.
 		#Allowed Values: ALWAYS, NEVER, REQUIRES_TARGET
 		when_interacting = "ALWAYS"

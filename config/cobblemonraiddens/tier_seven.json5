@@ -1,6 +1,6 @@
 {
 	// Raids require key items to interact with. Default: false
-	"requires_key": false,
+	"requires_key": true,
 	// Whether all players require the unique key or just the host. Default: true
 	"all_require_unique": true,
 	// Maximum number of players in a raid (Set to -1 for no limit). Default: 4
@@ -31,7 +31,7 @@
 	"max_catches": -1,
 	// The default script to add to raid bosses without a script. Default: {}
 	"default_scripts": { },
-	// The battle AI used by the raid boss (Options: RANDOM, STRONG, RCT). Default: RANDOM
+	// The battle AI used by the raid boss (Options: random, strong, rct). Default: random
 	"raid_ai": "RANDOM",
 	// The list of marks the reward Pokemon will have. Default: [].
 	"marks": [
@@ -44,5 +44,7 @@
 	// How much raid energy is given from a cleared raid. Default: 20
 	"energy": 20,
 	// The required damage percentage contribution a player needs to do to get rewards. Default: 0.0
-	"required_damage": 0.0
+	"required_damage": 0.0,
+	// The base catch rate of the raid boss. Default: 1.0
+	"catch_rate": 1.0
 }

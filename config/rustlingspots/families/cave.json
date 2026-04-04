@@ -28,6 +28,8 @@
     "minecraft:deepslate_gold_ore",
     "minecraft:deepslate_redstone_ore",
     "minecraft:deepslate_lapis_ore",
-    "minecraft:deepslate_diamond_ore"
+    "minecraft:deepslate_diamond_ore",
+    "regions_unexplored:deepslate_grass_block",
+    "regions_unexplored:stone_grass_block"
   ]
 }

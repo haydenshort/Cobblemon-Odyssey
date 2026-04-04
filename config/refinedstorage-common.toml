@@ -2,6 +2,7 @@
 screenSize = "STRETCH"
 smoothScrolling = true
 debug = false
+tenthAnniversaryCape = false
 # Default: 256
 # Range: 3 ~ 256
 maxRowsStretch = 256
@@ -9,7 +10,6 @@ searchBoxAutoSelected = false
 autocraftingNotification = true
 #Allowed Values: LIST, TREE
 autocraftingPreviewStyle = "LIST"
-tenthAnniversaryCape = false
 
 [cable]
 	# Default: 0

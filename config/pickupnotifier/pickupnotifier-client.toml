@@ -57,7 +57,7 @@
 	#Show item entities the player has collected in the pick-up notifications.
 	include_items = true
 	#Show experience orbs the player has collected in the pick-up notifications.
-	include_experience = true
+	include_experience = false
 	#Show shot arrows the player has collected in the pick-up notifications.
 	include_arrows = true
 

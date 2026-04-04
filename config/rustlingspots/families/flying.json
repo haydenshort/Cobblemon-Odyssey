@@ -6,6 +6,14 @@
     "minecraft:red_sand",
     "minecraft:snow_block",
     "minecraft:stone",
-    "minecraft:moss_block"
+    "minecraft:moss_block",
+    "biomeswevegone:lush_grass_block",
+    "regions_unexplored:argillite_grass_block",
+    "regions_unexplored:chalk_grass_block",
+    "regions_unexplored:silt_grass_block",
+    "regions_unexplored:peat_grass_block",
+    "regions_unexplored:alpha_grass_block",
+    "regions_unexplored:deepslate_grass_block",
+    "regions_unexplored:stone_grass_block"
   ]
 }

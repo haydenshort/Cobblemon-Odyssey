@@ -7,19 +7,19 @@
 	#Minimum allowed distance between two active spots (in blocks)
 	# Default: 16
 	# Range: > 2
-	min_distance_between_spots = 64
+	min_distance_between_spots = 16
 	#Maximum lifetime of a Rustling Spot (in ticks)
 	# Default: 6000
 	# Range: > 200
-	spot_lifetime_ticks = 2400
+	spot_lifetime_ticks = 6000
 	#Radius in which a player can trigger the spot
 	# Default: 2.0
 	# Range: 0.0 ~ 16.0
-	interaction_radius = 1.5
+	interaction_radius = 2.0
 	#Additional upward reach allowed for interaction (e.g. players on tall mounts)
 	# Default: 3.0
 	# Range: 0.0 ~ 16.0
-	interaction_vertical_allowance = 2.0
+	interaction_vertical_allowance = 3.0
 	#Max distance (in blocks) used for spawning spots around players AND despawning when no eligible player is nearby
 	# Default: 200
 	# Range: > 16

@@ -1,50 +1,13 @@
 {
   "logbegone": {
     "phrases": [
+      "########## GL ERROR ##########",
       "Disconnecting VANILLA connection attempt",
-      "Channels ",
-      "Missing textures in model",
-      "Unable to load model",
-      "Failed to load model",
-      "If this is a development environment you can ignore this message",
-      "de.keksuccino.konkrete.Konkrete",
-      "The augment: null does not have any compatible slots",
-      "Opening a config that was already loaded",
-      "Found animation file with improper file name format",
-      "Invalid frame index on sprite",
-      "Exception loading blockstate definition",
-      "@Mixin target",
-      "was not found",
-      "Error loading class:",
-      "are modifying Embeddium class",
-      "This instance is now tainted",
-      "Embeddium-MixinTaintDetector",
-      "Method overwrite conflict",
-      "Overwrite",
-      "skipped",
-      "Could not find Sign block",
-      "Unknown registry key",
-      "not a JSON object",
-      "unknown recipe type",
-      "Didn't get proper value from config, defaulting to",
-      "Mekanism Unleashed",
-      "Cristel Lib",
-      "Recipe component key",
-      "Falling back to vanilla",
-      "could not find uniform named",
-      "Shader.*could not find",
-      "Missing sprite:",
-      "Invalid path",
-      "Invalid segment",
-      "Unused frames in sprite",
-      "FileNotFoundException",
-      "No key textures"
+      "Channels "
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
-      "Channels ",
-      "ModDiscoverer",
-      "Reference map .* could not be read"
+      "Channels "
     ]
   }
 }

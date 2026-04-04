@@ -7,7 +7,7 @@
     "autoOpDelayPlayer": 2,
     "autoOpDelayContainer": 2,
     "hotbarScope": "HOTBAR",
-    "extraSlotScope": "NONE",
+    "extraSlotScope": "EXTRA",
     "bundlesUseLeftClick": false,
     "alwaysMatchByType": false,
     "typeMatchTags": [

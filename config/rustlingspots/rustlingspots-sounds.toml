@@ -3,7 +3,7 @@
 	#Volume multiplier for the ambient rustling spot sounds
 	# Default: 0.4
 	# Range: 0.0 ~ 4.0
-	ambient_volume = 0.2
+	ambient_volume = 0.4
 	#Volume multiplier for the sound when a Pokémon appears from a spot
 	# Default: 0.8
 	# Range: 0.0 ~ 4.0

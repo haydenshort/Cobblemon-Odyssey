@@ -1,5 +1,7 @@
 {
-  "astages:block_component_provider": null,
+  "apotheosis:adventure": null,
+  "apothic_enchanting:ench": null,
+  "apothic_spawners:spawner": null,
   "balm:jade": null,
   "cobblemonintegrations:berry_bush": null,
   "cobblemonintegrations:campfire_pot": null,
@@ -53,6 +55,7 @@
   "justdynathings:echoing_budding": null,
   "justdynathings:paradox_mixer": null,
   "justdynathings:stabilizer": null,
+  "mega_showdown:jade": null,
   "minecraft:animal_owner": null,
   "minecraft:armor_stand": null,
   "minecraft:beehive": null,
@@ -101,11 +104,13 @@
   "modularrouters:router": null,
   "oritech:machine_core_controller": null,
   "pipez:pipe": null,
-  "quality_food:quality": null,
   "shetiphiancore:hud": null,
   "supplementaries:hat_stand": null,
   "supplementaries:present": null,
   "supplementaries:safe": null,
+  "toms_storage:inventory_config": null,
+  "toms_storage:inventory_connector": null,
+  "toms_storage:inventory_hopper": null,
   "treechop:plugin": null,
   "waystones:waystone": null
 }

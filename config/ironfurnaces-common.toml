@@ -290,4 +290,4 @@
 
 	[misc.misc]
 		# Enable or disable light-updates, furances will no longer emit light, true = disable
-		lightupdates = true
+		lightupdates = false

@@ -1,7 +1,7 @@
 {
   "general": {
     "engines": 0,
-    "volume": 0.05363984778523445,
+    "volume": 1,
     "useSoundMasterSource": false,
     "scanStepAmount": 100,
     "playSoundWithOffset": true
@@ -206,7 +206,7 @@
     "animal": {
       "animal": 1,
       "bird": {
-        "bird": 1,
+        "bird": 0.6382978558540344,
         "bird_day": 1,
         "bird_night": 1
       },

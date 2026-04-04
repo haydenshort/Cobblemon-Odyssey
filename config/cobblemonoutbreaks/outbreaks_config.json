@@ -7,20 +7,20 @@
     "uncommon_outbreak_rarity": 30
   },
   "portal_spawning_config": {
-    "random_player_count": 2,
+    "random_player_count": 1,
     "outbreak_spawn_count": 1,
     "min_spawn_radius": 32,
     "max_spawn_radius": 64,
-    "portal_spawn_choice": "per_player",
-    "per_player_outbreak_timer": 36000,
-    "random_outbreak_timer": 36000
+    "portal_spawn_choice": "random_player",
+    "per_player_outbreak_timer": 72000,
+    "random_outbreak_timer": 72000
   },
   "shiny_config": {
-    "shiny_chance": 512.0
+    "shiny_chance": 4096.0
   },
   "general": {
     "outbreak_spawn_rewards": true,
-    "spawn_portal_particles": true,
+    "spawn_portal_particles": false,
     "outbreaks_flush_timer": 432000,
     "temp_outbreaks_flush_timer": 72000
   },

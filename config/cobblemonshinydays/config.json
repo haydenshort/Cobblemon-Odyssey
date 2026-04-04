@@ -1,0 +1,10 @@
+[
+  {
+    "species": ["ALL"],
+    "labels": [],
+    "types": [],
+    "days": ["Saturday"],
+    "multiplier": 2.0,
+    "broadcastInterval": 300
+  }
+]

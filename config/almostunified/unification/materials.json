@@ -4,9 +4,11 @@
     "kubejs",
     "create",
     "oritech",
+    "mythicmetals",
+    "forbidden_arcanus",
+    "actuallyadditions",
     "justdirethings",
-    "utilitarian",
-    "actuallyadditions"
+    "utilitarian"
   ],
   "priority_overrides": {},
   "stone_variants": [
@@ -34,6 +36,7 @@
   ],
   "ignored_tags": [],
   "ignored_items": [
+    "regions_unexplored:raw_redstone_block",
     "oritech:biosteel_ingot",
     "oritech:plastic_sheet"
   ],
@@ -42,6 +45,6 @@
   ],
   "ignored_recipe_ids": [],
   "recipe_viewer_hiding": true,
-  "loot_unification": false,
+  "loot_unification": true,
   "ignored_loot_tables": []
 }

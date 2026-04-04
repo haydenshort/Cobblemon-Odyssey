@@ -154,6 +154,26 @@
 			# Range: 0.0 ~ 1000000.0
 			attack_speed = 1.0
 
+	[tools_and_abilities.brontes]
+		#Brontes Storm Damage
+		# Default: 10.0
+		# Range: 0.0 ~ 1000000.0
+		brontes_storm_damage = 10.0
+		#Brontes Storm Area Damage
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		brontes_storm_area_damage = 1.0
+
+		[tools_and_abilities.brontes.tool_config]
+			#Tool attack damage
+			# Default: 13.0
+			# Range: 0.0 ~ 1000000.0
+			attack_damage = 13.0
+			#Tool attack speed
+			# Default: 1.0
+			# Range: 0.0 ~ 1000000.0
+			attack_speed = 1.0
+
 	[tools_and_abilities.wither_assault_shoulder_weapon]
 		#Missile Cooldown
 		# Default: 40
@@ -300,7 +320,7 @@
 			# Range: 0.0 ~ 1000000.0
 			attack_damage = 8.5
 			#Tool attack speed
-			# Default: 1.4
+			# Default: 1.6
 			# Range: 0.0 ~ 1000000.0
 			attack_speed = 1.6
 
@@ -321,6 +341,22 @@
 		# Default: 7.0
 		# Range: 0.0 ~ 1000000.0
 		laser_damage = 7.0
+
+	[tools_and_abilities.ancient_spear]
+		#SandStorm
+		# Default: 6.0
+		# Range: 0.0 ~ 1000000.0
+		sand_storm_damage = 6.0
+
+		[tools_and_abilities.ancient_spear.tool_config]
+			#Tool attack damage
+			# Default: 9.5
+			# Range: 0.0 ~ 1000000.0
+			attack_damage = 9.5
+			#Tool attack speed
+			# Default: 1.4
+			# Range: 0.0 ~ 1000000.0
+			attack_speed = 1.4
 
 	[mobs.etc]
 		#Return Home

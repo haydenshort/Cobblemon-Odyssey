@@ -34,9 +34,9 @@
   ],
   "enableAnimationSmoothing": true,
   "enableInWorldMapRendering": true,
-  "enableOffhandHiding": true,
+  "enableOffhandHiding": false,
   "enableRotationLocking": true,
-  "enableLadderAnimation": true,
+  "enableLadderAnimation": false,
   "ladderAnimationAmplifier": 0.35,
   "ladderAnimationArmHeight": 1.7,
   "ladderAnimationArmSpeed": 2.0,
@@ -49,6 +49,7 @@
   "freezeArmsInBed": true,
   "rotationLock": "NONE",
   "limitRotationLockToFP": true,
+  "applyRotationLockToEveryone": false,
   "showLastUsedSword": false,
   "sheathSwords": [
     "minecraft:golden_sword",
@@ -59,7 +60,7 @@
     "minecraft:netherite_sword"
   ],
   "enableCrawlingAnimation": true,
-  "holdUpItemsMode": "CONFIG",
+  "holdUpItemsMode": "NONE",
   "holdUpTarget": "CAMERA",
   "holdUpCameraOffset": 0.1,
   "holdUpOnlySelf": false,
@@ -71,7 +72,7 @@
   "freezingAnimation": true,
   "huggingAnimation": false,
   "narutoRunning": false,
-  "disableLegSmoothing": false,
+  "disableLegSmoothing": true,
   "bowAnimation": "VANILLA",
   "customBowRotationLock": false,
   "clampCrossbowAnimations": false,
@@ -80,5 +81,18 @@
   "mapHolding": [
     "minecraft:filled_map",
     "antiqueatlas:antique_atlas"
+  ],
+  "animateLanterns": true,
+  "lanternItems": [
+    "minecraft:waxed_copper_lantern",
+    "minecraft:waxed_exposed_copper_lantern",
+    "minecraft:soul_lantern",
+    "minecraft:waxed_oxidized_copper_lantern",
+    "minecraft:exposed_copper_lantern",
+    "minecraft:lantern",
+    "minecraft:waxed_weathered_copper_lantern",
+    "minecraft:weathered_copper_lantern",
+    "minecraft:oxidized_copper_lantern",
+    "minecraft:copper_lantern"
   ]
 }

@@ -138,19 +138,32 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:skeleton": true
-			"minecraft:bat": true
-			"minecraft:spider": true
-			"tide:crystal_shrimp": true
-			"cobblemon:pokemon": true
-			"minecraft:creeper": true
-			"minecraft:slime": true
+			"mowziesmobs:grottol": true
+			"minecraft:witch": true
 			"minecraft:glow_squid": true
+			"minecraft:salmon": false
+			"wildernature:flamingo": true
+			"artifacts:mimic": true
+			"alshanex_familiars:dragon_warrior_pet": true
+			"minecraft:shulker": true
+			"minecraft:cow": true
 			"minecraft:zombie": true
+			"minecraft:pig": true
+			"cobblemon:pokemon": true
+			"minecraft:bee": true
+			"wildernature:hedgehog": true
+			"minecraft:skeleton": true
+			"minecraft:squid": true
+			"wildernature:deer": true
+			"minecraft:cave_spider": true
+			"minecraft:chicken": true
+			"minecraft:enderman": true
+			"minecraft:spider": true
+			"minecraft:sheep": true
 			"irons_spellbooks:necromancer": true
-			"friendsandfoes:mauler": true
-			"tide:iron_tetra": true
-			"minecraft:rabbit": true
+			"minecraft:fox": true
+			"minecraft:bat": true
+			"minecraft:creeper": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
@@ -177,6 +190,7 @@
 			"ftbchunks:game_time"
 			"ftbchunks:real_time"
 			"ftbchunks:debug"
+			"seasonhud:season"
 		]
 		info_settings: { }
 		

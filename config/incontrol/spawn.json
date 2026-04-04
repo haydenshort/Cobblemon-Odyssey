@@ -1,10 +1,10 @@
 [
   {
     "mob": [
-      "minecraft:drowned", 
+      "minecraft:drowned",
       "cataclysm:deepling_brute",
       "cataclysm:deepling_warlock",
-      "cataclysm:deepling_priest", 
+      "cataclysm:deepling_priest",
       "cataclysm:deepling_angler",
       "cataclysm:deepling"
     ],
@@ -13,31 +13,10 @@
     "result": "deny"
   },
   {
-    "mob": [
-      "minecraft:zombie",
-      "minecraft:skeleton",
-      "minecraft:enderman",
-      "minecraft:spider",
-      "minecraft:creeper",
-      "minecraft:witch",
-      "minecraft:zombie_villager",
-      "minecraft:husk",
-      "minecraft:stray",
-      "minecraft:bogged",
-      "minecraft:slime",
-      "minecraft:skeleton_horse",
-      "irons_spellbooks:necromancer"
-    ],
-    "dimension": "minecraft:overworld",
-    "minheight": 50,
-    "result": "deny"
-  },
-  {
     "dimension": "minecraft:overworld",
     "mob": ["minecraft:zombie"],
     "winter": true,
     "result": "allow",
-    "maxheight": 50,
     "speedmultiply": 1.2,
     "random": 0.4,
     "armorhelmet": ["simplehats:santaclaus", "simplehats:frozenhead", "minecraft:ice"],
@@ -53,7 +32,6 @@
     "dimension": "minecraft:overworld",
     "mob": ["minecraft:zombie"],
     "result": "allow",
-    "maxheight": 50,
     "autumn": true,
     "speedmultiply": 0.6,
     "random": 0.6,
@@ -94,35 +72,15 @@
   },
   {
     "mob": [
-      "minecraft:drowned", 
+      "minecraft:drowned",
       "cataclysm:deepling_brute",
       "cataclysm:deepling_warlock",
-      "cataclysm:deepling_priest", 
+      "cataclysm:deepling_priest",
       "cataclysm:deepling_angler",
       "cataclysm:deepling"
     ],
     "dimension": "minecraft:overworld",
     "maxheight": 30,
-    "result": "allow"
-  },
-  {
-    "mob": [
-      "minecraft:zombie",
-      "minecraft:skeleton",
-      "minecraft:enderman",
-      "minecraft:spider",
-      "minecraft:creeper",
-      "minecraft:witch",
-      "minecraft:zombie_villager",
-      "minecraft:husk",
-      "minecraft:stray",
-      "minecraft:bogged",
-      "minecraft:slime",
-      "minecraft:skeleton_horse",
-      "irons_spellbooks:necromancer"
-    ],
-    "dimension": "minecraft:overworld",
-    "maxheight": 50,
     "result": "allow"
   },
   {

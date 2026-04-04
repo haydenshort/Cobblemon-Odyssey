@@ -7,7 +7,7 @@
 	"isHighlightCrosshairEnabled": true,
 	"hudHighlightColor": 16711680,
 	"isShowingWeaponTrails": true,
-	"isShowingArmsInFirstPerson": true,
+	"isShowingArmsInFirstPerson": false,
 	"isShowingOtherHandFirstPerson": true,
 	"isSweepingParticleEnabled": true,
 	"isTooltipAttackRangeEnabled": true,
@@ -16,6 +16,7 @@
 	"isDebugOBBEnabled": true,
 	"swingThruGrassBlacklist": "delight|farmersknives",
 	"mineWithWeaponBlacklist": "",
+	"mineWithWeaponWhitelist": "",
 	"firstPersonAnimations": "AUTO",
 	"legAnimationThreshold": 0.0
 }
