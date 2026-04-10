@@ -1,4 +1,4 @@
-console.info("[BAB] EntityTags.js loaded")
+console.info("[CO] EntityTags.js loaded")
 
 ServerEvents.tags("entity_type", event => {
     event.add("c:bosses", [

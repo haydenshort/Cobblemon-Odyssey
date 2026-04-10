@@ -1,4 +1,4 @@
-console.info("[BAB] RecipesFix.js loaded")
+console.info("[CO] RecipesFix.js loaded")
 
 let $Stopwatch = Java.loadClass("com.google.common.base.Stopwatch")
 

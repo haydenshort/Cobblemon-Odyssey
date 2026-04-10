@@ -1,4 +1,4 @@
-console.info("[BAB] StarterScreen.js loaded")
+console.info("[CO] StarterScreen.js loaded")
 
 PlayerEvents.loggedIn(event => {
     const player = event.player

@@ -1,4 +1,4 @@
-console.info("[BAB] ItemBlockFluidTags.js loaded")
+console.info("[CO] ItemBlockFluidTags.js loaded")
 
 ServerEvents.tags("items", event => {
 

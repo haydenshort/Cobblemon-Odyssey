@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "megashowdownores:mega_shard_block"
+    },
+    "B": {
+      "item": "zamega:floettite"
+    },
+    "C": {
+      "item": "megashowdownores:dynite_block"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+      "count": 1,
+      "id": "zamega:ange"
+    }
+ }

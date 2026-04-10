@@ -1,22 +1,22 @@
 {
-  "keys": [
-    {
-      "name": "result",
-      "role": "output",
-      "type": "item_stack"
-    },
-    {
-      "name": "ingredients",
-      "role": "input",
-      "type": {
-        "type": "ingredient",
-        "array": true
-      }
-    },
-    {
-      "name": "energy",
-      "role": "input",
-      "type": "int"
-    }
-  ]
+    "keys": [
+        {
+            "name": "result",
+            "role": "output",
+            "type": "item_stack"
+        },
+        {
+            "name": "ingredients",
+            "role": "input",
+            "type": {
+                "type": "ingredient",
+                "array": true
+            }
+        },
+        {
+            "name": "energy",
+            "role": "input",
+            "type": "int"
+        }
+    ]
 }

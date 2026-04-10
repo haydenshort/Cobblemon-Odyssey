@@ -1,4 +1,4 @@
-console.info("[BAB] AddCobblemonBallRecipes.js loaded")
+console.info("[CO] AddCobblemonBallRecipes.js loaded")
 
 ServerEvents.recipes(event => {
     const deployingRecipe = (output, targetItem, deployedItem, keepHeld) => {
@@ -25,7 +25,7 @@ ServerEvents.recipes(event => {
             fluidOutputs: [],
             ingredients: [
                 inputItem,
-                assemeblyItem_1,
+                assemblyItem_1,
                 assemblyItem_2,
                 assemblyItem_3
             ],

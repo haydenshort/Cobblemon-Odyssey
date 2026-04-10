@@ -1,4 +1,4 @@
-console.info("[BAB] AddMiscRecipes.js loaded")
+console.info("[CO] AddMiscRecipes.js loaded")
 
 ServerEvents.recipes((event) => {
 
@@ -11,13 +11,6 @@ ServerEvents.recipes((event) => {
         Item.of("createmonballsoverhaul:rubber_stamp_lid", 1),
         ["aaa", "aba", "ccc"],
         {a: "minecraft:stick", b: "#createmonballsoverhaul:spherical_shaped_items_for_lids", c: "#c:silicon"}
-    )
-
-    event.smithing(
-        "starcatcher:starcatcher_rod",
-        "starcatcher:hook",
-        "minecraft:fishing_rod",
-        "starcatcher:bobber"
     )
 
     //Just Hammers

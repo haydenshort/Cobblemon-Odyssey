@@ -1,4 +1,4 @@
-console.info("[BAB] SeasonTags.js loaded")
+console.info("[CO] SeasonTags.js loaded")
 
 const stripTags = [
     "minecraft:apple",
