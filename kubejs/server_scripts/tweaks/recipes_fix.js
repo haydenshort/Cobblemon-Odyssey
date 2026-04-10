@@ -40,29 +40,12 @@ KubeJSTweaks.beforeRecipes(event => {
 
     event.disable("supplementaries:botany_flax")
     event.disable("endersdelight:chorus_pie_slice")
-    event.disable("createages:zinc_age/stonecutting/sd_controller")
-    event.disable("createages:zinc_age/stonecutting/sd_controller_io")
-    event.disable("ess_requiem:primal_flesh")
-    event.disable("ess_requiem:dream_ripper")
     event.disable("create_enchantment_industry_plus:grinding/inksac_dye")
     event.disable(/^actuallyadditions:compat\/mekanism/)
     event.disable("farmersdelight:wheat_dought_from_water_and_flour")
 
-    event.getEntry(/^extradisks:storage_upgrade\/.*_chemical_.*/)
-    .forEach(entry => {
-        entry.disable()
-    })
-
     event.getEntry("bellsandwhistles:metro/metro_window").forEach(entry => {
 	    entry.replaceValueAtKey("ingredients", "tag", "c:glass", "c:glass_blocks")
-    })
-
-    event.getEntry("mushroomquest:artistconkr").forEach(entry => {
-        entry.replaceValueAtKey("ingredients", "tag", "forge:dyes", "c:dyes")
-    })
-
-    event.getEntry(/^betterend:.*_berry_jelly/).forEach(entry => {
-	    entry.replaceValueAtKey("ingredients", "tag", "wover:water_bottles", "c:drinks/honey")
     })
 
     event.getEntry("farmersdelight:integration/create/filling/chocolate_pie")
