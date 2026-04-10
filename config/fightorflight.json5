@@ -24,7 +24,7 @@
 	// The value of the aggression if the Pokemon's level reaches 100.
 	"aggression_level_base_value": 40.0,
 	// The multiplier used to calculate the wild Pokemon's aggression,lower value can make the high level Pokemon less aggressive. Editing the base value is enough, This is kept for the old config files. This still works, though
-	"aggression_level_multiplier": 0.7,
+	"aggression_level_multiplier": 0.699999988079071,
 	// The value of the aggression if [(Atk + Sp. Atk)-(Def + Sp. Def)]/level = 1. The Pokemon level won't be affected by the multiplier above.
 	"aggression_atk_def_dif_base_value": 30.0,
 	// Are Dark types more aggressive at or below light level 7 and less aggressive at or above light level 12?

@@ -9,6 +9,6 @@
   "memoryUsageWarningPercentage": 95,
   "debugChunkLoading": false,
   "debugThreadsStuck": false,
-  "disableEternalStarlightProgress": true,
+  "disableEternalStarlightProgress": false,
   "skipTickingUnloadedFluxNetworks": true
 }

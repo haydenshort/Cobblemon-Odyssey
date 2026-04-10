@@ -20,9 +20,11 @@ paragliderDurability = 0
 paragliderInTowersOfTheWild = "DEFAULT"
 
 [spiritOrbs]
-	#If true, Wither will drop heart container(stamina vessel if heart container is disabled) upon death.
+	#If true, Ender Dragon will drop heart container(stamina vessel if heart container is disabled) upon death.
+	#The vessel reward is per-player, meaning every player participated in the fight will get one vessel each.
 	enderDragonDropsVessel = true
-	#If true, Elder Guardian will drop a Spirit Orb upon death.
+	#If true, Raids will give heart container(stamina vessel if heart container is disabled) upon victory.
+	#The vessel reward is per-player, meaning every player participated in the Raid will get one vessel each.
 	raidGivesVessel = true
 	#Amount of Spirit Orbs dropped from spawners. Fractional values are treated as a chanced drop, in addition to whole values which is guaranteed to drop.
 	# Default: 1.0
@@ -39,17 +41,25 @@ paragliderInTowersOfTheWild = "DEFAULT"
 	#If true, various types of chest will have chances of having Spirit Orbs inside.
 	#Does not change contents of already generated chests.
 	spiritOrbLoots = true
+	#If true, heart container/stamina vessel dropped by Ender Dragon will spawn on top of the end podium (the ending portal).
+	#If false, it will be instead given directly to players.
+	#This option does not change the amount of vessels given to each player. Intended as a compatibility feature for mods that change end podium location.
+	enderDragonVesselSpawnsOnPodium = true
+	#If true, Wither will drop heart container(stamina vessel if heart container is disabled) upon death.
+	witherDropsVessel = true
+	#If true, Elder Guardian will drop a Spirit Orb upon death.
+	elderGuardianDropsSpiritOrb = true
 
 [vessels]
 	#Starting health points measured in number of hearts.
 	# Default: 10
-	# Range: 1 ~ 512
+	# Range: > 1
 	startingHearts = 10
 	#Maximum amount of Heart Containers one player can consume.
 	#Do note that the maximum health point is capped at value of 1024 (or 512 hearts) by Minecraft's default
 	#attribute system; without modifying these limits, Heart Containers won't give you extra hearts beyond that.
 	# Default: 20
-	# Range: 0 ~ 512
+	# Range: > 0
 	maxHeartContainers = 20
 	#Amount of stamina players start with. One full stamina wheel is equivalent to 1000 stamina.
 	# Default: 1000

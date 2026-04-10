@@ -138,32 +138,32 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"mowziesmobs:grottol": true
+			"wildernature:deer": true
 			"minecraft:witch": true
-			"minecraft:glow_squid": true
-			"minecraft:salmon": false
-			"wildernature:flamingo": true
-			"artifacts:mimic": true
-			"alshanex_familiars:dragon_warrior_pet": true
-			"minecraft:shulker": true
-			"minecraft:cow": true
-			"minecraft:zombie": true
 			"minecraft:pig": true
-			"cobblemon:pokemon": true
-			"minecraft:bee": true
+			"minecraft:shulker": true
+			"minecraft:glow_squid": true
+			"minecraft:chicken": true
+			"minecraft:creeper": true
+			"mowziesmobs:grottol": true
+			"minecraft:zombie": true
+			"minecraft:squid": true
 			"wildernature:hedgehog": true
 			"minecraft:skeleton": true
-			"minecraft:squid": true
-			"wildernature:deer": true
-			"minecraft:cave_spider": true
-			"minecraft:chicken": true
+			"wildernature:flamingo": true
+			"minecraft:bee": true
+			"minecraft:salmon": false
+			"cobblemon:pokemon": true
 			"minecraft:enderman": true
 			"minecraft:spider": true
-			"minecraft:sheep": true
-			"irons_spellbooks:necromancer": true
-			"minecraft:fox": true
 			"minecraft:bat": true
-			"minecraft:creeper": true
+			"artifacts:mimic": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:cow": true
+			"minecraft:sheep": true
+			"minecraft:fox": true
+			"alshanex_familiars:dragon_warrior_pet": true
+			"minecraft:cave_spider": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

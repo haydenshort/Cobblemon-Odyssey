@@ -14,7 +14,7 @@
 
 [Commands]
 	#━━━━━━━━━━
-	#Permission level of win commands.
+	#Elevated permission level for win commands.
 	#
 	#Default: 2
 	# Default: 2
