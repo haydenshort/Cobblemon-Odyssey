@@ -46,7 +46,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 - Cobbreeding (2.2.1)
 - Complete Cobblemon Collection Mod (2.0.1)
 - Mega Showdown Ores (1.2.4)
-- Navas ZA Megas (1.6.1)
+- Navas ZA Megas (1.7.2)
 - Capture Cap: RCT Version (1.2.0)
 - Fix Cobblemon Experience (1.1.1)
 - Cobblemon Shiny Days (1.1.1)
@@ -128,6 +128,7 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 <summary><b>Techbology (1)</b></summary>
 
 - Create: Diesel Generators (1.3.8)
+- Tom's Simple Storage (2.3.1)
 
 </details>
 
@@ -190,7 +191,9 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 | AlmostUnified | 1.3.0 → 1.4.1 |
 | Alshanex's Familiars | 3.8 → 3.8.5 |
 | AppleSkin | 3.0.8 → 3.0.9 |
+| Artifacts | 13.2.0 → 13.2.1 |
 | AzureLib | 3.0.39 → 3.1.3 |
+| BaguetteLib | 1.1.6 → 2.0.3 |
 | Better Archeology | 1.3.4 → 1.3.5 |
 | Better Combat | 2.3.1 → 2.3.2 |
 | Bosses Rise | 2.0.4 → 2.0.12 |
@@ -199,18 +202,20 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 | Chat Heads | 0.15.0 → 0.15.1 |
 | Certain Questing Additions | 1.1.3 → 1.1.6 |
 | Cobbleloots: Loot Balls and More! | 2.1.0 → 2.3.0 |
-| Cobblemon Battle Extras | 1.9.33 → 1.12.41 |
+| Cobblemon Battle Extras | 1.9.33 → 1.13.44 |
 | Cobblemon Catch Indicator | 1.4 → 1.6.2 |
 | Cobblemon Firework Capsules | 2.1.0 → 2.1.3 |
 | Cobblemon Mega Showdown | 1.6.12 → 1.7.4 |
 | Cobblemon Party Extras | 1.6.11 → 1.7.13 |
-| Cobblemon PlayerXP | 1.0.6 → 1.0.8 |
+| Cobblemon PlayerXP | 1.0.6 → 1.0.9 |
 | Cobblemon Pokenav | 2.2.5 → 2.3.2 |
 | Cobblemon Raid Dens | 0.7.6 → 0.10.0 |
 | Cobblemon Rustling Spots | 1.8 → 2.0.1 |
+| Cobbleworkers | 1.8.0 → 2.0.2 |
 | Cobblemon Trainer Battle Commands | 0.13.0 → 0.14.1 |
 | Colorwheel | 1.2.1 → 1.2.3 |
-| Cooking for Blockheads | 21.1.17 → 21.1.19 |
+| Collective | 8.13 → 8.17 |
+| Cooking for Blockheads | 21.1.17 → 21.1.20 |
 | CorgiLib | 5.0.0.7 → 5.0.0.9 |
 | Crabber's Delight | 1.2.4 → 1.2.5 |
 | Crash Assistant | 1.10.30 → 1.11.6 |
@@ -221,24 +226,25 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 | Cupboard | 2.9 → 3.5 |
 | Discerning The Eldritch | 1.3.2 → 1.4.3 |
 | Ember's Text API | 2.8.2 → 2.9.4 |
-| EntityCulling | 1.9.5 → 1.10.0 |
+| EntityCulling | 1.9.5 → 1.10.1 |
 | Ender's Delight | 1.1.0 → 1.2.0 |
-| Ender's Spells and Stuff          | 0.0.9-hotfix → 0.1.1        |
-| Entity Model Features             | 3.0.12 → 3.0.17             |
-| Entity Texture Features           | 7.0.9 → 7.0.13              |
-| Exposure                          | 1.9.13 → 1.9.16             |
-| Extreme Sound Mufflers            | 3.54 → 3.55                 |
-| FamiliarsLib                      | 1.5 → 1.6                   |
-| FDLIB                             | 1.0.8 → 1.0.9               |
-| FTB Library                       | 2101.1.30 → 2101.1.31       |
-| FTB Quests                        | 2101.1.22 → 2101.1.23       |
-| FTB XMod Compat                   | 21.1.7 → 21.1.7             |
-| GeckoLib                          | 4.8.3 → 4.8.4               |
-| Hazen and Stuff                   | 1.2.0 → 1.3.10              |
-| Immersive Optimizations           | 0.1.1 → 0.1.4               |
-| Iron's Spells and Spellbooks      | 3.15.3 → 3.15.5             |
-| JamLib                            | 1.3.5 → 1.3.6               |
-| Just Enough Archeology | 1.1.6 → 1.2.0               |
+| Ender's Spells and Stuff | 0.0.9-hotfix → 0.1.1 |
+| Entity Model Features | 3.0.12 → 3.0.17 |
+| Entity Texture Features | 7.0.9 → 7.0.13 |
+| Exposure | 1.9.13 → 1.9.16 |
+| Extreme Sound Mufflers | 3.54 → 3.56 |
+| FamiliarsLib | 1.5 → 1.6 |
+| FDLIB | 1.0.8 → 1.0.9 |
+| FTB Library | 2101.1.30 → 2101.1.31 |
+| FTB Quests | 2101.1.22 → 2101.1.24 |
+| FTB Teams | 2101.1.9 → 2101.1.10 |
+| FTB XMod Compat | 21.1.7 → 21.1.7 |
+| GeckoLib | 4.8.3 → 4.8.4 |
+| Hazen and Stuff | 1.2.0 → 1.3.10 |
+| Immersive Optimizations | 0.1.1 → 0.1.4 |
+| Iron's Spells and Spellbooks | 3.15.3 → 3.15.5 |
+| JamLib | 1.3.5 → 1.3.6 |
+| Just Enough Archeology | 1.1.6 → 1.2.0 |
 | Just Dyna Things | 1.19.4 → 1.19.6 |
 | L Ender's Cataclysm | 3.16 → 3.24 |
 | Let's Do Brewery | 2.1.8 → 2.1.9 |
@@ -247,9 +253,10 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 | Lithium  | 0.15.2 → 0.15.3 |
 | Lithostiched | 1.5.7 → 1.6.5 |
 | Lootr | 1.11.36.116 → 1.11.37.118 |
-| Moonlight Lib | 2.29.18 → 2.29.26 |
+| Moonlight Lib | 2.29.18 → 2.29.29 |
 | Mowzie's Mobs | 1.7.5 → 1.8.2 |
-| Not Enough Animations | 1.11.3 → 1.12.0 |
+| Nature's Compass | 3.0.3 → 3.4.0 |
+| Not Enough Animations | 1.11.3 → 1.12.1 |
 | OctoLib | 0.6.0.4 → 0.6.1 |
 | Oh The Biomes We've Gone | 2.5.4 → 2.5.5 |
 | Oh The Trees You'll Grow | 5.2.0 → 5.3.0 |
@@ -260,22 +267,23 @@ This update brings **major worldgen improvements**, a **complete Cobblemon breed
 | Radical Cobblemon Trainers | 0.17.6 → 0.17.7 |
 | Radical Cobblemon Trainers API | 0.14.8 → 0.15.0 |
 | Rustic Delight | 1.5.3 → 1.5.4 |
+| Seasonal Let's Do | 1.4.0 → 1.5.0 |
 | Seasonal Integrations | 1.4.2 → 1.5.0 |
-| SeasonsHUD | 1.13.17 → 2.0.3 |
-| Shoulder Surfing Reloaded | 4.21.0 → 4.22.4 |
-| Simple Voice Chat | 2.6.12 → 2.6.15 |
+| SeasonsHUD | 1.13.17 → 2.0.4 |
+| Shoulder Surfing Reloaded | 4.21.0 → 4.22.5 |
+| Simple Voice Chat | 2.6.12 → 2.6.16 |
 | Simply Swords | 1.62.0 → 1.63.0 |
-| Sophisticated Backpacks | 3.25.30.1537 → 3.25.36.1629 |
-| Sophisticated Core | 1.4.5.1499 → 1.4.15.1607 |
-| Sophisticated Storage | 1.5.28.1494 → 1.5.34.1591 |
+| Sophisticated Backpacks | 3.25.30.1537 → 3.25.37.1646 |
+| Sophisticated Core | 1.4.5.1499 → 1.4.23.1664 |
+| Sophisticated Storage | 1.5.28.1494 → 1.5.36.1606 |
 | Sophisticated Storage Create Integration | 0.1.13.54 → 0.1.14.98 |
-| Structurify | 2.0.18 → 2.0.20 |
+| Structurify | 2.0.18 → 2.0.22 |
 | Subtle Effects | 1.13.2hf → 1.14.1 |
 | SuperMartijn642's Core Lib | 1.1.20 → 1.1.21 |
-| Supplementaries | 3.5.25 → 3.5.30 |
-| Utilitarian | 0.18.1 → 0.18.2 |
+| Supplementaries | 3.5.25 → 3.5.34 |
+| Utilitarian | 0.18.1 → 0.19.1 |
 | Waystones | 21.1.28 → 21.1.29 |
-| Xaero's Maps x Waystones | 2.6.1 → 2.7.4 |
+| Xaero's Maps x Waystones | 2.6.1 → 2.7.5 |
 
 </details>
 
