@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "byg:weeping_mire",
+      "required": false
+    },
+    {
+      "id": "byg:withering_woods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:glistering_meadow",
+      "required": false
+    }
+  ]
+}

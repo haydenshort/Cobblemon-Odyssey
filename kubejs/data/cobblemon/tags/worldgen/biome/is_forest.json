@@ -1,0 +1,71 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_forest",
+    "minecraft:cherry_grove",
+    {
+      "id": "#c:flower_forests",
+      "required": false
+    },
+	{
+      "id": "#c:tree_deciduous",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:alpha_grove",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:autumnal_maple_forest",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:deciduous_forest",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:maple_forest",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:redwoods",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:sparse_redwoods",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:magnolia_woodland",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:mauve_hills",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:mountains",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:orchard",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:pine_slopes",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:silver_birch_forest",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:temperate_grove",
+      "required": false
+    },
+	{
+      "id": "regions_unexplored:willow_forest",
+      "required": false
+    }
+  ]
+}

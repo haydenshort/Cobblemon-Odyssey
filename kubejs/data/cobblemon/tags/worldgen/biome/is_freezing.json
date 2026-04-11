@@ -1,0 +1,39 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:frozen_river",
+    "minecraft:jagged_peaks",
+    "minecraft:snowy_beach",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "#cobblemon:is_frozen",
+    "#cobblemon:is_glacial",
+    "#cobblemon:is_snowy",
+    "#cobblemon:is_frozen_ocean",
+    "#cobblemon:is_snowy_forest",
+    {
+      "id": "byg:cardinal_tundra",
+      "required": false
+    },
+    {
+      "id": "#byg:is_snowy",
+      "required": false
+    },
+    {
+      "id": "#c:snowy",
+      "required": false
+    },
+    {
+      "id": "#forge:is_snowy",
+      "required": false
+    },
+    {
+      "id": "byg:cardinal_tundra",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:shattered_glacier",
+      "required": false
+    }
+  ]
+}

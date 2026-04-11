@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:warped_forest",
+    {
+      "id": "byg:wailing_garth",
+      "required": false
+    },
+    {
+      "id": "byg:warped_desert",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:infernal_holt",
+      "required": false
+    }
+  ]
+}

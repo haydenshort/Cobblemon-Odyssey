@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:nether_wastes",
+    {
+      "id": "byg:brimstone_caverns",
+      "required": false
+    },
+    {
+      "id": "byg:magma_wastes",
+      "required": false
+    }
+  ]
+}
