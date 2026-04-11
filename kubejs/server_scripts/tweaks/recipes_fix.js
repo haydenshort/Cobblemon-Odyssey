@@ -38,6 +38,11 @@ KubeJSTweaks.beforeRecipes(event => {
         entry.addConditionsFromKey("ingredients")
     })
 
+    event.getEntry(/^deeperdarker:.*_smithing$/)
+    .forEach(entry => {
+        entry.fromPath("template", "[]").ifPresent(result => entry.ignoreWarning())
+    })
+
     event.disable("supplementaries:botany_flax")
     event.disable("endersdelight:chorus_pie_slice")
     event.disable("create_enchantment_industry_plus:grinding/inksac_dye")
@@ -45,7 +50,7 @@ KubeJSTweaks.beforeRecipes(event => {
     event.disable("farmersdelight:wheat_dought_from_water_and_flour")
 
     event.getEntry("bellsandwhistles:metro/metro_window").forEach(entry => {
-	    entry.replaceValueAtKey("ingredients", "tag", "c:glass", "c:glass_blocks")
+        entry.replaceValueAtKey("ingredients", "tag", "c:glass", "c:glass_blocks")
     })
 
     event.getEntry("farmersdelight:integration/create/filling/chocolate_pie")
