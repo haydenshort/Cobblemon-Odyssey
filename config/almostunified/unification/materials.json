@@ -2,6 +2,7 @@
   "mod_priorities": [
     "minecraft",
     "kubejs",
+    "unify",
     "create",
     "oritech",
     "mythicmetals",
