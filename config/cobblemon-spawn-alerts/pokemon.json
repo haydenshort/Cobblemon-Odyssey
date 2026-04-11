@@ -10,7 +10,7 @@
       "enabled": true,
       "alwaysAlert": true,
       "alertShiny": true,
-      "alertHiddenAbility": true,
+      "alertHiddenAbility": false,
       "alertDespawned": true,
       "showLegendary": true,
       "showBucket": true,

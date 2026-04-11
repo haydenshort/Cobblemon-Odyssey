@@ -12,7 +12,7 @@
   "enableDespawnAlerts": true,
   "enableSounds": true,
   "alertAllShinies": true,
-  "alertAllHA": true,
+  "alertAllHA": false,
   "alertAllLegendaries": true,
   "alertAllMythicals": true,
   "alertAllUltraBeasts": true,
