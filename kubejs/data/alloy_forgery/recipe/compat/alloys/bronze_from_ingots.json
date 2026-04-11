@@ -1,0 +1,29 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:tags_populated",
+      "registry": "minecraft:item",
+      "values": [
+        "c:ingots/tin",
+        "c:ingots/copper",
+        "c:ingots/bronze"
+      ]
+    }
+  ],
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "c:ingots/copper",
+      "count": 2
+    },
+	  {
+      "tag": "c:ingots/tin"
+    }
+  ],
+  "output": {
+    "id": "unify:bronze_ingot",
+    "count": 2
+  },
+  "min_forge_tier": 1,
+  "fuel_per_tick": 5
+}

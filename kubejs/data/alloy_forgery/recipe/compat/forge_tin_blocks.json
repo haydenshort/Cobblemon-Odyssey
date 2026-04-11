@@ -1,0 +1,30 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:tags_populated",
+      "registry": "minecraft:item",
+      "values": [
+        "c:storage_blocks/tin",
+        "c:storage_blocks/raw_tin"
+      ]
+    }
+  ],
+  "type": "alloy_forgery:forging",
+  "fuel_per_tick": 45,
+  "inputs": [
+    {
+      "count": 2,
+      "tag": "c:storage_blocks/raw_tin"
+    }
+  ],
+  "min_forge_tier": 1,
+  "output": {
+    "count": 3,
+    "id": "unify:tin_block"
+  },
+  "overrides": {
+    "2+": {
+      "count": 4
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:tags_populated",
+      "registry": "minecraft:item",
+      "values": [
+        "c:ores/copper",
+        "c:ores/zinc",
+        "c:ingots/brass"
+      ]
+    }
+  ],
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "c:ores/copper",
+      "count": 2
+    },
+    {
+      "tag": "c:ores/zinc"
+    }
+  ],
+  "output": {
+    "id": "unify:brass_ingot",
+    "count": 3
+  },
+  "overrides": {
+    "2+": {
+      "count": 4
+    },
+    "3+": {
+      "count": 5
+    }
+  },
+  "min_forge_tier": 1,
+  "fuel_per_tick": 5
+}

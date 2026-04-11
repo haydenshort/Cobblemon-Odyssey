@@ -1,0 +1,33 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:tags_populated",
+      "registry": "minecraft:item",
+      "values": [
+        "c:ores/gold",
+        "c:ores/silver",
+        "c:ingots/electrum"
+      ]
+    }
+  ],
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "c:ores/gold"
+    },
+	  {
+      "tag": "c:ores/silver"
+    }
+  ],
+  "output": {
+    "id": "unify:electrum_ingot",
+    "count": 2
+  },
+  "overrides": {
+    "3+": {
+      "count": 3
+    }
+  },
+  "min_forge_tier": 2,
+  "fuel_per_tick": 10
+}
