@@ -13,6 +13,10 @@
     {
       "id": "regions_unexplored:volcanic_island",
       "required": false
+    },
+    {
+      "id": "wythers:deep_icy_ocean",
+      "required": false
     }
   ]
 }

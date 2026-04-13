@@ -1,11 +1,7 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "byg:sythian_torrids",
-      "required": false
-    },
-    {
+	{
       "id": "regions_unexplored:blackstone_basin",
       "required": false
     },

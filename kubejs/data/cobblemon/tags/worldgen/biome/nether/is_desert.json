@@ -1,16 +1,7 @@
 {
   "replace": false,
   "values": [
-    "minecraft:soul_sand_valley",
-    {
-      "id": "byg:quartz_desert",
-      "required": false
-    },
-    {
-      "id": "byg:warped_desert",
-      "required": false
-    },
-    {
+	{
       "id": "regions_unexplored:infernal_holt",
       "required": false
     }

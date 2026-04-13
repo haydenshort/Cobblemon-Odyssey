@@ -3,14 +3,14 @@
   "values": [
     "minecraft:dark_forest",
     "minecraft:mangrove_swamp",
-    "#cobblemon:is_jungle",
+	"#cobblemon:is_jungle",
     {
       "id": "#forge:is_dense",
-      "required": false
+      "required": false 
     },
     {
       "id": "#forge:is_dense/overworld",
-      "required": false
+      "required": false 
     }
   ]
 }

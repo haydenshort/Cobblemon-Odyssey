@@ -19,6 +19,34 @@
       "required": false
     },
     {
+      "id": "terralith:cave/crystal_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/deep_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/frostfire_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/mantle_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/tuff_caves",
+      "required": false
+    },
+    {
+      "id": "wythers:deep_dark_forest",
+      "required": false
+    },
+    {
+      "id": "wythers:deep_dark_incursion",
+      "required": false
+    },
+    {
       "id": "biomeswevegone:pale_bog",
       "required": false
     }

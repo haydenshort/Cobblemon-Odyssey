@@ -7,6 +7,14 @@
     {
       "id": "regions_unexplored:cold_river",
       "required": false
+    },
+    {
+      "id": "still_life:cold_deep_ocean",
+      "required": false
+    },
+    {
+      "id": "still_life:cold_shallow_ocean",
+      "required": false
     }
   ]
 }

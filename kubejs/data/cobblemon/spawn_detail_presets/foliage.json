@@ -1,8 +1,1 @@
-{
-  "condition": {
-    "neededNearbyBlocks": [
-      "#minecraft:leaves",
-      "#c:leaves"
-    ]
-  }
-}
+{"condition":{"neededNearbyBlocks":["#minecraft:leaves","#c:leaves"]}}

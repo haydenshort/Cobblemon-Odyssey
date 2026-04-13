@@ -1,11 +1,1 @@
-{
-  "condition": {
-    "canSeeSky": false,
-    "maxLight": 0
-  },
-  "anticondition": {
-    "neededBaseBlocks": [
-      "#cobblemon:natural"
-    ]
-  }
-}
+{"condition":{"canSeeSky":false,"maxLight":0},"anticondition":{"neededBaseBlocks":["#cobblemon:natural"]}}

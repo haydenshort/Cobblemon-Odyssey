@@ -1,11 +1,1 @@
-{
-  "condition": {
-    "structures": [
-      "#minecraft:ruined_portal",
-      "hopo:portalstructure"
-    ],
-    "neededNearbyBlocks": [
-      "#cobblemon:ruined_portal_blocks"
-    ]
-  }
-}
+{"condition":{"structures":["#minecraft:ruined_portal"],"neededNearbyBlocks":["ruined_portal_blocks"]}}
